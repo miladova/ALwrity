@@ -2,7 +2,7 @@
 
 **Subject:** `@destined.digital` — the profile header (name, bio, profile picture, category, links, counts, Highlights, pinned posts) and its Threads counterpart
 **Prepared:** 7 November 2026 (MYT)
-**Revisions:** 2 — 7 November 2026, client review of the live profile on a phone: avatar centring, name wrapping, bio emoji/capitalisation/content (§7, supersedes §6). **3 — 7 November 2026, challenge to the geography recommendation (§7.4): geography is conditional, not a requirement.**
+**Revisions:** 2 — 7 November 2026, client review of the live profile on a phone: avatar centring, name wrapping, bio emoji/capitalisation/content (§7, supersedes §6). **3 — 7 November 2026, geography is conditional, not a requirement (§7.4).** **4 — 7 November 2026, client decision: the bio line "marketing doesn't have to be boring or repetitive" and `(003694655-T)` are LOCKED (§7.6); all bio-replacement drafts are withdrawn.**
 **Companion to:** [`Destined-Digital-Instagram-Research.md`](Destined-Digital-Instagram-Research.md)
 **Theory basis:** MKW1120 Lectures 1–10 (uploaded PDFs), especially L9 (IMC / communication process), L6 (STP & positioning), L7 (services & brand), L5 (buyer decision process)
 
@@ -263,7 +263,7 @@ Replace the three topic tags with buyer-relevant ones (`Marketing Agency`, `Digi
 
 ---
 
-## 7. Revisions 2–3 — client review of the header (avatar, name, bio, geography)
+## 7. Revisions 2–4 — client review of the header (avatar, name, bio, geography, locked bio)
 
 Raised by the client on 7 November 2026 after looking at the **live profile on a phone**. Where the live observation conflicts with the mirror-derived caveats above, the live observation wins. Three questions, three answers.
 
@@ -306,7 +306,9 @@ Pair the chosen name with the closest preset category, e.g. **Marketing agency**
 
 > **Revision 3 (§7.4):** geography is optional. If you do not want a location cue, `Destined Digital | SME` (22) or `Destined Digital` (16) are better defaults than `| KL`. The name field is the only place a location keyword earns its keep; the bio does not need a second mention.
 
-### 7.3 The bio — yes to capitals, move or drop the teddy, and add five things
+### 7.3 The bio — capitals, the teddy, and possible additions
+
+> **SUPERSEDED IN PART BY §7.6 (Revision 4).** The client has decided to **keep** the brand line `marketing doesn’t have to be boring or repetitive` and `(003694655-T)`. The replacement bios in (e) below and in §7.4 are **withdrawn as recommendations** and retained only as reference. What follows still applies to the emoji, capitalisation and line-length questions independently.
 
 **(a) 🧸 — don't lead with it.** Three reasons:
 
@@ -316,6 +318,8 @@ Pair the chosen name with the closest preset category, e.g. **Marketing agency**
 
 **Recommendation:** remove it from the opening. Either drop it from the header entirely and keep 🧸 / 🫶🏼 as caption and Highlight flourishes, or keep **exactly one**, trailing, with spaces (Variant B). One emoji rule across Instagram and Threads.
 
+**Revision 4:** the client's pasted version of the locked bio contains **no 🧸**, so removal is taken as the working assumption (confirm before publishing).
+
 **(b) Capitals — yes, sentence case.** Capitalise the first word of each line and proper nouns (`Malaysian`, `Meta`, `SMEs`, `KL`, `Destined Digital`); keep everything else lowercase. Sentence case is the standard for social bio text ([Headline Capitalization](https://headlinecapitalization.com/guides/social-media-capitalization/)): it reads professional without turning stiff and is friendlier to screen readers. Avoid:
 
 - **Title Case** in a bio ("Marketing Doesn't Have To Be Boring") — looks corporate and breaks the relaxed voice.
@@ -324,7 +328,9 @@ Pair the chosen name with the closest preset category, e.g. **Marketing agency**
 
 Keep the deliberately lowercase voice in **captions** if the brand wants it. The header is a business card; captions are a conversation. Two registers are fine as long as each is internally consistent. Also capitalise "I" and use CamelCase for any hashtag (`#MarketingForSMEs`).
 
-**(c) What to add, in priority order.** The current bio uses **65 of 150 characters** — 85 wasted.
+**Revision 4:** the client's pasted line starts **lowercase**, so sentence case is **not applied by default**. Capitalising only would be a one-character change (`Marketing doesn’t have to be boring or repetitive`); offer it as an option, do not make it silently.
+
+**(c) What to add, in priority order** *(now optional — see §7.6)*. The current bio uses **65 of 150 characters** — 85 unused.
 
 | Priority | Add | Why / evidence |
 |---|---|---|
@@ -338,7 +344,7 @@ Keep the deliberately lowercase voice in **captions** if the brand wants it. The
 
 **(d) Line length.** The current first bio line is **51 characters**, which wraps on a phone — the same complaint as the name. Rule of thumb (not a published spec): keep each line to roughly **≤32 characters** and check on your own device, since Display Zoom / Dynamic Type changes the wrap point.
 
-**(e) Four revised bios**, all sentence case, all within 150 characters. **Revision 3:** the `· KL` in these drafts is a redundant second geography cue once line 1 says "Malaysian SMEs" — it can be deleted (§7.4 offers geography-free versions). `\n` denotes a line break; counts include line breaks.
+**(e) Four revised bios**, all sentence case, all within 150 characters. **Revision 3:** the `· KL` in these drafts is a redundant second geography cue once line 1 says "Malaysian SMEs" — it can be deleted (§7.4 offers geography-free versions). **Revision 4: withdrawn as replacements.** These are kept only to show what a full rewrite would look like; §7.6 has the additive versions that preserve the locked lines. `\n` denotes a line break; counts include line breaks.
 
 **Variant A — recommended, emoji-free header (130/150, longest line 32)**
 
@@ -382,6 +388,8 @@ Real client results ↓ · Free consult
 Variant D preserves the personality but its two 36-character lines may wrap at larger text sizes. All four deliberately retain a Malaysia/MY cue: most 2026 references say Instagram and Threads **share** one bio (one says they are separate — §9), so if it does sync, Threads must not lose its only category + geography cue. Apply the same copy and the same emoji rule to both, then verify each in-app.
 
 ### 7.4 Is geography actually required? (Revision 3)
+
+> **Revision 4 (§7.6):** the geography-free bios below are also **withdrawn as replacements**. The underlying analysis — whether a location cue belongs anywhere in the header — still stands and applies to the Name field, category label and link destinations.
 
 The client challenged the "add KL / MY" recommendation. **Short answer: no.** On review, geography was a *conditional* suggestion written as though it were a requirement. Three corrections:
 
@@ -448,11 +456,85 @@ Real results ↓ · Free consult ↓
 1. Screenshot the header on a phone; check the avatar crop (§7.1).
 2. Edit **Name** → ≤24 characters (§7.2). Add a location keyword only if local search matters (§7.4). If linked to a Facebook Page, edit the Page first.
 3. Set and show the **category** → "Marketing agency".
-4. Paste one bio variant from §7.3 or §7.4; keep `(003694655-T)` alone on the last line.
+4. **Keep the locked bio** (§7.6). Only if the client asks: take the controlled line break and/or add lines — never replace the brand line or `(003694655-T)`.
 5. Add native links: `/testimonials`, free consult, `/services`, `/whydestined`; UTM-tag them.
 6. Mirror the copy to Threads; replace the casting topic tags.
 7. Re-screenshot at default and enlarged text sizes; confirm nothing wraps unexpectedly.
 8. Track profile visits → link taps → DMs → booked consults for four weeks (Lecture 9, feedback loop).
+
+---
+
+### 7.6 Revision 4 — the client is keeping the brand line and the SSM number
+
+**Decision (7 November 2026):** the bio is **locked** as:
+
+```
+marketing doesn’t have to be boring or repetitive
+(003694655-T)
+```
+
+Both lines are treated as fixed. This is a defensible brand choice, not an oversight. The line is the most distinctive asset in the header (§4; the main report calls it "a genuinely differentiated voice"), and `(003694655-T)` is a real, low-cost trust signal. Lecture 7 slide 29 defines a brand as a perception and a **cognitive shortcut** — protecting an asset that already does that work is reasonable.
+
+**What is withdrawn:** every bio *replacement* in §6.2, §7.3(e) and §7.4. Priority #1 in §7.3(c) ("add what + for whom") and the "85 unused characters" observation in §1.5 / §5 become **observations, not recommendations**. Do not paste any of those variants over the locked lines.
+
+**Two assumptions to confirm** — the client's pasted version omitted both:
+
+- **🧸 removed.** The client previously questioned the teddy bear and pasted the line without it, so removal is the working assumption (§7.3(a)). If it stays, it goes back at the start of line 1.
+- **Lowercase kept.** The paste begins lowercase, so sentence case (§7.3(b)) is **not applied by default**. `Marketing doesn’t have to be boring or repetitive` is a one-character change, available if wanted.
+
+**One free improvement that changes no words.** The brand line is **49 characters**, which wraps on a phone — the same ragged-wrap problem as the 48-character name. Inserting the line break deliberately keeps every word and the same 63-character total, but gives three tidy lines instead of one auto-wrapped line:
+
+```
+marketing doesn’t have to be boring
+or repetitive
+(003694655-T)
+```
+
+**63/150 characters**, longest line 35. Optional and reversible.
+
+**If anything is ever added, it must be additive** — below the brand line, above the SSM number, with both locked strings intact. All three options are ≤150 characters and use the controlled break:
+
+**I — one added line (95/150):**
+
+```
+marketing doesn’t have to be boring
+or repetitive
+Real results ↓ · Free consult ↓
+(003694655-T)
+```
+
+**G — audience + proof (127/150):**
+
+```
+marketing doesn’t have to be boring
+or repetitive
+Social + content for Malaysian SMEs
+Real results ↓ · DM "AUDIT"
+(003694655-T)
+```
+
+**H — geography-free (131/150):**
+
+```
+marketing doesn’t have to be boring
+or repetitive
+Social, content & Meta ads for SMEs
+Real results ↓ · Free consult ↓
+(003694655-T)
+```
+
+**Where the selling goes instead.** Keeping the bio as a pure brand statement does not close the conversion gap — it relocates the work to header real estate that costs **no bio characters**:
+
+| Surface | Job now | Section |
+|---|---|---|
+| **Name field** (≤24 chars, searchable) | Carry the category / keyword the bio omits | §7.2 (still open) |
+| **Category label** | "Marketing agency" in grey, free, separate field | §7.2 |
+| **5 native links** | `/testimonials`, free consult, `/services`, `/whydestined` — proof and CTA without touching the bio | §6.3 |
+| **Highlights** | `Results`, `Start Here`, `Services`, `FAQ` | §6.4 |
+| **Pinned trio** | Proof / Offer / Start Here funnel | §6.5 |
+| **Caption opening lines** | Services, client type, offer | Main report |
+
+**Net effect:** the header keeps its personality and its trust signal; discovery and proof move to the name, links, Highlights and pinned posts. The only remaining bio decisions are (1) whether to take the controlled line break and (2) whether 🧸 stays.
 
 ---
 
@@ -501,4 +583,4 @@ Real results ↓ · Free consult ↓
 
 ---
 
-*Desk research from publicly accessible sources, plus the client's own observation of the live profile on a phone (§7). Character counts were computed against the exact strings shown. All header rewrites are proposals, not observed changes.*
+*Desk research from publicly accessible sources, plus the client's own observation of the live profile on a phone and their editorial decisions (§7, Revisions 2–4). Character counts were computed against the exact strings shown. All header rewrites are proposals, not observed changes; the locked bio in §7.6 is a client decision.*
