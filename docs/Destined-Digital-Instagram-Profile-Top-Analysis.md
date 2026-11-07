@@ -2,7 +2,7 @@
 
 **Subject:** `@destined.digital` — the profile header (name, bio, profile picture, category, links, counts, Highlights, pinned posts) and its Threads counterpart
 **Prepared:** 7 November 2026 (MYT)
-**Revisions:** 2 — 7 November 2026, client review of the live profile on a phone: avatar centring, name wrapping, bio emoji/capitalisation/content (§7, supersedes §6). **3 — 7 November 2026, geography is conditional, not a requirement (§7.4).** **4 — 7 November 2026, client decision: the bio line "marketing doesn't have to be boring or repetitive" and `(003694655-T)` are LOCKED (§7.6); all bio-replacement drafts are withdrawn.** **5 — 7 November 2026, FINAL BIO ANSWER in §7.7: keep the line word-for-word, add one initial capital, remove 🧸, add nothing else.** **6 — 8 November 2026, FINAL HIGHLIGHTS ANSWER in §7.8: six-Highlight architecture, ordering mechanics, cover specs.**
+**Revisions:** 2 — 7 November 2026, client review of the live profile on a phone: avatar centring, name wrapping, bio emoji/capitalisation/content (§7, supersedes §6). **3 — 7 November 2026, geography is conditional, not a requirement (§7.4).** **4 — 7 November 2026, client decision: the bio line "marketing doesn't have to be boring or repetitive" and `(003694655-T)` are LOCKED (§7.6); all bio-replacement drafts are withdrawn.** **5 — 7 November 2026, FINAL BIO ANSWER in §7.7: keep the line word-for-word, add one initial capital, remove 🧸, add nothing else.** **6 — 8 November 2026, HIGHLIGHTS ANSWER in §7.8: architecture, ordering mechanics, cover specs.** **7 — 8 November 2026, client spots two overlaps; §7.9 resolves them and reduces the final set to FIVE Highlights.**
 **Companion to:** [`Destined-Digital-Instagram-Research.md`](Destined-Digital-Instagram-Research.md)
 **Theory basis:** MKW1120 Lectures 1–10 (uploaded PDFs), especially L9 (IMC / communication process), L6 (STP & positioning), L7 (services & brand), L5 (buyer decision process)
 
@@ -242,7 +242,7 @@ All three add: **who** (Malaysian SMEs), **what** (social + content + ads), **pr
 Add UTM tags per slot so enquiries can be attributed (L4 MIS). Clean the `/personal-branding` placeholders before linking to it.
 
 ### 6.4 Highlight architecture — 6 covers, matched to the dark wordmark avatar
-> **Revision 6 (§7.8) confirms this set as final** and adds the ordering mechanics, the platform specs and the content rules. Use §7.8 for implementation.
+> **Superseded by §7.9 (Revision 7).** The six-label set below contains two overlaps; the final architecture is **five** Highlights. §7.8 still holds the ordering mechanics, cover specs and content rules.
 
 | Highlight | Content (already owned) | Buyer question answered |
 |---|---|---|
@@ -265,7 +265,7 @@ Replace the three topic tags with buyer-relevant ones (`Marketing Agency`, `Digi
 
 ---
 
-## 7. Revisions 2–6 — client review of the header (avatar, name, bio, geography, final bio, Highlights)
+## 7. Revisions 2–7 — client review of the header (avatar, name, bio, geography, final bio, Highlights)
 
 Raised by the client on 7 November 2026 after looking at the **live profile on a phone**. Where the live observation conflicts with the mirror-derived caveats above, the live observation wins. Three questions, three answers.
 
@@ -532,7 +532,7 @@ Real results ↓ · Free consult ↓
 | **Name field** (≤24 chars, searchable) | Carry the category / keyword the bio omits | §7.2 (still open) |
 | **Category label** | "Marketing agency" in grey, free, separate field | §7.2 |
 | **5 native links** | `/testimonials`, free consult, `/services`, `/whydestined` — proof and CTA without touching the bio | §6.3 |
-| **Highlights** | `Results`, `Start Here`, `Services`, `FAQ` | §6.4 |
+| **Highlights** | `Start Here`, `Results`, `Services`, `Why Us`, `FAQ` | §7.9 |
 | **Pinned trio** | Proof / Offer / Start Here funnel | §6.5 |
 | **Caption opening lines** | Services, client type, offer | Main report |
 
@@ -570,14 +570,14 @@ If the client wants it **byte-for-byte identical** to today's bio, the only thin
 1. **Name** — `Destined Digital | SME` (22) or `Destined Digital` (16), ≤24 characters (§7.2, §7.4).
 2. **Category label** — "Marketing agency", free, separate field (§7.2).
 3. **5 native links** — `/testimonials` first, then free consult, `/services`, `/whydestined`, `/articles` (§6.3). **This is where the proof goes.**
-4. **Highlights** — the six-Highlight architecture in §6.4, finalised in **§7.8**.
+4. **Highlights** — the **five**-Highlight architecture finalised in **§7.9** (§6.4 / §7.8 are superseded).
 5. **Pinned trio** — Proof / Offer / Start Here (§6.5).
 
 Everything else in the header analysis is unchanged.
 
 ---
 
-### 7.8 Final Highlights answer (Revision 6) — "what do we think of the highlights?"
+### 7.8 Highlights architecture (Revision 6) — superseded in part by §7.9
 
 **Honest starting point: I still cannot see them.** Four independent mirror routes were tried for this account (Imginn, Imgsed, Pixnoy, plus blocked story viewers). Every Highlights route falls back to the posts page or returns empty, and "No Stories" refers to active 24-hour Stories, not saved Highlights. **Absence of mirror data is not evidence of absence on the profile.** So what follows is a recommendation, not an audit of what is currently live — see the last paragraph for what I need from you.
 
@@ -591,7 +591,9 @@ Everything else in the header analysis is unchanged.
 | The row is ordered by **most recently updated**, newest at the far left, and only the **first 4–5 are visible** without scrolling on most phones. There is no drag-to-reorder | Order is a design decision that must be implemented by editing in reverse (below) |
 | Covers use the **1080×1920** Story canvas, but only a circle from the centre ~1080×1080 shows; keep the icon inside a centred **600–720 px** safe zone; renders at roughly 60 pt / 161 px | One icon per cover, no thin lines, no small type, no busy photos |
 
-**Final architecture — 6 Highlights, in this left-to-right order:**
+> **SUPERSEDED BY §7.9 (Revision 7).** The client identified two overlaps in this six-label set. Keep this table for the ordering mechanics and rationale below, but use the **five-Highlight** set in §7.9 as the final answer.
+
+**Original architecture — 6 Highlights, in this left-to-right order:**
 
 | # | Label | Chars | Content (all already owned) | Buyer question |
 |---|---|---|---|---|
@@ -604,7 +606,7 @@ Everything else in the header analysis is unchanged.
 
 This is a funnel, not a category list: awareness → proof → offer → quality → trust → action (Lecture 9, AIDA / 5As). `Results` sits at **#2** rather than later because proof is the single biggest gap in the whole account (§0, §1.8) and `/testimonials` is otherwise undiscoverable; putting it inside the visible first four is the entire point. If you prefer a services-first journey, swap #2 and #3 — but keep both in the first four.
 
-**To achieve that order in-app:** edit in **reverse** (`FAQ` → `Why Us` → `Our Work` → `Services` → `Results` → `Start Here` last), because each edit bumps that Highlight to the front. Adding then removing a single Story counts as an edit. This is the only way to control the row.
+**To achieve that order in-app:** edit in **reverse** (`FAQ` → `Why Us` → `Our Work` → `Services` → `Results` → `Start Here` last), because each edit bumps that Highlight to the front. *(For the final five-label set, see the reverse order in §7.9.)* Adding then removing a single Story counts as an edit. This is the only way to control the row.
 
 **Covers — one system, not six illustrations.** Match the dark wordmark avatar: solid near-black field, white label in the same type family, and **one small 🧸 accent** to carry the playfulness that came out of the bio (§7.7). One icon per cover; no stock photos, no busy shoot stills, no hairlines, no emoji-only covers. Export 1080×1920 with the icon centred in a 600–720 px circle and check each at thumbnail size before saving. This is also where the teddy bear can legitimately live now.
 
@@ -622,6 +624,55 @@ This is a funnel, not a category list: awareness → proof → offer → quality
 
 ---
 
+### 7.9 Revision 7 — the two overlaps in §7.8, resolved
+
+The client asked: (1) what is the difference between the "5 services" in `Start Here` and the whole `Services` Highlight, and (2) what is the difference between `Results` and `Our Work`. **Both overlaps are real.** They come from one design error in §7.8: Highlights were treated as **content buckets** ("here is all the material we own") instead of **one buyer question each** ("here is the one thing this visitor needs to decide"). A bucket invites duplication; a question forbids it.
+
+#### Q1 — `Start Here` vs `Services`
+
+| | `Start Here` | `Services` |
+|---|---|---|
+| **Job** | Orientation / **routing** | The **offer / catalogue** |
+| **Question** | "Is this for me, and where do I go?" | "What exactly do I get if I pay?" |
+| **Length** | 3–4 frames, ~30 seconds | 6–8 frames, browsed |
+| **Contains** | One line on who you help, one line on positioning, a **map of the other four Highlights**, one CTA | One frame per service (5), what is included, deliverables, entry price, how to book |
+| **Does NOT contain** | The five-service list, deliverables, prices | Founder story, results, portfolio |
+
+`Start Here` is the **reception desk / table of contents**; `Services` is the **price list / product pages**. The §7.8 row that put "the 5 services" into `Start Here` was simply wrong — delete it. A *category* phrase ("social, content & ads for Malaysian SMEs") is fine because it says what kind of firm this is; a five-item list is duplication.
+
+#### Q2 — `Results` vs `Our Work`
+
+| | `Results` | `Our Work` |
+|---|---|---|
+| **Job** | Evidence of **effect** | Evidence of **taste and craft** |
+| **Question** | "Does it work?" | "Do I like what they make?" |
+| **Content** | `/testimonials` growth screenshots, before/after numbers, client quotes, leads / views / engagement | Product shoot stills, Reel covers, carousel designs, set styling |
+| **Test** | **Every frame carries a number or a quote** | **No frame carries a number** |
+
+`Results` is the **scoreboard**; `Our Work` is the **portfolio**. Hard rule: **no asset appears in both**. If a shoot image lives in `Our Work`, the matching `Results` frame must be the metric that came out of that shoot, not the same photograph.
+
+#### The simpler fix — recommended: merge and drop to five
+
+Maintaining that distinction takes ongoing discipline, and the **grid already functions as the portfolio**. For a small team the better answer is to remove the redundancy rather than police it:
+
+| # | Label | Exclusive job | Explicitly NOT here |
+|---|---|---|---|
+| 1 | `Start Here` | Who we help, one-line positioning, map to the other four, CTA | No service list, no prices |
+| 2 | `Results` | **Case studies as pairs** — the creative, then its number / client quote | No standalone pretty shots with no number |
+| 3 | `Services` | The 5 service frames, deliverables, entry price, how to book | No founder story, no results |
+| 4 | `Why Us` | Founder story, `/whydestined`, Sunway lecture, team | No services, no metrics |
+| 5 | `FAQ` | Onboarding, timelines, response time, "outside KL?", consult process | No offers |
+
+`Our Work` is **dropped** as a standalone Highlight. The grid and the pinned trio carry the portfolio, and the strongest shoot stills now live inside `Results` as a "here is the work / here is what it did" pair — which is also a stronger proof format than a screenshot alone. The freed slot goes to `Why Us` and `FAQ`, the two buyer questions no other surface answers.
+
+**One rule for all five:** each Highlight answers exactly one buyer question, and **no frame is duplicated** between them. If a piece of content cannot be assigned to exactly one Highlight, it belongs in the feed, not in the row.
+
+**Net effect on §7.8:** the six-label table is superseded; the ordering mechanics, cover system and content rules all still apply. To get the final order, edit in reverse: `FAQ` → `Why Us` → `Services` → `Results` → `Start Here` last.
+
+*Revision 7 is an internal consistency correction to the recommendation; no new external sources were used.*
+
+---
+
 ## 8. Verify in a logged-in session before finalising
 
 - The **exact live name field** and whether "Full-Service Marketing Agency" is the name or the business category — plus whether it is inherited from a linked Facebook Page.
@@ -629,7 +680,7 @@ This is a funnel, not a category list: awareness → proof → offer → quality
 - The **exact live bio** — and whether Instagram and Threads really differ (this determines whether the mirrors are stale).
 - **Business category line** and which **contact/action buttons** are enabled.
 - **All bio links** and their destinations; whether any link aggregator is used.
-- **Highlight count, labels, order and covers**; whether any Highlight is a "Results" or "Start Here" set; whether any contains casting/hiring or expired promos (§7.8).
+- **Highlight count, labels, order and covers**; whether any Highlight is a "Results" or "Start Here" set; whether any contains casting/hiring or expired promos (§7.8, §7.9).
 - Whether the first three grid posts are **pinned**.
 - **Post count** and any active Stories.
 - Profile picture legibility at thumbnail size.
@@ -673,4 +724,4 @@ This is a funnel, not a category list: awareness → proof → offer → quality
 
 ---
 
-*Desk research from publicly accessible sources, plus the client's own observation of the live profile on a phone and their editorial decisions (§7, Revisions 2–6). Character counts were computed against the exact strings shown. All header rewrites are proposals, not observed changes; the locked bio in §7.6 is a client decision.*
+*Desk research from publicly accessible sources, plus the client's own observation of the live profile on a phone and their editorial decisions (§7, Revisions 2–7). Character counts were computed against the exact strings shown. All header rewrites are proposals, not observed changes; the locked bio in §7.6 is a client decision.*
