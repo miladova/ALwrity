@@ -7,7 +7,7 @@
 
 > **Repository note:** the ten lecture PDFs and their extracted text are local working files under `workspace/uploads/MKW1120/` (gitignored). They are not part of this repository; only this report is committed.
 
-**Companion deep-dive:** [`Destined-Digital-Instagram-Profile-Top-Analysis.md`](Destined-Digital-Instagram-Profile-Top-Analysis.md) — a focused teardown of the profile header (name, bio, avatar, links, Highlights, pinned posts).
+**Companion deep-dive:** [`Destined-Digital-Instagram-Profile-Top-Analysis.md`](Destined-Digital-Instagram-Profile-Top-Analysis.md) — a focused teardown of the profile header (name, bio, avatar, links, Highlights, pinned posts). **Revision 2** (§7 of that document) adds a client-reviewed answer on avatar centring, a ≤24-character name shortlist and sentence-case bio rewrites.
 
 ---
 
@@ -205,7 +205,7 @@ The following could not be confirmed from public mirrors and should be checked b
 - Whether any **paid promotion / Meta Ad Library** activity exists, and whether Reels views substantially exceed likes (view counts were not available on the mirrors).
 - Posts published **after 29 Sep 2026**, including the "October dump", skincare shoot and Fupi.co content indexed on the website.
 - Whether casting calls are being cross-posted to the Instagram feed or confined to Threads/Stories.
-- The exact **name field** (a 48-character string appears in mirrors, which exceeds the documented 30-character limit), whether the Instagram and Threads **bios** really differ, and which **contact/action buttons** are enabled. These are examined in detail in the [companion profile-top teardown](Destined-Digital-Instagram-Profile-Top-Analysis.md).
+- The exact **name field** (mirrors show a 48-character string; the client confirms it renders and wraps to two lines on a phone). Published 2026 limits conflict — most say 30 characters for the display name, one says 64, and a Facebook-Page-linked business account can inherit a longer Page name — so treat this as a mobile-layout problem, not a limit violation. Also verify whether the Instagram and Threads **bios** really differ and which **contact/action buttons** are enabled. These are examined in detail in the [companion profile-top teardown](Destined-Digital-Instagram-Profile-Top-Analysis.md), especially its Revision 2.
 
 ---
 

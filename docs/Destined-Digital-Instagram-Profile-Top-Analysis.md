@@ -2,6 +2,7 @@
 
 **Subject:** `@destined.digital` — the profile header (name, bio, profile picture, category, links, counts, Highlights, pinned posts) and its Threads counterpart
 **Prepared:** 7 November 2026 (MYT)
+**Revision:** 2 — 7 November 2026. Client review of the live profile on a phone: avatar centring, name wrapping, bio emoji/capitalisation/content. See **§7**, which supersedes §6 wherever the two differ.
 **Companion to:** [`Destined-Digital-Instagram-Research.md`](Destined-Digital-Instagram-Research.md)
 **Theory basis:** MKW1120 Lectures 1–10 (uploaded PDFs), especially L9 (IMC / communication process), L6 (STP & positioning), L7 (services & brand), L5 (buyer decision process)
 
@@ -13,8 +14,8 @@ This is a narrow, deep pass on the **first screen** a visitor sees. Instagram's 
 
 | Header element | Observed? | Confidence |
 |---|---|---|
-| Profile picture | Yes (CDN image + automated description) | Medium |
-| Display name / handle | Yes, but with a length anomaly (§1.2) | Medium |
+| Profile picture | Yes (CDN image + automated description); **centring unverifiable** | Medium / low for alignment |
+| Display name / handle | Yes; long name **confirmed live** and wrapping on mobile (§1.2, §7.2) | Client-confirmed |
 | Bio text | Yes — **two different versions** across surfaces (§1.5) | Medium |
 | Follower / following counts | Yes (396 / 14) | Medium |
 | Business category, contact buttons, post count | **No** | Unverifiable publicly |
@@ -37,25 +38,27 @@ An automated read of the CDN asset describes: *"a dark background with the text 
 - At 150 px in a circular crop, the smaller "digital" line is likely illegible; the asset is doing less work than it could.
 - It is a **logo, not a person**. For a services firm whose entire positioning is "human, not robotic" and whose best-performing posts are founder-led (55–81 likes vs 8–20 for corporate posts), a wordmark forfeits the single cheapest trust cue available. Lecture 7 slide 24: services are inseparable from their providers, so *people* are part of the physical evidence.
 
+**Revision 2 (§7.1):** the client says the picture is great and wants to keep it. The "logo, not a person" suggestion is therefore **withdrawn as a header change** — put faces into pinned posts, Highlight covers and founder-led Reels instead. The open question about the picture is now **crop and optical centring**, which cannot be settled from an automated image description.
+
 ### 1.2 Display name — the 48-character anomaly
 Both mirrors and the [Threads page title](https://r.jina.ai/https://www.threads.com/@destined.digital) show:
 
 > **Destined Digital | Full-Service Marketing Agency**
 
-That string is **48 characters**. Published 2026 references put the Instagram **name field at 30 characters** and the bio at 150 ([1](https://replug.io/blog/instagram-bio-character-limit), [2](https://wordscalculator.net/blog/instagram-character-limits), [3](https://taskant.com/instagram-character-limit/)); a Threads-specific reference also says 30 for the name ([3](https://momentumhive.app/blog/threads-character-limit-2026)). A 48-character name should therefore be impossible on either platform.
+That string is **48 characters**. Most published 2026 references put the Instagram **name field at 30 characters** and the bio at 150 ([1](https://replug.io/blog/instagram-bio-character-limit), [2](https://wordscalculator.net/blog/instagram-character-limits), [3](https://taskant.com/instagram-character-limit/), [4](https://www.outfy.com/blog/instagram-character-limit/), [5](https://www.fuxux.com/blog/instagram-character-limit)); a Threads-specific reference also says 30 ([3](https://momentumhive.app/blog/threads-character-limit-2026)). But one 2026 guide gives the display name **64 characters** ([Linkship](https://linkship.cc/en/blog/instagram-character-limit)), and a business account linked to a Facebook Page can inherit a longer Page name ([Flock Social](https://flocksocial.com/blog/how-to-change-instagram-name)). **The sources conflict; the live app is authoritative.**
 
-Three plausible explanations, all worth resolving in-app:
-1. **Mirror concatenation** — the string may be `name` + `" | "` + `business category` (e.g. "Destined Digital" + "Full-Service Marketing Agency"), which would mean the real name field is only 16 characters and carries **no searchable keyword at all**.
-2. **A Threads-only longer name** or a legacy/expanded limit not captured by the reference guides.
-3. **Stale header data** in the mirrors.
+**Revision 2 (§7.2):** the client confirms the long name **does render on a phone and wraps to two lines**, looking clustered. So treat it as a real, live field — not a mirror artefact — and as a **mobile-layout and discoverability problem**, not a limit violation. Three structures still need resolving in-app, and each has a different fix path:
+1. **All 48 characters in the Name field** → cut to ≤24 and move the descriptor into the separate category label.
+2. **Mirror concatenation** — `name` + `" | "` + `business category` (e.g. "Destined Digital" + "Full-Service Marketing Agency"), meaning the real Name field is only 16 characters and carries **no searchable keyword at all**.
+3. **A longer name inherited from a linked Facebook Page** → rename the Page first, then re-sync, or Instagram may overwrite the edit.
 
-**Why it matters either way:** the Instagram name field is indexed by search ([1](https://replug.io/blog/instagram-bio-character-limit), [3](https://taskant.com/instagram-character-limit/), [5](https://boldlytype.com/blog/instagram-bio-character-limit)). If the 48-char string is real, it is over-long, generic ("Full-Service Marketing Agency" describes thousands of agencies) and will truncate in notifications/tagging surfaces. If it is name + category, they are wasting the one searchable 30-character field on a bare brand name. Neither version contains a **location or niche keyword** ("KL", "Malaysia", "SME", "social media").
+**Why it matters either way:** the Instagram name field is indexed by search ([1](https://replug.io/blog/instagram-bio-character-limit), [3](https://taskant.com/instagram-character-limit/), [5](https://boldlytype.com/blog/instagram-bio-character-limit)). If the 48-char string is real, it is over-long, wraps on a phone, generic ("Full-Service Marketing Agency" describes thousands of agencies) and will truncate in notifications/tagging surfaces. If it is name + category, they are wasting the one searchable 30-character field on a bare brand name. Neither version contains a **location or niche keyword** ("KL", "Malaysia", "SME", "social media").
 
 ### 1.3 Username
 `@destined.digital` — short, clean, brand-matched, and consistent across Instagram, Threads, TikTok and the website. This is the strongest element of the header. It also means the brand owns the `.digital` qualifier, which reads as a category cue. **Keep.**
 
 ### 1.4 Category label and contact buttons
-Not visible in any public mirror. If this is a Professional/Business account (the SSM number and consultation funnel suggest it is), Instagram would show a grey category line under the name and action buttons such as *Email / Call / WhatsApp / Book*. These are free, always-visible conversion real estate at the very top of the profile — and they are unaccounted for in the public record. **Verify in-app** (§7).
+Not visible in any public mirror. If this is a Professional/Business account (the SSM number and consultation funnel suggest it is), Instagram would show a grey category line under the name and action buttons such as *Email / Call / WhatsApp / Book*. These are free, always-visible conversion real estate at the very top of the profile — and they are unaccounted for in the public record. **Verify in-app** (§8).
 
 ### 1.5 Bio — two different versions, and 57% of the space unused
 
@@ -190,6 +193,8 @@ Lecture 9 slide 22 defines IMC as integrating channels to deliver a **"clear, co
 ## 6. Rewrite pack (all within published platform limits)
 
 ### 6.1 Name field — ≤30 characters, searchable
+> **Revision 2 (§7.2) narrows this shortlist to ≤24 characters** to guarantee a single line on a phone. The 28–30 character options below are legal but may wrap at larger text sizes.
+
 | Option | Chars | Note |
 |---|---:|---|
 | `Destined \| KL Marketing Agency` | 30 | Maximum keyword density; drops "Digital" |
@@ -198,6 +203,8 @@ Lecture 9 slide 22 defines IMC as integrating channels to deliver a **"clear, co
 | `Destined Digital \| KL Agency` | 28 | Most conservative |
 
 ### 6.2 Bio — three options, all ≤150 characters
+> **Revision 2 (§7.3) revises these** for sentence case, no leading emoji, ≤32-character lines and a proof/CTA link. Use §7.3 as the current rewrite pack.
+
 
 **A — keeps the 🧸 voice (137/150)**
 ```
@@ -256,9 +263,139 @@ Replace the three topic tags with buyer-relevant ones (`Marketing Agency`, `Digi
 
 ---
 
-## 7. Verify in a logged-in session before finalising
+## 7. Revision 2 — client review of the avatar, name and bio
 
-- The **exact live name field** and whether "Full-Service Marketing Agency" is the name or the business category.
+Raised by the client on 7 November 2026 after looking at the **live profile on a phone**. Where the live observation conflicts with the mirror-derived caveats above, the live observation wins. Three questions, three answers.
+
+### 7.1 Is the profile picture centred? — cannot be confirmed from here; keep the artwork
+
+**Short answer: I can't verify it, and you shouldn't change a picture you like on my guess.** Direct fetches of the Instagram and Pixnoy image CDNs are blocked in this environment (`SSL_ERROR_SYSCALL`), so the full-size asset URL recovered from the [Pixnoy DP page](https://www.pixnoy.com/dp/destined.digital/) could not be downloaded. The only evidence is an *automated alt-text description* of the CDN file ("dark background with DESTINED digital written in stylized font") — it says nothing about alignment. So this answer is a check you can run in 60 seconds, not a verdict.
+
+1. **Geometric vs optical centre.** Instagram crops every square upload to a circle. A file whose bounding box is mathematically centred can still *look* off: a two-line lockup with a heavy "DESTINED" and a small "digital" underneath carries most of its ink above the midline, and if the small line is right-aligned the mass also shifts left. **Judge the ink, not the canvas.**
+2. **Safe area.** Keep the lockup inside the inner ~80% of the square; anything near a corner is cut by the circular mask. Upload at 1080×1080 (or at least 320×320) and position it manually rather than letting the app auto-crop.
+3. **The wrap illusion — most likely culprit.** Screenshot the profile at default text size, draw a vertical line through the middle of the circular avatar, and compare left/right whitespace, then top/bottom. Repeat at a larger text size / Display Zoom. With a 48-character name wrapping to two lines immediately beside a two-line wordmark and a two-line bio, the whole ~110 px band reads as crowded. **Fixing §7.2 and §7.3 will make the avatar look more centred even if the file never changes.**
+4. **Thumbnail check.** The same file renders at roughly 32–40 px in DMs, comments and search results. If "digital" becomes a smudge there, create a compact monogram variant for small placements — but keep the wordmark on the profile.
+5. **Don't bake a ring into the file.** Instagram adds its own story ring/gradient; a drawn border creates a false off-centre impression.
+
+**Verdict: keep it.** If the phone check does show an offset, re-export with the *optical* centre at 50/50 and ~10–12% padding. That is a five-minute asset fix, not a redesign.
+
+### 7.2 The name — confirmed too long; shorten to ≤24 and let the category do the rest
+
+The client confirms **"Full-Service Marketing Agency" does not fit on one line on a phone and looks clustered**. That settles the §1.2 anomaly: the string is live, not a mirror artefact, and the problem is **mobile layout plus wasted search real estate** — not a rule violation. 2026 sources disagree on the display-name ceiling (30 vs 64 characters), and a Facebook-Page-linked business account can inherit a longer Page name. Whichever applies, 48 characters is legal on this account and simply too wide.
+
+**Two likely structures, one fix:**
+
+| If... | Do this |
+|---|---|
+| All 48 characters sit in the **Name** field | Cut to ≤24 chars and move "Marketing agency" into the **category label**. The category is a separate field, costs no Name characters, appears in smaller grey text on its own line, and can be shown/hidden under *Edit profile → Profile display* ([Sked Social](https://skedsocial.com/blog/anatomy-of-a-perfect-instagram-business-bio-a-complete-guide)). |
+| "Full-Service Marketing Agency" is already the **category** and the mirrors joined it to the name | The real Name field may be just `Destined Digital` (16 chars) with no searchable keyword. Rewrite the Name field; keep the category. |
+| The long name comes from a **linked Facebook Page** | Rename the Page first and re-sync, or Instagram may overwrite the edit ([Flock Social](https://flocksocial.com/blog/how-to-change-instagram-name)). Instagram may also rate-limit repeated name changes ([Taskant](https://taskant.com/instagram-character-limit/)), so decide once. |
+
+**Why ≤24, not 30:** 30 is the *field* ceiling, not a one-line guarantee. Around 24 characters is the practical single-line width on a phone at default/larger text sizes. Also, "Full-Service" is not a term a buyer types into search, and "Agency" is a category — don't spend the bold line on either. The Name field is searchable, so use it for brand + one keyword a buyer would actually type.
+
+| Option | Chars | Note |
+|---|---|---|
+| `Destined Digital \| KL` | 21 | **Recommended** — full brand + local keyword |
+| `Destined Digital \| MY` | 21 | Same, national instead of city |
+| `Destined Digital \| SME` | 22 | Audience instead of place |
+| `Destined \| KL Agency` | 20 | Shortest with a category word; drops "Digital" |
+| `Destined \| KL Marketing` | 23 | Strongest keyword; drops "Digital" |
+| `Destined Digital` | 16 | Cleanest; wastes the searchable field |
+
+Pair the chosen name with the closest preset category, e.g. **Marketing agency**. The 28–30 character options in §6.1 remain legal but may wrap on smaller phones; treat the ≤24 set above as the final shortlist.
+
+### 7.3 The bio — yes to capitals, move or drop the teddy, and add five things
+
+**(a) 🧸 — don't lead with it.** Three reasons:
+
+- It occupies the **first-character slot**, the highest-value real estate in the whole header. Right now the first thing a visitor reads is a toy, not a service.
+- It reads as nursery/cosy/childlike, which sits awkwardly beside "Full-Service", "Meta ads", "strategy" and "P&L" when asking an SME to trust a budget.
+- Screen readers announce emoji by name ("teddy bear"); accessibility guidance is to use them sparingly, **at the end of a sentence**, with a space either side, and never as a substitute for words ([Zelst](https://www.zelst.io/blog/how-to-improve-your-business-instagram-accessibility-for-visually-impaired-users/), [Accessibility.com](https://www.accessibility.com/blog/making-hashtags-and-emojis-digitally-accessible), [Texas Tech](https://www.ttu.edu/accessibility/digital-accessibility/accessibility-topics/social.php)). It also clashes with Threads' 💌✨ — two emoji systems for one brand.
+
+**Recommendation:** remove it from the opening. Either drop it from the header entirely and keep 🧸 / 🫶🏼 as caption and Highlight flourishes, or keep **exactly one**, trailing, with spaces (Variant B). One emoji rule across Instagram and Threads.
+
+**(b) Capitals — yes, sentence case.** Capitalise the first word of each line and proper nouns (`Malaysian`, `Meta`, `SMEs`, `KL`, `Destined Digital`); keep everything else lowercase. Sentence case is the standard for social bio text ([Headline Capitalization](https://headlinecapitalization.com/guides/social-media-capitalization/)): it reads professional without turning stiff and is friendlier to screen readers. Avoid:
+
+- **Title Case** in a bio ("Marketing Doesn't Have To Be Boring") — looks corporate and breaks the relaxed voice.
+- **ALL CAPS** — reads as shouting.
+- **Mixed rules across lines** — inconsistency, not lowercase itself, is what reads as unprofessional.
+
+Keep the deliberately lowercase voice in **captions** if the brand wants it. The header is a business card; captions are a conversation. Two registers are fine as long as each is internally consistent. Also capitalise "I" and use CamelCase for any hashtag (`#MarketingForSMEs`).
+
+**(c) What to add, in priority order.** The current bio uses **65 of 150 characters** — 85 wasted.
+
+| Priority | Add | Why / evidence |
+|---|---|---|
+| 1 | **What + for whom** — "Social + content for Malaysian SMEs" | Currently absent. Their own captions use `#MarketingForSMEs`, `#BusinessOwnerMY`, and F&B / retail / education / lifestyle clients |
+| 2 | **Geography** — "KL" or "MY" | Threads bio has it, Instagram does not; site metadata says `MY` / `Asia/Kuala_Lumpur` |
+| 3 | **Proof pointer** — "Real client results ↓" → [`/testimonials`](https://www.destined-digital.com/testimonials) | The single biggest conversion gap (§0) |
+| 4 | **One CTA with a mechanism** — `DM "AUDIT"` or "Free 30-min consult ↓" | [`/whydestined`](https://www.destined-digital.com/whydestined) already offers "30 Minutes. No Strings Attached"; a keyword is easier to act on than "DM us" |
+| 5 | **Optional qualifier** — "Packages from RM1,500" | Only if that entry package is still current: the figure comes from a podcast clip, not a live rate card. Verify before publishing |
+
+**Keep** `(003694655-T)` — a real SSM trust signal — but on the last line by itself. **Don't add** hashtags, more emojis, a second @handle, or "link in bio 👇" when Instagram supports up to **5 native links** in their own field; links do not consume the 150 characters ([Fuxux](https://www.fuxux.com/blog/instagram-character-limit), [Sked Social](https://skedsocial.com/blog/anatomy-of-a-perfect-instagram-business-bio-a-complete-guide)).
+
+**(d) Line length.** The current first bio line is **51 characters**, which wraps on a phone — the same complaint as the name. Rule of thumb (not a published spec): keep each line to roughly **≤32 characters** and check on your own device, since Display Zoom / Dynamic Type changes the wrap point.
+
+**(e) Four revised bios**, all sentence case, all within 150 characters. `\n` denotes a line break; counts include line breaks.
+
+**Variant A — recommended, emoji-free header (130/150, longest line 32)**
+
+```
+Marketing for Malaysian SMEs.
+Social, content & Meta ads · KL
+Real client results ↓
+DM "AUDIT" · Free 30-min consult
+(003694655-T)
+```
+
+**Variant B — keeps exactly one 🧸, trailing (125/150, longest line 31)**
+
+```
+Marketing for Malaysian SMEs.
+Social, content & Meta ads · KL
+Real client results ↓
+DM "AUDIT" · Free consult 🧸
+(003694655-T)
+```
+
+**Variant C — adds the price qualifier (130/150, longest line 32)**
+
+```
+Marketing for Malaysian SMEs.
+Strategy, shoots & Meta ads · KL
+Packages from RM1,500
+Real results ↓ · Free consult ↓
+(003694655-T)
+```
+
+**Variant D — minimal change, keeps the original voice line (124/150, 4 lines)**
+
+```
+Marketing doesn't have to be boring.
+Social + content for Malaysian SMEs.
+Real client results ↓ · Free consult
+(003694655-T)
+```
+
+Variant D preserves the personality but its two 36-character lines may wrap at larger text sizes. All four deliberately retain a Malaysia/MY cue: most 2026 references say Instagram and Threads **share** one bio (one says they are separate — §9), so if it does sync, Threads must not lose its only category + geography cue. Apply the same copy and the same emoji rule to both, then verify each in-app.
+
+### 7.4 Do it in one pass
+
+1. Screenshot the header on a phone; check the avatar crop (§7.1).
+2. Edit **Name** → ≤24 characters (§7.2). If linked to a Facebook Page, edit the Page first.
+3. Set and show the **category** → "Marketing agency".
+4. Paste one bio variant; keep `(003694655-T)` alone on the last line.
+5. Add native links: `/testimonials`, free consult, `/services`, `/whydestined`; UTM-tag them.
+6. Mirror the copy to Threads; replace the casting topic tags.
+7. Re-screenshot at default and enlarged text sizes; confirm nothing wraps unexpectedly.
+8. Track profile visits → link taps → DMs → booked consults for four weeks (Lecture 9, feedback loop).
+
+---
+
+## 8. Verify in a logged-in session before finalising
+
+- The **exact live name field** and whether "Full-Service Marketing Agency" is the name or the business category — plus whether it is inherited from a linked Facebook Page.
+- **Avatar optical centring** in the circular crop at default and enlarged text sizes, and legibility at thumbnail size.
 - The **exact live bio** — and whether Instagram and Threads really differ (this determines whether the mirrors are stale).
 - **Business category line** and which **contact/action buttons** are enabled.
 - **All bio links** and their destinations; whether any link aggregator is used.
@@ -270,7 +407,7 @@ Replace the three topic tags with buyer-relevant ones (`Marketing Agency`, `Digi
 
 ---
 
-## 8. Sources
+## 9. Sources
 
 **Profile surfaces**
 - [Imginn profile](https://imginn.com/destined.digital/) · [Pixnoy profile](https://www.pixnoy.com/profile/destined.digital/) · [Pixnoy DP](https://www.pixnoy.com/dp/destined.digital/) · [Imginn Stories](https://imginn.com/stories/destined.digital/) · [Imginn highlights route](https://imginn.com/highlights/destined.digital/) · [Pixnoy highlights route](https://www.pixnoy.com/profile/destined.digital/highlights/) · [Instagram login wall](https://r.jina.ai/https://www.instagram.com/destined.digital/) · [Threads profile (live)](https://r.jina.ai/https://www.threads.com/@destined.digital) · [Threads (indexed)](https://www.threads.com/@destined.digital) · [LinkedIn](https://r.jina.ai/https://www.linkedin.com/company/destined-digital)
@@ -283,8 +420,16 @@ Replace the three topic tags with buyer-relevant ones (`Marketing Agency`, `Digi
 - Threads name/bio limits and topic tags/links: [1](https://postory.io/blog/threads-bio-ideas) · [3](https://momentumhive.app/blog/threads-character-limit-2026) · [4](https://growthscribe.com/instagram-caption-character-limit/)
 - Bio shared between Instagram and Threads: [1](https://postory.io/blog/threads-bio-ideas) · [2](https://thetextgenerators.com/social-media-character-limits/) · [4](https://www.sendcove.app/integrations/threads/character-limits); dissenting view (separate bios): [3](https://omnisocials.com/guides/threads-character-limits)
 
+**Revision 2 (§7) — platform mechanics, typography and accessibility**
+- Display name 30 vs 64 characters, name changes rate-limited: [Outfy](https://www.outfy.com/blog/instagram-character-limit/) · [Fuxux](https://www.fuxux.com/blog/instagram-character-limit) · [BoldlyType](https://boldlytype.com/blog/instagram-bio-character-limit) · [Taskant](https://taskant.com/instagram-character-limit/) · [Linkship (64)](https://linkship.cc/en/blog/instagram-character-limit)
+- Category label is a separate field, shown/hidden under Profile display; up to 5 native bio links: [Sked Social](https://skedsocial.com/blog/anatomy-of-a-perfect-instagram-business-bio-a-complete-guide)
+- Facebook-Page-linked business accounts may inherit the Page name: [Flock Social](https://flocksocial.com/blog/how-to-change-instagram-name)
+- Sentence case for bios, Title Case for headlines, avoid ALL CAPS and mixed styles: [Headline Capitalization — platforms](https://headlinecapitalization.com/guides/social-media-capitalization/) · [Headline Capitalization — Instagram](https://headlinecapitalization.com/guides/instagram-caption-capitalization/)
+- Emoji accessibility — sparing use, at the end of sentences, spaces either side, screen readers announce emoji names: [Zelst](https://www.zelst.io/blog/how-to-improve-your-business-instagram-accessibility-for-visually-impaired-users/) · [Accessibility.com](https://www.accessibility.com/blog/making-hashtags-and-emojis-digitally-accessible) · [Texas Tech](https://www.ttu.edu/accessibility/digital-accessibility/accessibility-topics/social.php)
+- Full-size avatar asset URL: [Pixnoy DP](https://www.pixnoy.com/dp/destined.digital/) (bytes not retrievable in this environment)
+
 **Course material:** MKW1120 Lectures 1–10, local working files `workspace/uploads/MKW1120/` (gitignored).
 
 ---
 
-*Desk research from publicly accessible sources. Character counts were computed against the exact strings shown in the mirrors. All header rewrites are proposals, not observed changes.*
+*Desk research from publicly accessible sources, plus the client's own observation of the live profile on a phone (§7). Character counts were computed against the exact strings shown. All header rewrites are proposals, not observed changes.*
