@@ -2,7 +2,7 @@
 
 **Subject:** `@destined.digital` — the profile header (name, bio, profile picture, category, links, counts, Highlights, pinned posts) and its Threads counterpart
 **Prepared:** 7 November 2026 (MYT)
-**Revision:** 2 — 7 November 2026. Client review of the live profile on a phone: avatar centring, name wrapping, bio emoji/capitalisation/content. See **§7**, which supersedes §6 wherever the two differ.
+**Revisions:** 2 — 7 November 2026, client review of the live profile on a phone: avatar centring, name wrapping, bio emoji/capitalisation/content (§7, supersedes §6). **3 — 7 November 2026, challenge to the geography recommendation (§7.4): geography is conditional, not a requirement.**
 **Companion to:** [`Destined-Digital-Instagram-Research.md`](Destined-Digital-Instagram-Research.md)
 **Theory basis:** MKW1120 Lectures 1–10 (uploaded PDFs), especially L9 (IMC / communication process), L6 (STP & positioning), L7 (services & brand), L5 (buyer decision process)
 
@@ -263,7 +263,7 @@ Replace the three topic tags with buyer-relevant ones (`Marketing Agency`, `Digi
 
 ---
 
-## 7. Revision 2 — client review of the avatar, name and bio
+## 7. Revisions 2–3 — client review of the header (avatar, name, bio, geography)
 
 Raised by the client on 7 November 2026 after looking at the **live profile on a phone**. Where the live observation conflicts with the mirror-derived caveats above, the live observation wins. Three questions, three answers.
 
@@ -295,14 +295,16 @@ The client confirms **"Full-Service Marketing Agency" does not fit on one line o
 
 | Option | Chars | Note |
 |---|---|---|
-| `Destined Digital \| KL` | 21 | **Recommended** — full brand + local keyword |
+| `Destined Digital \| KL` | 21 | Best **only if local search matters** (§7.4) — full brand + local keyword |
 | `Destined Digital \| MY` | 21 | Same, national instead of city |
-| `Destined Digital \| SME` | 22 | Audience instead of place |
+| `Destined Digital \| SME` | 22 | **Recommended default** — audience instead of place (§7.4) |
 | `Destined \| KL Agency` | 20 | Shortest with a category word; drops "Digital" |
 | `Destined \| KL Marketing` | 23 | Strongest keyword; drops "Digital" |
 | `Destined Digital` | 16 | Cleanest; wastes the searchable field |
 
 Pair the chosen name with the closest preset category, e.g. **Marketing agency**. The 28–30 character options in §6.1 remain legal but may wrap on smaller phones; treat the ≤24 set above as the final shortlist.
+
+> **Revision 3 (§7.4):** geography is optional. If you do not want a location cue, `Destined Digital | SME` (22) or `Destined Digital` (16) are better defaults than `| KL`. The name field is the only place a location keyword earns its keep; the bio does not need a second mention.
 
 ### 7.3 The bio — yes to capitals, move or drop the teddy, and add five things
 
@@ -327,7 +329,7 @@ Keep the deliberately lowercase voice in **captions** if the brand wants it. The
 | Priority | Add | Why / evidence |
 |---|---|---|
 | 1 | **What + for whom** — "Social + content for Malaysian SMEs" | Currently absent. Their own captions use `#MarketingForSMEs`, `#BusinessOwnerMY`, and F&B / retail / education / lifestyle clients |
-| 2 | **Geography** — "KL" or "MY" | Threads bio has it, Instagram does not; site metadata says `MY` / `Asia/Kuala_Lumpur` |
+| 2 | **Who you serve** — "for Malaysian SMEs" | Answers "is this for me?" at the top of the profile. Geography is a by-product of this phrase, **not a separate requirement** — see §7.4 |
 | 3 | **Proof pointer** — "Real client results ↓" → [`/testimonials`](https://www.destined-digital.com/testimonials) | The single biggest conversion gap (§0) |
 | 4 | **One CTA with a mechanism** — `DM "AUDIT"` or "Free 30-min consult ↓" | [`/whydestined`](https://www.destined-digital.com/whydestined) already offers "30 Minutes. No Strings Attached"; a keyword is easier to act on than "DM us" |
 | 5 | **Optional qualifier** — "Packages from RM1,500" | Only if that entry package is still current: the figure comes from a podcast clip, not a live rate card. Verify before publishing |
@@ -336,7 +338,7 @@ Keep the deliberately lowercase voice in **captions** if the brand wants it. The
 
 **(d) Line length.** The current first bio line is **51 characters**, which wraps on a phone — the same complaint as the name. Rule of thumb (not a published spec): keep each line to roughly **≤32 characters** and check on your own device, since Display Zoom / Dynamic Type changes the wrap point.
 
-**(e) Four revised bios**, all sentence case, all within 150 characters. `\n` denotes a line break; counts include line breaks.
+**(e) Four revised bios**, all sentence case, all within 150 characters. **Revision 3:** the `· KL` in these drafts is a redundant second geography cue once line 1 says "Malaysian SMEs" — it can be deleted (§7.4 offers geography-free versions). `\n` denotes a line break; counts include line breaks.
 
 **Variant A — recommended, emoji-free header (130/150, longest line 32)**
 
@@ -379,12 +381,74 @@ Real client results ↓ · Free consult
 
 Variant D preserves the personality but its two 36-character lines may wrap at larger text sizes. All four deliberately retain a Malaysia/MY cue: most 2026 references say Instagram and Threads **share** one bio (one says they are separate — §9), so if it does sync, Threads must not lose its only category + geography cue. Apply the same copy and the same emoji rule to both, then verify each in-app.
 
-### 7.4 Do it in one pass
+### 7.4 Is geography actually required? (Revision 3)
+
+The client challenged the "add KL / MY" recommendation. **Short answer: no.** On review, geography was a *conditional* suggestion written as though it were a requirement. Three corrections:
+
+1. **"Where we are" was never the useful part — "who we serve" is.** For a services business, the question a visitor asks at the top of a profile is *"is this for me?"*, not *"where is your office?"*. `Malaysian SMEs` answers the first. `· KL` answers the second, which most buyers never ask. In the §7.3 drafts, geography is already carried by **Malaysian** in line 1, so the `· KL` on line 2 is a **redundant second mention**: delete it and lose nothing (−5 characters).
+2. **Instagram search weights the Name field, username and category over bio text** ([Linkship](https://linkship.cc/en/blog/instagram-character-limit), [Taskant](https://taskant.com/instagram-character-limit/)). If geography is for discovery, it belongs in the ≤30-character **Name** field (`| KL`), not in the 150-character bio. Spending bio characters on it is the weaker version of the same tactic.
+3. **Instagram search may not be the acquisition channel at all.** With 396 followers and a mirror sample averaging ~27 likes, leads most plausibly come from DMs, referrals, the website and founder content — not people typing "marketing agency KL" into Instagram. Optimising the Name field for a search behaviour that may not exist is speculative. If a **Business category** label and a **Directions / contact button** already show a KL address, those do the job better than any copy.
+
+**Where the geography argument does hold**, strongest first:
+
+| Reason | Strength | Evidence |
+|---|---|---|
+| **Qualification for a location-bound service.** Photo & Video Production, shoots, on-set styling. One word answers "can you actually work with me?" before a DM and filters out enquiries you cannot serve | **Strongest — but only if shoots really are on-site in KL** | [`/services`](https://www.destined-digital.com/services); "Behind every 'effortless' product shot…" post; local collaborators `@fupi.co`, Sunway AUSMAT, KL model casting on Threads |
+| **IMC consistency.** You already say where you are everywhere else; Instagram is the outlier | Moderate | Threads "Marketing agency based in MY", LinkedIn Kuala Lumpur 58200, site metadata `MY` / `Asia/Kuala_Lumpur`, captions `#klagency`, `#klmarketingagency`, `#marketingagencykl`, `#DigitalMarketingMY`, `#BusinessOwnerMY` |
+| **Trust / physical evidence.** A local anchor plus `(003694655-T)` reads as a real registered business rather than a generic remote agency | Moderate | Lecture 7 slides 23–24: intangibility and inseparability make tangible cues part of quality signalling |
+| **Search specificity.** "KL" narrows the generic "Full-Service Marketing Agency" claim | Weakest | Name field is searchable, but bio text is weighted less and reach here is small |
+
+**When to drop geography entirely:**
+
+- You serve clients outside Malaysia, want a regional/borderless positioning, or deliver shoots remotely (products shipped to you). A city tag then **caps perceived scale** and implies travel constraints.
+- A business address is already visible via category / contact buttons — the copy becomes redundant.
+- You would rather spend the characters on proof, price or a stronger CTA. Fair trade: `· KL` costs 5 characters, "Malaysian" 9.
+- You simply do not want to be pigeonholed as a local vendor. Positioning is a **choice**, not a formatting rule (Lecture 6, segmentation and positioning).
+
+**Decisive question:** do you currently take clients outside KL/Malaysia, or deliver shoots remotely? **Yes** → drop geography. **No** → keep "Malaysian SMEs" as an audience qualifier, delete the redundant `· KL` from the bio, and treat `| KL` in the Name field as optional.
+
+**No-geography Name options:** `Destined Digital | SME` (22) · `Destined | SME Marketing` (24) · `Destined Digital | Content` (26) · `Destined Digital` (16).
+
+**Bio — "Malaysian" retained as audience, city removed (125/150):**
+
+```
+Marketing for Malaysian SMEs.
+Social, content & Meta ads
+Real client results ↓
+DM "AUDIT" · Free 30-min consult
+(003694655-T)
+```
+
+**Bio — fully geography-free (123/150):**
+
+```
+Marketing for growing SMEs.
+Social, content & Meta ads
+Real client results ↓
+DM "AUDIT" · Free 30-min consult
+(003694655-T)
+```
+
+**Bio — geography-free with the price qualifier (123/150):**
+
+```
+Marketing for growing SMEs.
+Strategy, shoots & Meta ads
+Packages from RM1,500
+Real results ↓ · Free consult ↓
+(003694655-T)
+```
+
+**Net effect on the earlier sections:** §7.3 priority #2 should read *"who you serve"*, not *"geography"*; §7.2's `| KL` is the best choice only when local search matters, and `| SME` is the better default otherwise. Everything else in §7 stands.
+
+---
+
+### 7.5 Do it in one pass
 
 1. Screenshot the header on a phone; check the avatar crop (§7.1).
-2. Edit **Name** → ≤24 characters (§7.2). If linked to a Facebook Page, edit the Page first.
+2. Edit **Name** → ≤24 characters (§7.2). Add a location keyword only if local search matters (§7.4). If linked to a Facebook Page, edit the Page first.
 3. Set and show the **category** → "Marketing agency".
-4. Paste one bio variant; keep `(003694655-T)` alone on the last line.
+4. Paste one bio variant from §7.3 or §7.4; keep `(003694655-T)` alone on the last line.
 5. Add native links: `/testimonials`, free consult, `/services`, `/whydestined`; UTM-tag them.
 6. Mirror the copy to Threads; replace the casting topic tags.
 7. Re-screenshot at default and enlarged text sizes; confirm nothing wraps unexpectedly.
@@ -419,6 +483,11 @@ Variant D preserves the personality but its two 36-character lines may wrap at l
 - Name 30, bio 150, up to 5 native links, name field is searchable: [1](https://replug.io/blog/instagram-bio-character-limit) · [2](https://wordscalculator.net/blog/instagram-character-limits) · [3](https://taskant.com/instagram-character-limit/) · [5](https://boldlytype.com/blog/instagram-bio-character-limit) · [4](https://postlen.app/en/blog/instagram-character-limits)
 - Threads name/bio limits and topic tags/links: [1](https://postory.io/blog/threads-bio-ideas) · [3](https://momentumhive.app/blog/threads-character-limit-2026) · [4](https://growthscribe.com/instagram-caption-character-limit/)
 - Bio shared between Instagram and Threads: [1](https://postory.io/blog/threads-bio-ideas) · [2](https://thetextgenerators.com/social-media-character-limits/) · [4](https://www.sendcove.app/integrations/threads/character-limits); dissenting view (separate bios): [3](https://omnisocials.com/guides/threads-character-limits)
+
+**Revision 3 (§7.4) — search weighting and positioning**
+- Instagram search prioritises display name, username and account category over bio text: [Linkship](https://linkship.cc/en/blog/instagram-character-limit) · [Taskant](https://taskant.com/instagram-character-limit/) · [Sked Social](https://skedsocial.com/blog/anatomy-of-a-perfect-instagram-business-bio-a-complete-guide)
+- Contact buttons can surface a business address (Directions), making a location line in copy redundant: [Sked Social](https://skedsocial.com/blog/anatomy-of-a-perfect-instagram-business-bio-a-complete-guide)
+- Segmentation / positioning as a strategic choice: MKW1120 Lecture 6 slides 10, 34, 38–43; services intangibility and inseparability: Lecture 7 slides 23–24
 
 **Revision 2 (§7) — platform mechanics, typography and accessibility**
 - Display name 30 vs 64 characters, name changes rate-limited: [Outfy](https://www.outfy.com/blog/instagram-character-limit/) · [Fuxux](https://www.fuxux.com/blog/instagram-character-limit) · [BoldlyType](https://boldlytype.com/blog/instagram-bio-character-limit) · [Taskant](https://taskant.com/instagram-character-limit/) · [Linkship (64)](https://linkship.cc/en/blog/instagram-character-limit)
