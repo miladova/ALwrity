@@ -2,7 +2,7 @@
 
 **Subject:** `@destined.digital` — the profile header (name, bio, profile picture, category, links, counts, Highlights, pinned posts) and its Threads counterpart
 **Prepared:** 7 November 2026 (MYT)
-**Revisions:** 2 — 7 November 2026, client review of the live profile on a phone: avatar centring, name wrapping, bio emoji/capitalisation/content (§7, supersedes §6). **3 — 7 November 2026, geography is conditional, not a requirement (§7.4).** **4 — 7 November 2026, client decision: the bio line "marketing doesn't have to be boring or repetitive" and `(003694655-T)` are LOCKED (§7.6); all bio-replacement drafts are withdrawn.**
+**Revisions:** 2 — 7 November 2026, client review of the live profile on a phone: avatar centring, name wrapping, bio emoji/capitalisation/content (§7, supersedes §6). **3 — 7 November 2026, geography is conditional, not a requirement (§7.4).** **4 — 7 November 2026, client decision: the bio line "marketing doesn't have to be boring or repetitive" and `(003694655-T)` are LOCKED (§7.6); all bio-replacement drafts are withdrawn.** **5 — 7 November 2026, FINAL BIO ANSWER in §7.7: keep the line word-for-word, add one initial capital, remove 🧸, add nothing else.**
 **Companion to:** [`Destined-Digital-Instagram-Research.md`](Destined-Digital-Instagram-Research.md)
 **Theory basis:** MKW1120 Lectures 1–10 (uploaded PDFs), especially L9 (IMC / communication process), L6 (STP & positioning), L7 (services & brand), L5 (buyer decision process)
 
@@ -263,7 +263,7 @@ Replace the three topic tags with buyer-relevant ones (`Marketing Agency`, `Digi
 
 ---
 
-## 7. Revisions 2–4 — client review of the header (avatar, name, bio, geography, locked bio)
+## 7. Revisions 2–5 — client review of the header (avatar, name, bio, geography, final bio)
 
 Raised by the client on 7 November 2026 after looking at the **live profile on a phone**. Where the live observation conflicts with the mirror-derived caveats above, the live observation wins. Three questions, three answers.
 
@@ -477,12 +477,12 @@ Both lines are treated as fixed. This is a defensible brand choice, not an overs
 
 **What is withdrawn:** every bio *replacement* in §6.2, §7.3(e) and §7.4. Priority #1 in §7.3(c) ("add what + for whom") and the "85 unused characters" observation in §1.5 / §5 become **observations, not recommendations**. Do not paste any of those variants over the locked lines.
 
-**Two assumptions to confirm** — the client's pasted version omitted both:
+**Two assumptions, now resolved by the final answer (§7.7):**
 
-- **🧸 removed.** The client previously questioned the teddy bear and pasted the line without it, so removal is the working assumption (§7.3(a)). If it stays, it goes back at the start of line 1.
-- **Lowercase kept.** The paste begins lowercase, so sentence case (§7.3(b)) is **not applied by default**. `Marketing doesn’t have to be boring or repetitive` is a one-character change, available if wanted.
+- **🧸 removed — final.** The client questioned the teddy bear and pasted the line without it (§7.3(a)).
+- **Initial capital applied — final.** The client asked whether capitals read as more professional; sentence case (§7.3(b)) means one capital at the start and proper nouns only, everything else lowercase. `Marketing doesn’t have to be boring or repetitive` is a one-character change that keeps the relaxed voice. During Revision 4 lowercase was held as the working default; **§7.7 supersedes that**.
 
-**One free improvement that changes no words.** The brand line is **49 characters**, which wraps on a phone — the same ragged-wrap problem as the 48-character name. Inserting the line break deliberately keeps every word and the same 63-character total, but gives three tidy lines instead of one auto-wrapped line:
+**Optional, device-dependent tweak (not used in the final answer).** The brand line is **49 characters**, which wraps on a phone — the same ragged-wrap problem as the 48-character name. Inserting the line break deliberately keeps every word and the same 63-character total, but gives three tidy lines instead of one auto-wrapped line:
 
 ```
 marketing doesn’t have to be boring
@@ -534,7 +534,44 @@ Real results ↓ · Free consult ↓
 | **Pinned trio** | Proof / Offer / Start Here funnel | §6.5 |
 | **Caption opening lines** | Services, client type, offer | Main report |
 
-**Net effect:** the header keeps its personality and its trust signal; discovery and proof move to the name, links, Highlights and pinned posts. The only remaining bio decisions are (1) whether to take the controlled line break and (2) whether 🧸 stays.
+**Net effect:** the header keeps its personality and its trust signal; discovery and proof move to the name, links, Highlights and pinned posts. **See §7.7 for the single final bio.** The only residual bio question is the device-dependent line break.
+
+---
+
+### 7.7 Final bio (Revision 5) — "so what should the bio look like?"
+
+After four rounds of review, the recommendation is: **keep the bio almost exactly as it is.** One capital letter, one deletion, nothing added.
+
+```
+Marketing doesn’t have to be boring or repetitive
+(003694655-T)
+```
+
+**63/150 characters, 2 lines.** This is the answer; the drafts in §6.2, §7.3(e), §7.4 and §7.6 are reference material only.
+
+| Element | Decision | Reason |
+|---|---|---|
+| Brand line | **Kept word-for-word** | The client's explicit decision (§7.6). It is the most distinctive asset in the header |
+| First letter | **Capitalised** → `Marketing` | The client asked whether capitals look more professional. Sentence case = one initial capital + proper nouns, everything else lowercase. One-character change; the relaxed voice survives |
+| 🧸 | **Removed** | Questioned by the client and omitted from their paste; it occupied the first slot and screen readers announce "teddy bear" (§7.3a) |
+| `(003694655-T)` | **Kept**, alone on the last line | Real SSM trust signal |
+| Additions — services, audience, location, price, CTA, hashtags | **None** | The client wants the line intact; geography is conditional (§7.4); the 87 unused characters are now a deliberate choice, not a gap to fill |
+
+If the client wants it **byte-for-byte identical** to today's bio, the only thing to revert is the capital `M`. That is a legitimate final answer too.
+
+**Why not use the additive variants in §7.6?** They remain valid if the bio is ever asked to sell. But a 49-character brand line followed by proof, audience and CTA lines starts to read like a landing page squeezed into a two-line slot — the same "clustered" look the client flagged on the name. Keeping the bio short protects the one thing that makes it memorable. The §7.6 variants are **optional future options**, not the recommendation.
+
+**The wrap.** The first line is 49 characters and will wrap to two lines on most phones, usually at "…boring / or repetitive". That is normal and acceptable. Only if a device orphans the single word "repetitive" should you insert a manual break after "boring" (the 63/150, 3-line version in §7.6). Check at default and enlarged text sizes; do not add the break pre-emptively, because at large text sizes a manual break can itself produce an extra ragged line.
+
+**The bio cannot carry conversion on its own.** Pair the final bio with:
+
+1. **Name** — `Destined Digital | SME` (22) or `Destined Digital` (16), ≤24 characters (§7.2, §7.4).
+2. **Category label** — "Marketing agency", free, separate field (§7.2).
+3. **5 native links** — `/testimonials` first, then free consult, `/services`, `/whydestined`, `/articles` (§6.3). **This is where the proof goes.**
+4. **Highlights** — `Results`, `Start Here`, `Services`, `FAQ` (§6.4).
+5. **Pinned trio** — Proof / Offer / Start Here (§6.5).
+
+Everything else in the header analysis is unchanged.
 
 ---
 
@@ -583,4 +620,4 @@ Real results ↓ · Free consult ↓
 
 ---
 
-*Desk research from publicly accessible sources, plus the client's own observation of the live profile on a phone and their editorial decisions (§7, Revisions 2–4). Character counts were computed against the exact strings shown. All header rewrites are proposals, not observed changes; the locked bio in §7.6 is a client decision.*
+*Desk research from publicly accessible sources, plus the client's own observation of the live profile on a phone and their editorial decisions (§7, Revisions 2–5). Character counts were computed against the exact strings shown. All header rewrites are proposals, not observed changes; the locked bio in §7.6 is a client decision.*
