@@ -2,7 +2,7 @@
 
 **Subject:** `@destined.digital` — the profile header (name, bio, profile picture, category, links, counts, Highlights, pinned posts) and its Threads counterpart
 **Prepared:** 7 November 2026 (MYT)
-**Revisions:** 2 — 7 November 2026, client review of the live profile on a phone: avatar centring, name wrapping, bio emoji/capitalisation/content (§7, supersedes §6). **3 — 7 November 2026, geography is conditional, not a requirement (§7.4).** **4 — 7 November 2026, client decision: the bio line "marketing doesn't have to be boring or repetitive" and `(003694655-T)` are LOCKED (§7.6); all bio-replacement drafts are withdrawn.** **5 — 7 November 2026, FINAL BIO ANSWER in §7.7: keep the line word-for-word, add one initial capital, remove 🧸, add nothing else.** **6 — 8 November 2026, HIGHLIGHTS ANSWER in §7.8: architecture, ordering mechanics, cover specs.** **7 — 8 November 2026, client spots two overlaps; §7.9 resolves them and reduces the final set to FIVE Highlights.**
+**Revisions:** 2 — 7 November 2026, client review of the live profile on a phone: avatar centring, name wrapping, bio emoji/capitalisation/content (§7, supersedes §6). **3 — 7 November 2026, geography is conditional, not a requirement (§7.4).** **4 — 7 November 2026, client decision: the bio line "marketing doesn't have to be boring or repetitive" and `(003694655-T)` are LOCKED (§7.6); all bio-replacement drafts are withdrawn.** **5 — 7 November 2026, FINAL BIO ANSWER in §7.7: keep the line word-for-word, add one initial capital, remove 🧸, add nothing else.** **6 — 8 November 2026, HIGHLIGHTS ANSWER in §7.8: architecture, ordering mechanics, cover specs.** **7 — 8 November 2026, client spots two overlaps; §7.9 resolves them and reduces the final set to FIVE Highlights.** **8 — 8 November 2026, why Highlights matter and what they cannot do (§7.10).**
 **Companion to:** [`Destined-Digital-Instagram-Research.md`](Destined-Digital-Instagram-Research.md)
 **Theory basis:** MKW1120 Lectures 1–10 (uploaded PDFs), especially L9 (IMC / communication process), L6 (STP & positioning), L7 (services & brand), L5 (buyer decision process)
 
@@ -265,7 +265,7 @@ Replace the three topic tags with buyer-relevant ones (`Marketing Agency`, `Digi
 
 ---
 
-## 7. Revisions 2–7 — client review of the header (avatar, name, bio, geography, final bio, Highlights)
+## 7. Revisions 2–8 — client review of the header (avatar, name, bio, geography, final bio, Highlights)
 
 Raised by the client on 7 November 2026 after looking at the **live profile on a phone**. Where the live observation conflicts with the mirror-derived caveats above, the live observation wins. Three questions, three answers.
 
@@ -673,6 +673,40 @@ Maintaining that distinction takes ongoing discipline, and the **grid already fu
 
 ---
 
+### 7.10 Why Highlights matter at all — and what they cannot do (Revision 8)
+
+Short answer: **they are the only permanent, structured navigation an Instagram profile has, so they decide whether a high-intent visitor converts — but they generate no reach of their own.** They are a **conversion layer, not a growth lever**.
+
+**Five reasons they matter**
+
+1. **Permanence.** Stories expire after 24 hours; posts scroll away; pinned posts are only three slots. Highlights stay fixed between the bio and the grid indefinitely. They are the profile's navigation bar.
+2. **They meet the visitor at peak intent.** A profile visit is not a passive impression — someone clicked through from a Reel, a tag, a DM or search. At that moment the questions are: what is this, does it work, what do I buy, what happens next? Highlights answer those in-app, without a grid hunt or a trip to the website.
+3. **Tangible cues for an intangible service.** Lecture 7 slides 23–24 (intangibility / inseparability): buyers cannot inspect a service before purchase, so they read proof, process, people and price as quality signals. Lecture 7 slide 29: brand as a cognitive shortcut. A labelled evidence row does that work cheaply.
+4. **They repurpose assets already owned.** [`/testimonials`](https://www.destined-digital.com/testimonials), [`/services`](https://www.destined-digital.com/services), [`/whydestined`](https://www.destined-digital.com/whydestined), the blog, the podcast and the shoot archives — nothing needs a new shoot; most of the work is reformatting screenshots and stills into 5–8 frame sequences. Low incremental cost.
+5. **For Destined, they carry the load the bio refuses.** With the bio locked at 63/150 characters as a pure brand statement (§7.7), a first-time visitor otherwise learns only a mood, an SSM number and a wrapped name. The row, the 5 native links and the pinned trio are the only remaining surfaces for proof and an offer — so an empty or random row costs **more** here than on an account with a descriptive bio.
+
+**What they cannot do — the honest limits**
+
+- **No discovery.** Stories and Highlights are excluded from the 2025–26 Google/Bing indexing of professional Instagram content (most references agree; one is ambiguous), and they never appear in feed or Explore. They help only people who have already arrived ([1](https://www.lyfemarketing.com/blog/instagram-google-indexing/), [3](https://www.flatlineagency.com/blog/instagram-index-update), [4](https://torro.io/blog/instagram-google-searchable)). No cover design will produce a new follower.
+- **No substitute for content.** A perfect row on a dormant account still converts nobody.
+- **Most of the value sits in the first 4–5** — the rest are behind a horizontal scroll on most phones (§7.8).
+- **They need maintenance.** Expired offers, casting calls and old screenshots left in place read as neglect — arguably worse than an empty row (§7.8).
+- **Attribution is indirect.** Track the row with a DM keyword (`"AUDIT"`), UTM-tagged links and a monthly profile-visits → link taps → DMs → booked-consults funnel (Lecture 9 feedback loop; Lecture 4 MIS).
+- **Small absolute upside at this account size.** With 396 followers and a mirror sample averaging ~27 likes, profile visits are probably modest. Highlights are a **cheap, high-leverage fix**, not a growth strategy.
+
+**Where they rank in priority** — cheapest first:
+
+| # | Fix | Effort | Why here |
+|---|---|---|---|
+| 1 | **Name (≤24 chars) + category + 5 native links** | Minutes | Fixes the single biggest gap (`/testimonials` undiscoverable) and helps both search and conversion |
+| 2 | **Pinned trio** (Proof / Offer / Start Here) | Reorder 3 existing posts | Permanent first-screen proof, no new assets |
+| 3 | **The five Highlights (§7.9)** | Biggest build, ~25–40 frames | Worth doing once 1 and 2 are done |
+| 4 | **Covers / visual polish** | Design pass | A matching dark set is a credibility cue, not a conversion driver on its own |
+
+**Bottom line:** Highlights matter because they are the profile's permanent decision aid at the exact moment a buyer is deciding — and more than usual here, because the bio was deliberately kept non-informational. But they **convert attention that already exists; they do not create it**. Fix the links and pins first, then build the row.
+
+---
+
 ## 8. Verify in a logged-in session before finalising
 
 - The **exact live name field** and whether "Full-Service Marketing Agency" is the name or the business category — plus whether it is inherited from a linked Facebook Page.
@@ -701,6 +735,9 @@ Maintaining that distinction takes ongoing discipline, and the **grid already fu
 - Threads name/bio limits and topic tags/links: [1](https://postory.io/blog/threads-bio-ideas) · [3](https://momentumhive.app/blog/threads-character-limit-2026) · [4](https://growthscribe.com/instagram-caption-character-limit/)
 - Bio shared between Instagram and Threads: [1](https://postory.io/blog/threads-bio-ideas) · [2](https://thetextgenerators.com/social-media-character-limits/) · [4](https://www.sendcove.app/integrations/threads/character-limits); dissenting view (separate bios): [3](https://omnisocials.com/guides/threads-character-limits)
 
+**Revision 8 (§7.10) — Highlights and search indexing**
+- Stories and Highlights excluded from Google/Bing indexing of professional Instagram content: [Lyfe Marketing](https://www.lyfemarketing.com/blog/instagram-google-indexing/) · [Flatline Agency](https://www.flatlineagency.com/blog/instagram-index-update) · [Torro](https://torro.io/blog/instagram-google-searchable) · [Vi Marketing](https://vimarketingandbranding.com/instagram-now-shows-in-google-search-what-it-means-for-you). One dissenting/ambiguous FAQ: [Birdeye](https://birdeye.com/blog/instagram-search-indexing-update/)
+
 **Revision 6 (§7.8) — Highlights mechanics**
 - Cover canvas 1080×1920, circular centre crop, 600–720 px safe zone, ~60 pt / 161 px render: [DMDaddy](https://dmdaddy.com/blog/instagram-highlight-covers) · [Elev8or](https://www.elev8or.io/blog/engage/instagram-highlight-covers) · [Social Previewing](https://www.socialpreviewing.com/blog/instagram-highlight-cover-size-2026-exact-dimensions-circle-crop) · [Socialz](https://socialz.ai/blog/instagram-highlights) · [Startviral](https://startviral.de/en/blogs/instagram-highlight-covers)
 - Highlight labels truncate around 12–15 characters (sources vary): [DMDaddy](https://dmdaddy.com/blog/instagram-highlight-covers) (12) · [Elev8or](https://www.elev8or.io/blog/engage/instagram-highlight-covers) (14) · [Socialz](https://socialz.ai/blog/instagram-highlights) (15 displayed)
@@ -724,4 +761,4 @@ Maintaining that distinction takes ongoing discipline, and the **grid already fu
 
 ---
 
-*Desk research from publicly accessible sources, plus the client's own observation of the live profile on a phone and their editorial decisions (§7, Revisions 2–7). Character counts were computed against the exact strings shown. All header rewrites are proposals, not observed changes; the locked bio in §7.6 is a client decision.*
+*Desk research from publicly accessible sources, plus the client's own observation of the live profile on a phone and their editorial decisions (§7, Revisions 2–8). Character counts were computed against the exact strings shown. All header rewrites are proposals, not observed changes; the locked bio in §7.6 is a client decision.*

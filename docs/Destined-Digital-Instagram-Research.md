@@ -7,7 +7,7 @@
 
 > **Repository note:** the ten lecture PDFs and their extracted text are local working files under `workspace/uploads/MKW1120/` (gitignored). They are not part of this repository; only this report is committed.
 
-**Companion deep-dive:** [`Destined-Digital-Instagram-Profile-Top-Analysis.md`](Destined-Digital-Instagram-Profile-Top-Analysis.md) — a focused teardown of the profile header (name, bio, avatar, links, Highlights, pinned posts). **Revisions 2–7** (§7 of that document) add a client-reviewed answer on avatar centring, a ≤24-character name shortlist, a conditional geography analysis, the client's decision to **keep the original bio line and SSM number**, the **final bio** (§7.7: one initial capital, 🧸 removed, nothing added), and the **final five-Highlight architecture** (§7.9, after the client spotted two overlaps in the earlier six-label set) — so the bio-rewrite recommendation below is retired.
+**Companion deep-dive:** [`Destined-Digital-Instagram-Profile-Top-Analysis.md`](Destined-Digital-Instagram-Profile-Top-Analysis.md) — a focused teardown of the profile header (name, bio, avatar, links, Highlights, pinned posts). **Revisions 2–8** (§7 of that document) add a client-reviewed answer on avatar centring, a ≤24-character name shortlist, a conditional geography analysis, the client's decision to **keep the original bio line and SSM number**, the **final bio** (§7.7: one initial capital, 🧸 removed, nothing added), the **final five-Highlight architecture** (§7.9, after the client spotted two overlaps in the earlier six-label set), and **why Highlights matter and their limits** (§7.10) — so the bio-rewrite recommendation below is retired.
 
 ---
 
