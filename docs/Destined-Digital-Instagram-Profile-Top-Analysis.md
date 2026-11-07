@@ -2,7 +2,7 @@
 
 **Subject:** `@destined.digital` — the profile header (name, bio, profile picture, category, links, counts, Highlights, pinned posts) and its Threads counterpart
 **Prepared:** 7 November 2026 (MYT)
-**Revisions:** 2 — 7 November 2026, client review of the live profile on a phone: avatar centring, name wrapping, bio emoji/capitalisation/content (§7, supersedes §6). **3 — 7 November 2026, geography is conditional, not a requirement (§7.4).** **4 — 7 November 2026, client decision: the bio line "marketing doesn't have to be boring or repetitive" and `(003694655-T)` are LOCKED (§7.6); all bio-replacement drafts are withdrawn.** **5 — 7 November 2026, FINAL BIO ANSWER in §7.7: keep the line word-for-word, add one initial capital, remove 🧸, add nothing else.**
+**Revisions:** 2 — 7 November 2026, client review of the live profile on a phone: avatar centring, name wrapping, bio emoji/capitalisation/content (§7, supersedes §6). **3 — 7 November 2026, geography is conditional, not a requirement (§7.4).** **4 — 7 November 2026, client decision: the bio line "marketing doesn't have to be boring or repetitive" and `(003694655-T)` are LOCKED (§7.6); all bio-replacement drafts are withdrawn.** **5 — 7 November 2026, FINAL BIO ANSWER in §7.7: keep the line word-for-word, add one initial capital, remove 🧸, add nothing else.** **6 — 8 November 2026, FINAL HIGHLIGHTS ANSWER in §7.8: six-Highlight architecture, ordering mechanics, cover specs.**
 **Companion to:** [`Destined-Digital-Instagram-Research.md`](Destined-Digital-Instagram-Research.md)
 **Theory basis:** MKW1120 Lectures 1–10 (uploaded PDFs), especially L9 (IMC / communication process), L6 (STP & positioning), L7 (services & brand), L5 (buyer decision process)
 
@@ -110,7 +110,7 @@ Instagram currently permits **up to 5 links** directly in the profile ([1](https
 
 ### 1.8 Highlights and Stories
 - [Imginn Stories](https://imginn.com/stories/destined.digital/) returns **"No Stories"** at capture.
-- The [Imginn highlights route](https://imginn.com/highlights/destined.digital/) falls back to the posts page; the [Pixnoy highlights route](https://www.pixnoy.com/profile/destined.digital/highlights/) is empty; two further story viewers were blocked or unavailable.
+- The [Imginn highlights route](https://imginn.com/highlights/destined.digital/) and the [Imgsed highlights route](https://imgsed.com/highlights/destined.digital/) both fall back to the posts page; the [Pixnoy highlights route](https://www.pixnoy.com/profile/destined.digital/highlights/) is empty; two further story viewers were blocked or unavailable. [Imgsed Stories](https://imgsed.com/stories/destined.digital/) also returns "No Stories" — but that refers to **active 24-hour Stories**, not saved Highlights.
 
 **Conclusion:** Highlights are **genuinely unverifiable** from public sources — absence of data here is not evidence of absence on the profile. But note the strategic asymmetry: Highlights are the *only* permanent, buyer-facing navigation an Instagram profile has, and Destined has a `/testimonials` page, a services page, a founder story, a blog and a podcast — i.e. more than enough raw material to fill 5–6 well-labelled Highlights. If those Highlights do not exist, that is the single largest missed opportunity in the header. If they do exist, they are invisible to search and to anyone doing desk research.
 
@@ -242,6 +242,8 @@ All three add: **who** (Malaysian SMEs), **what** (social + content + ads), **pr
 Add UTM tags per slot so enquiries can be attributed (L4 MIS). Clean the `/personal-branding` placeholders before linking to it.
 
 ### 6.4 Highlight architecture — 6 covers, matched to the dark wordmark avatar
+> **Revision 6 (§7.8) confirms this set as final** and adds the ordering mechanics, the platform specs and the content rules. Use §7.8 for implementation.
+
 | Highlight | Content (already owned) | Buyer question answered |
 |---|---|---|
 | `Start Here` | Who we help · 5 services · price · DM CTA | "Is this for me?" |
@@ -263,7 +265,7 @@ Replace the three topic tags with buyer-relevant ones (`Marketing Agency`, `Digi
 
 ---
 
-## 7. Revisions 2–5 — client review of the header (avatar, name, bio, geography, final bio)
+## 7. Revisions 2–6 — client review of the header (avatar, name, bio, geography, final bio, Highlights)
 
 Raised by the client on 7 November 2026 after looking at the **live profile on a phone**. Where the live observation conflicts with the mirror-derived caveats above, the live observation wins. Three questions, three answers.
 
@@ -568,10 +570,55 @@ If the client wants it **byte-for-byte identical** to today's bio, the only thin
 1. **Name** — `Destined Digital | SME` (22) or `Destined Digital` (16), ≤24 characters (§7.2, §7.4).
 2. **Category label** — "Marketing agency", free, separate field (§7.2).
 3. **5 native links** — `/testimonials` first, then free consult, `/services`, `/whydestined`, `/articles` (§6.3). **This is where the proof goes.**
-4. **Highlights** — `Results`, `Start Here`, `Services`, `FAQ` (§6.4).
+4. **Highlights** — the six-Highlight architecture in §6.4, finalised in **§7.8**.
 5. **Pinned trio** — Proof / Offer / Start Here (§6.5).
 
 Everything else in the header analysis is unchanged.
+
+---
+
+### 7.8 Final Highlights answer (Revision 6) — "what do we think of the highlights?"
+
+**Honest starting point: I still cannot see them.** Four independent mirror routes were tried for this account (Imginn, Imgsed, Pixnoy, plus blocked story viewers). Every Highlights route falls back to the posts page or returns empty, and "No Stories" refers to active 24-hour Stories, not saved Highlights. **Absence of mirror data is not evidence of absence on the profile.** So what follows is a recommendation, not an audit of what is currently live — see the last paragraph for what I need from you.
+
+**But the stakes just went up.** With the bio locked as a pure brand statement (§7.7), Highlights are now — alongside the 5 native links and the pinned trio — the **only permanent, buyer-facing surface on the profile that can carry proof, services and a CTA without consuming bio characters**. Two caveats worth stating plainly: Highlights are **invisible to search and to desk research**, so they do nothing for discovery; and they only help visitors who have *already* landed. They are the **conversion layer**, not decoration and not a reach tactic.
+
+**Three mechanical constraints that shape the design** (2026 platform references in §9):
+
+| Constraint | Consequence |
+|---|---|
+| Labels truncate after roughly **12–15 characters** | Use one short word. All six labels below are ≤10 characters |
+| The row is ordered by **most recently updated**, newest at the far left, and only the **first 4–5 are visible** without scrolling on most phones. There is no drag-to-reorder | Order is a design decision that must be implemented by editing in reverse (below) |
+| Covers use the **1080×1920** Story canvas, but only a circle from the centre ~1080×1080 shows; keep the icon inside a centred **600–720 px** safe zone; renders at roughly 60 pt / 161 px | One icon per cover, no thin lines, no small type, no busy photos |
+
+**Final architecture — 6 Highlights, in this left-to-right order:**
+
+| # | Label | Chars | Content (all already owned) | Buyer question |
+|---|---|---|---|---|
+| 1 | `Start Here` | 10 | Who we help · the 5 services · entry price (only if current) · free 30-min consult · `DM "AUDIT"` | "What is this, and is it for me?" |
+| 2 | `Results` | 7 | The four [`/testimonials`](https://www.destined-digital.com/testimonials) growth screenshots, anonymised, plus 2–3 case-study carousels | "Does it work?" |
+| 3 | `Services` | 8 | Five tiles from [`/services`](https://www.destined-digital.com/services): social, branding/creative, copywriting, photo/video, Meta/TikTok ads | "What exactly do I buy?" |
+| 4 | `Our Work` | 8 | `@fupi.co`, craft soda, saree and skincare shoot stills | "Is the quality right?" |
+| 5 | `Why Us` | 6 | [`/whydestined`](https://www.destined-digital.com/whydestined) founder story, Sunway AUSMAT lecture, team | "Why trust you?" |
+| 6 | `FAQ` | 3 | Onboarding, timelines, response time, consult process, "do you work outside KL?" | "What happens next?" |
+
+This is a funnel, not a category list: awareness → proof → offer → quality → trust → action (Lecture 9, AIDA / 5As). `Results` sits at **#2** rather than later because proof is the single biggest gap in the whole account (§0, §1.8) and `/testimonials` is otherwise undiscoverable; putting it inside the visible first four is the entire point. If you prefer a services-first journey, swap #2 and #3 — but keep both in the first four.
+
+**To achieve that order in-app:** edit in **reverse** (`FAQ` → `Why Us` → `Our Work` → `Services` → `Results` → `Start Here` last), because each edit bumps that Highlight to the front. Adding then removing a single Story counts as an edit. This is the only way to control the row.
+
+**Covers — one system, not six illustrations.** Match the dark wordmark avatar: solid near-black field, white label in the same type family, and **one small 🧸 accent** to carry the playfulness that came out of the bio (§7.7). One icon per cover; no stock photos, no busy shoot stills, no hairlines, no emoji-only covers. Export 1080×1920 with the icon centred in a 600–720 px circle and check each at thumbnail size before saving. This is also where the teddy bear can legitimately live now.
+
+**Content rules for each Highlight:**
+
+- **5–8 frames.** Frame 1 = title slide; last frame = CTA (`DM "AUDIT"`, free consult, or a link sticker to `/testimonials`).
+- **Evergreen only.** Remove expired promos, casting calls and hiring posts — those belong on a separate recruiting surface (§6.6), not in the client-facing row.
+- No BTS / photo dumps (that is feed content), no one Highlight per client, no one Highlight per service.
+- Where allowed, add a **link sticker** to `/testimonials`, `/services` or the consult page so the row connects to the 5-slot link stack (§6.3).
+- **Review quarterly.** Stale Highlights hurt credibility more than no Highlights; a 2024 offer still sitting there reads as neglect.
+
+**What I would avoid:** 8+ Highlights (decision paralysis), vague labels (`Vibes`, `Stuff`, `More`), unlabelled or mismatched covers, a podcast Highlight outranking `Results`, and an empty row. Given how much owned material already exists — testimonials, five services, a founder story, a blog, a podcast, shoot archives — an empty or random row is the **single largest missed opportunity in the header**.
+
+**To turn this into an actual audit:** tell me the live labels and their left-to-right order (or share a screenshot). Then I can say exactly what to keep, rename, merge, delete and move, instead of designing from the outside.
 
 ---
 
@@ -582,7 +629,7 @@ Everything else in the header analysis is unchanged.
 - The **exact live bio** — and whether Instagram and Threads really differ (this determines whether the mirrors are stale).
 - **Business category line** and which **contact/action buttons** are enabled.
 - **All bio links** and their destinations; whether any link aggregator is used.
-- **Highlight count, labels and covers**; whether any Highlight is a "Results" or "Start Here" set.
+- **Highlight count, labels, order and covers**; whether any Highlight is a "Results" or "Start Here" set; whether any contains casting/hiring or expired promos (§7.8).
 - Whether the first three grid posts are **pinned**.
 - **Post count** and any active Stories.
 - Profile picture legibility at thumbnail size.
@@ -603,6 +650,12 @@ Everything else in the header analysis is unchanged.
 - Threads name/bio limits and topic tags/links: [1](https://postory.io/blog/threads-bio-ideas) · [3](https://momentumhive.app/blog/threads-character-limit-2026) · [4](https://growthscribe.com/instagram-caption-character-limit/)
 - Bio shared between Instagram and Threads: [1](https://postory.io/blog/threads-bio-ideas) · [2](https://thetextgenerators.com/social-media-character-limits/) · [4](https://www.sendcove.app/integrations/threads/character-limits); dissenting view (separate bios): [3](https://omnisocials.com/guides/threads-character-limits)
 
+**Revision 6 (§7.8) — Highlights mechanics**
+- Cover canvas 1080×1920, circular centre crop, 600–720 px safe zone, ~60 pt / 161 px render: [DMDaddy](https://dmdaddy.com/blog/instagram-highlight-covers) · [Elev8or](https://www.elev8or.io/blog/engage/instagram-highlight-covers) · [Social Previewing](https://www.socialpreviewing.com/blog/instagram-highlight-cover-size-2026-exact-dimensions-circle-crop) · [Socialz](https://socialz.ai/blog/instagram-highlights) · [Startviral](https://startviral.de/en/blogs/instagram-highlight-covers)
+- Highlight labels truncate around 12–15 characters (sources vary): [DMDaddy](https://dmdaddy.com/blog/instagram-highlight-covers) (12) · [Elev8or](https://www.elev8or.io/blog/engage/instagram-highlight-covers) (14) · [Socialz](https://socialz.ai/blog/instagram-highlights) (15 displayed)
+- Order = most recently updated, newest at far left; first 4–5 visible; 5–8 Highlights recommended; edit in reverse to control order; title slide first, CTA slide last: [AdaptlyPost](https://adaptlypost.com/blog/instagram-story-highlights-business) · [ContentStudio](https://contentstudio.io/blog/instagram-highlights) · [AOK Marketing](https://aokmarketing.com/how-to-organize-instagram-highlights-for-sales/)
+- Additional failed mirror routes: [Imgsed Highlights](https://imgsed.com/highlights/destined.digital/) (falls back to posts) · [Imgsed Stories](https://imgsed.com/stories/destined.digital/) ("No Stories" = active Stories only)
+
 **Revision 3 (§7.4) — search weighting and positioning**
 - Instagram search prioritises display name, username and account category over bio text: [Linkship](https://linkship.cc/en/blog/instagram-character-limit) · [Taskant](https://taskant.com/instagram-character-limit/) · [Sked Social](https://skedsocial.com/blog/anatomy-of-a-perfect-instagram-business-bio-a-complete-guide)
 - Contact buttons can surface a business address (Directions), making a location line in copy redundant: [Sked Social](https://skedsocial.com/blog/anatomy-of-a-perfect-instagram-business-bio-a-complete-guide)
@@ -620,4 +673,4 @@ Everything else in the header analysis is unchanged.
 
 ---
 
-*Desk research from publicly accessible sources, plus the client's own observation of the live profile on a phone and their editorial decisions (§7, Revisions 2–5). Character counts were computed against the exact strings shown. All header rewrites are proposals, not observed changes; the locked bio in §7.6 is a client decision.*
+*Desk research from publicly accessible sources, plus the client's own observation of the live profile on a phone and their editorial decisions (§7, Revisions 2–6). Character counts were computed against the exact strings shown. All header rewrites are proposals, not observed changes; the locked bio in §7.6 is a client decision.*
