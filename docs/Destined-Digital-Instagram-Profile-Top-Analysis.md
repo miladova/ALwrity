@@ -2,7 +2,7 @@
 
 **Subject:** `@destined.digital` — the profile header (name, bio, profile picture, category, links, counts, Highlights, pinned posts) and its Threads counterpart
 **Prepared:** 7 November 2026 (MYT)
-**Revisions:** 2 — 7 November 2026, client review of the live profile on a phone: avatar centring, name wrapping, bio emoji/capitalisation/content (§7, supersedes §6). **3 — 7 November 2026, geography is conditional, not a requirement (§7.4).** **4 — 7 November 2026, client decision: the bio line "marketing doesn't have to be boring or repetitive" and `(003694655-T)` are LOCKED (§7.6); all bio-replacement drafts are withdrawn.** **5 — 7 November 2026, FINAL BIO ANSWER in §7.7: keep the line word-for-word, add one initial capital, remove 🧸, add nothing else.** **6 — 8 November 2026, HIGHLIGHTS ANSWER in §7.8: architecture, ordering mechanics, cover specs.** **7 — 8 November 2026, client spots two overlaps; §7.9 resolves them and reduces the final set to FIVE Highlights.** **8 — 8 November 2026, why Highlights matter and what they cannot do (§7.10).** **9 — 8 November 2026, EVIDENCE CORRECTION: two real Highlights found (`BTS`, `client feedback`), plus a full Instagram Stories section (§8).** **10 — 8 November 2026, current Story state and the two cover images described (§8.7).** **11 — 8 November 2026, a sustainable recurring Story idea bank and weekly template (§8.8).** **12 — 8 November 2026, CONFIDENTIALITY CONSTRAINT: client material must not be exposed; §8.9 re-tiers the idea bank and rebuilds the weekly rhythm on clearance-free content.** **13 — 8 November 2026, ten source-backed, clearance-free Story ideas that feed the five Highlights (§8.10).** **14 — 8 November 2026, §8.10 expanded from ten to THIRTY ideas at the client's request.** **15 — 8 November 2026, §8.11 adds two banks of twenty: twenty Stories you can just post and twenty designed for audience interaction.**
+**Revisions:** 2 — 7 November 2026, client review of the live profile on a phone: avatar centring, name wrapping, bio emoji/capitalisation/content (§7, supersedes §6). **3 — 7 November 2026, geography is conditional, not a requirement (§7.4).** **4 — 7 November 2026, client decision: the bio line "marketing doesn't have to be boring or repetitive" and `(003694655-T)` are LOCKED (§7.6); all bio-replacement drafts are withdrawn.** **5 — 7 November 2026, FINAL BIO ANSWER in §7.7: keep the line word-for-word, add one initial capital, remove 🧸, add nothing else.** **6 — 8 November 2026, HIGHLIGHTS ANSWER in §7.8: architecture, ordering mechanics, cover specs.** **7 — 8 November 2026, client spots two overlaps; §7.9 resolves them and reduces the final set to FIVE Highlights.** **8 — 8 November 2026, why Highlights matter and what they cannot do (§7.10).** **9 — 8 November 2026, EVIDENCE CORRECTION: two real Highlights found (`BTS`, `client feedback`), plus a full Instagram Stories section (§8).** **10 — 8 November 2026, current Story state and the two cover images described (§8.7).** **11 — 8 November 2026, a sustainable recurring Story idea bank and weekly template (§8.8).** **12 — 8 November 2026, CONFIDENTIALITY CONSTRAINT: client material must not be exposed; §8.9 re-tiers the idea bank and rebuilds the weekly rhythm on clearance-free content.** **13 — 8 November 2026, ten source-backed, clearance-free Story ideas that feed the five Highlights (§8.10).** **14 — 8 November 2026, §8.10 expanded from ten to THIRTY ideas at the client's request.** **15 — 8 November 2026, §8.11 adds two banks of twenty: twenty Stories you can just post and twenty designed for audience interaction.** **16 — 8 November 2026, LOW-EFFORT CORRECTION: §8.12 re-cuts both banks into phone-only, ≤5-minute Stories and retires the designed or data-dependent versions in §8.10–§8.11.**
 **Companion to:** [`Destined-Digital-Instagram-Research.md`](Destined-Digital-Instagram-Research.md)
 **Posts teardown:** [`Destined-Digital-Instagram-Posts-Analysis.md`](Destined-Digital-Instagram-Posts-Analysis.md) — feed posts, Reels, captions, cadence and engagement; §13 (Revision 2) covers posting frequency, content variety, aesthetic & colour scheme; Revision 3 separates content type from topic variety (§13.2); Revision 4 expands the corpus to 18 posts and adds the type deep dive (§14); Revision 5 rebuilds topic variety, buyer-journey coverage and the topic target (§15)
 **Theory basis:** MKW1120 Lectures 1–10 (uploaded PDFs), especially L9 (IMC / communication process), L6 (STP & positioning), L7 (services & brand), L5 (buyer decision process)
@@ -946,6 +946,8 @@ Opportunistic and green: `Meet the desk`, `Behind the process` (own templates), 
 
 ### 8.10 Thirty source-backed Story ideas that build Highlights (Revisions 13–14)
 
+> **Effort caveat (Revision 16):** several ideas below assume a designed card, a mock-up, an Insights pull or a multi-frame sequence. **§8.12 is the low-effort version of this library** and is the default for a small team; treat §8.10 as an ambition library for weeks with spare capacity.
+
 The client's draft paragraph argues that a neglected Story field signals inactivity, looks inconsistent for an agency that sells digital marketing, and wastes the most direct channel for reminding followers that the business is operating, what it does and how the team works; that polls and questions turn presence into two-way interaction; that Stories are tangible proof of the services offered and the raw material for permanent Highlights; and that they keep the account alive between more polished feed posts. They then asked for ten Story ideas with reference links, and later for **thirty in total**. This section now contains thirty.
 
 **One evidence fix before the ideas.** "The latest being posted around 5 months ago" should be read as the most recent **saved Highlight cover asset** — the two CDN assets are stamped 15 and 30 May 2026 (§8.7). A Highlight cover does **not** change when new frames are added to that Highlight, and Stories can be posted without ever being saved. No active 24-hour Story was visible on the mirrors on 8 Nov 2026, but that is a single snapshot, not a five-month pattern. Keep the inactivity argument; verify the last-Story date in a logged-in session before asserting it (§9). Safer wording: *"only two saved Highlights, whose most recent cover assets date to May 2026"* or *"no active Story was visible at the time of the audit"*.
@@ -1043,6 +1045,8 @@ The client's draft paragraph argues that a neglected Story field signals inactiv
 
 ### 8.11 Two banks of twenty — "just post" vs interactive Stories (Revision 15)
 
+> **Superseded for effort (Revision 16):** the client specified that the ideas must be **low-effort**. Both 20-item banks are re-cut in **§8.12** as phone-only, ≤5-minute posts. Read the IDs below for the concept, but produce the §8.12 version — do not build the designed assets, templates, spec work or screen recordings described here.
+
 The client asked for **twenty Stories we can just post** and **twenty that allow interaction with the audience**. These are **40 additional ideas**, not a re-sort of the thirty in §8.10 — the two sections together give a 70-idea library. All 40 follow §8.9 and §8.10: **green-tier / clearance-free**, no client names, logos, handles, metrics, dashboards, packaging, unreleased work or live client-product footage; own staff only with consent captured once; proof from own-account experiments, spec work, aggregate counts, method-not-metrics and links to already-public owned pages.
 
 **The split is about whether the Story needs a reply:**
@@ -1129,6 +1133,108 @@ The client asked for **twenty Stories we can just post** and **twenty that allow
 
 ---
 
+### 8.12 Low-effort re-cut — 40 Stories that take under five minutes (Revision 16)
+
+The client's correction: **"they need to be low-effort."** That is right. Several ideas in §8.10–§8.11 were disguised production tasks — a designed quote card, a spec mock-up, a five-point checklist, a screen recording, a bingo board, an Insights pull, a six-frame Highlight tour. Those would collapse a 2–3 day/week rhythm within a fortnight. This section re-cuts **both 20-item banks** so that every idea is phone-only, uses something already on the phone or already published, and takes **≤5 minutes, most ≤2**.
+
+**The hard test — a Story qualifies only if all five answers are yes:**
+
+1. Can it be posted **from the phone in ≤5 minutes**, with no design tool, laptop or Canva?
+2. Does it use something **already on the phone or already published** (own caption, own post, a snap, a public link)?
+3. Does it need **zero client clearance** (green tier, §8.9)?
+4. Does it need **no exact number pulled from Insights** and no price verification?
+5. Does it need **no new shoot, no new asset and no per-post approval**?
+
+If any answer is no, convert it or drop it. The workhorse is **Instagram's native text tool plus one native sticker** — no artwork, no template, no colour system. 2026 guidance supports this: Stories are the low-effort surface, sequences of 3–5 frames outperform long ones, and raw unpolished footage consistently beats produced corporate content ([PostPlanify](https://postplanify.com/blog/instagram-post-vs-story-vs-reel), [Sprout Social](https://sproutsocial.com/insights/instagram-for-small-business/), [ContentStudio](https://contentstudio.io/blog/instagram-trends)). Effort should go into the *specificity of the sentence*, not the look ([r/InstagramMarketing](https://www.reddit.com/r/InstagramMarketing/comments/1tc03ce/stop_creating_content_nobody_watched_heres_what/)).
+
+**What gets retired or converted** — the high-effort items from §8.10–§8.11 and their low-effort replacements here:
+
+| Retired / converted | Why it fails the test | Use instead |
+|---|---|---|
+| §8.11 A3 — 10-second edit timeline | Screen recording + editing | §8.12 A15 notebook snap / A17 one thing we changed |
+| §8.11 A4 — spec asset reveal | Requires **creating** a mock-up | §8.12 A7 own caption line |
+| §8.11 A5 — own-account mini report | Requires pulling and verifying Insights | §8.12 A16 three things this week (aggregate counts, nothing to look up) |
+| §8.11 A9 — pre-boost checklist | Designed 5-point card | §8.12 A6 one-myth native-text card |
+| §8.11 A10 / A18 / A20 — quote card, cover-template reveal, Highlight frame top-up | Designed cards | §8.12 A7, B8, A18 — native text or a slider on an existing frame |
+| §8.11 B12 — Add Yours blank template | Template design | §8.12 B9 plain Add Yours sticker |
+| §8.11 B16 — guess the price | Price verification | §8.12 B12 DM keyword |
+| §8.11 B17 — marketing-mistakes bingo | Designed bingo board | §8.12 B6 fill in the blank |
+| §8.11 B18 — DM keyword checklist | Requires building a checklist asset | §8.12 B12 "we'll reply with our 3 questions" — no asset |
+| §8.10 #20 / #23 / #30 — mini tutorial, spec case study, six-frame Highlight tour | New assets or multi-frame design | §8.12 A11, A7, A18 |
+| §8.10 #5 — three-frame behind-the-shot sequence | Staged shoot | §8.12 A4 one phone snap |
+
+*§8.10 and §8.11 are not deleted — they are an ambition library for weeks with spare capacity. §8.12 is the default.*
+
+#### Bank A — 20 low-effort Stories you can just post (no reply required)
+
+| # | Idea | How it is posted (phone only) | Effort | Saves to |
+|---|---|---|---|---|
+| **A1** | **`We're in the studio today`** | Native text on any background: "In the studio today — 3 Reels to edit." No photo needed | ≤1 min | **Expires** |
+| **A2** | **`Reshare own latest post`** | Tap share → Add to story. Nothing to design or write | ≤30 s | **Expires** |
+| **A3** | **`Reshare own Reel`** | Same; the Reel appears as a preview sticker | ≤30 s | **Expires** |
+| **A4** | **`One phone snap`** | Any desk / coffee / camera photo already on the phone, no editing | ≤1 min | `BTS` |
+| **A5** | **`Plain-text FAQ`** | Native text: "Q: outside KL? A: yes, remote too." | ≤1 min | `FAQ` |
+| **A6** | **`Plain-text buyer myth`** | "Myth: more posts = more sales." + one-line truth | ≤1 min | `FAQ` |
+| **A7** | **`Own caption line`** | Copy one line from an existing Destined caption into native text | ≤1 min | `Why Us` |
+| **A8** | **`Link to a public page`** | One native-text frame + link sticker to `/testimonials` or `/whydestined`. **Link only — never lift the screenshot** | ≤1 min | `Results` / `Services` |
+| **A9** | **`Out-of-office dates`** | Native text with dates and the contact route | ≤1 min | **Expires** |
+| **A10** | **`Countdown only`** | Name the event, set the date; Instagram renders the sticker | ≤1 min | **Expires** |
+| **A11** | **`One-sentence method`** | "We check every hook against 3 questions." native text | ≤1 min | `Why Us` |
+| **A12** | **`Reshare a cleared / own mention`** | Tap Add to story on an own-account or permissioned tag | ≤30 s | **Expires** |
+| **A13** | **`What we're booking`** | Native text + link to `/whydestined`; no price unless still current | ≤1 min | `Services` |
+| **A14** | **`New post is live`** | Native text + reshare own post | ≤1 min | **Expires** |
+| **A15** | **`Notebook / to-do snap`** | One phone photo of own list, crop out any names | ≤1 min | `BTS` |
+| **A16** | **`Three things this week`** | Native text, aggregate counts only ("2 calendars · 1 shoot · 1 audit") | ≤2 min | **Expires** |
+| **A17** | **`One thing we changed`** | Native text, one sentence, own work only | ≤1 min | `Why Us` |
+| **A18** | **`Highlight pointer`** | "Full FAQ in the `FAQ` Highlight" native text | ≤1 min | `Start Here` / `FAQ` |
+| **A19** | **`Weekend / see you Monday`** | Native text, one line | ≤1 min | **Expires** |
+| **A20** | **`The one question we ask`** | Native text: "what would make this worth buying?" | ≤1 min | `Services` / `Why Us` |
+
+#### Bank B — 20 low-effort Stories that interact with viewers
+
+| # | Idea | Sticker + follow-up | Effort | Saves to |
+|---|---|---|---|---|
+| **B1** | **`Yes/No qualifier`** | Poll "getting enquiries? Yes / Not yet" → F2 one tailored line | ≤2 min | **Expires** / `Start Here` |
+| **B2** | **`This or That`** | Poll "Reels or carousels?" → F2 "you picked X" | ≤2 min | `Why Us` / **Expires** |
+| **B3** | **`What should we post next?`** | Poll, 2 topics → F2 "winner goes up Friday" | ≤2 min | **Expires** (feeds calendar) |
+| **B4** | **`Ask us anything`** | Question sticker, 1 frame → answers as native text tomorrow | ≤1 min | `FAQ` |
+| **B5** | **`Biggest marketing headache?`** | Question sticker → repost 1 answer | ≤2 min | `FAQ` |
+| **B6** | **`Fill in the blank`** | Native text + questions sticker: "the one tool I cannot work without is ___" | ≤1 min | `Why Us` / **Expires** |
+| **B7** | **`Caption this`** | One phone snap + questions sticker → repost winner | ≤2 min | **Expires** |
+| **B8** | **`Rate our new cover`** | Emoji slider on an existing frame → reveal winner | ≤1 min | `Why Us` |
+| **B9** | **`Add Yours: your workspace`** | Add Yours sticker, no asset → repost 1 response | ≤1 min | **Expires** |
+| **B10** | **`Which is a real IG rule?`** | Quiz typed into the sticker → reveal | ≤2 min | `FAQ` |
+| **B11** | **`Hot take: agree or nah?`** | Own published line + poll → F2 three lines of reasoning | ≤2 min | `Why Us` |
+| **B12** | **`DM keyword`** | "DM `AUDIT` and we'll reply with our 3 questions" — **no asset to build** | ≤1 min | `Start Here` / `Services` |
+| **B13** | **`Poll-results reveal`** | Native text with yesterday's result → "you picked X, so we did Y" | ≤1 min | `Why Us` / `Results` |
+| **B14** | **`Two truths and a lie`** | Quiz typed into the sticker → reveal our real method | ≤2 min | `Why Us` |
+| **B15** | **`Which service first?`** | Poll, 2–4 own services → F2 "who each is for" | ≤2 min | `Services` |
+| **B16** | **`What do you want more of?`** | Question sticker → repost 1 answer | ≤2 min | `FAQ` / **Expires** |
+| **B17** | **`How excited for [own launch]?`** | Emoji slider → F2 one line on what's coming | ≤2 min | `Start Here` / **Expires** |
+| **B18** | **`Few views or few DMs?`** | Poll → F2 one line on each problem | ≤2 min | `FAQ` |
+| **B19** | **`Part 2?`** | Reshare own Reel + poll "should we make a part 2?" | ≤2 min | **Expires** |
+| **B20** | **`Ask [name] anything`** | Question sticker on a 5-second team clip (staff consent once) → answer tomorrow | ≤2 min | `Why Us` |
+
+*Every Bank B idea still has a **follow-up frame** — that is the part that turns a tap into a relationship — but the follow-up is one line of native text, not a designed card. One interactive sticker per Story day, not on every frame ([Postlink](https://postlinkapp.com/blog/instagram-story-ideas), [GrowthViral](https://growthviral.co/instagram-growth-hub/engagement/instagram-story-ideas/)).*
+
+#### The time budget
+
+| Day | Frames | What | Minutes |
+|---|---|---|---|
+| Mon morning | — | **15-minute batch**: assign the week's three slots from the 40 below. No content is made. | 15 |
+| Mon | 2–3 | A1 status + A16 three things + B3 vote | 3 |
+| Wed | 2–3 | A4 phone snap + B1 qualifier or B13 result reveal | 3 |
+| Fri | 2 | A5 FAQ + B4 question box | 2 |
+| **Total** | | | **≈23 min/week** |
+
+**Fallback:** on a chaotic week post **2 frames** — one native-text line + one poll — rather than zero. Consistency is measured in **days**, not production value ([Storrito](https://storrito.com/resources/start-posting-instagram-stories-phone-only/), [Sprout Social](https://sproutsocial.com/insights/instagram-for-small-business/)). Stories rank on viewing consistency, replies and relationship closeness, not on polish ([Catalyst Communications](https://www.catalystcommunications.com.au/blog/how-the-instagram-algorithm-works-in-2026)). Rotate sticker types across the week so the tray does not feel repetitive ([Storrito](https://storrito.com/resources/start-posting-instagram-stories-phone-only/)).
+
+**Still applies:** all 40 are green-tier / clearance-free under §8.9 — no client names, logos, handles, metrics, dashboards, quotes, packaging, unreleased work or live client-product footage; own staff only with consent captured once; links point to already-public owned pages; the unverified "Meta 56–70%" stat and `/personal-branding` template filler stay out. Specs from §8.4: 1080×1920, key text in the centre safe zone, 3–4 frames per day, 2-frame fallback. Only evergreen frames get saved to a Highlight; rows marked **Expires** deliberately stay in the 24-hour window.
+
+*Revision 16 is the client's correction applied to §8.10–§8.11. The 40 ideas here are the operational default; the earlier 70 remain a reference library. All external links are illustrative guides, not evidence about Destined Digital's own Story behaviour. The saved-Highlight-cover date caveat in §8.10 still applies, and the client's draft paragraph has still not been inserted into §8.7.*
+
+---
+
 ## 9. Verify in a logged-in session before finalising
 
 - The **exact live name field** and whether "Full-Service Marketing Agency" is the name or the business category — plus whether it is inherited from a linked Facebook Page.
@@ -1146,6 +1252,13 @@ The client asked for **twenty Stories we can just post** and **twenty that allow
 ---
 
 ## 10. Sources
+
+**Revision 16 (§8.12) — low-effort / phone-only Stories**
+- Stories are the low-effort surface; 3–5 slides per sequence; batch, do not create daily; "do not treat Stories like a second feed": [PostPlanify — Post vs Story vs Reel 2026](https://postplanify.com/blog/instagram-post-vs-story-vs-reel)
+- Phone-only workflow, 5–12 s clips, batch shooting, rotate sticker types: [Storrito — how to post Stories using only your phone](https://storrito.com/resources/start-posting-instagram-stories-phone-only/)
+- Raw, unpolished footage consistently outperforms produced corporate content; batching prevents burnout: [Sprout Social — small business guide 2026](https://sproutsocial.com/insights/instagram-for-small-business/)
+- Effort belongs in the idea and specificity, not the look: [ContentStudio — Instagram trends 2026](https://contentstudio.io/blog/instagram-trends) · [r/InstagramMarketing — "shot in five minutes"](https://www.reddit.com/r/InstagramMarketing/comments/1tc03ce/stop_creating_content_nobody_watched_heres_what/)
+- Stories rank on viewing consistency, replies and relationship closeness, not polish: [Catalyst Communications — the 2026 algorithm](https://www.catalystcommunications.com.au/blog/how-the-instagram-algorithm-works-in-2026)
 
 **Revision 15 (§8.11) — broadcast vs interactive split**
 - Broadcast / announcement / link and countdown mechanics: [Birdeye — 34 Story ideas for business](https://birdeye.com/blog/instagram-story-ideas/) · [Brandwatch — content ideas, Story links, time-sensitive announcements](https://www.brandwatch.com/blog/instagram-stories/) · [Webtonic — 28 Story ideas grouped by goal](https://www.webtonic.io/blog/instagram-story-ideas) · [InstaPV — 20 business Story ideas](https://instapviewer.com/blog/instagram-stories-for-business-in-2026-20-ideas-that-actually-drive-sales) · [Zeely — Story templates and microcopy](https://zeely.ai/blog/instagram-stories-ideas-templates-a-practical-2026-guide/)
