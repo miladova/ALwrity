@@ -2,7 +2,7 @@
 
 **Subject:** `@destined.digital` — the profile header (name, bio, profile picture, category, links, counts, Highlights, pinned posts) and its Threads counterpart
 **Prepared:** 7 November 2026 (MYT)
-**Revisions:** 2 — 7 November 2026, client review of the live profile on a phone: avatar centring, name wrapping, bio emoji/capitalisation/content (§7, supersedes §6). **3 — 7 November 2026, geography is conditional, not a requirement (§7.4).** **4 — 7 November 2026, client decision: the bio line "marketing doesn't have to be boring or repetitive" and `(003694655-T)` are LOCKED (§7.6); all bio-replacement drafts are withdrawn.** **5 — 7 November 2026, FINAL BIO ANSWER in §7.7: keep the line word-for-word, add one initial capital, remove 🧸, add nothing else.** **6 — 8 November 2026, HIGHLIGHTS ANSWER in §7.8: architecture, ordering mechanics, cover specs.** **7 — 8 November 2026, client spots two overlaps; §7.9 resolves them and reduces the final set to FIVE Highlights.** **8 — 8 November 2026, why Highlights matter and what they cannot do (§7.10).** **9 — 8 November 2026, EVIDENCE CORRECTION: two real Highlights found (`BTS`, `client feedback`), plus a full Instagram Stories section (§8).** **10 — 8 November 2026, current Story state and the two cover images described (§8.7).** **11 — 8 November 2026, a sustainable recurring Story idea bank and weekly template (§8.8).** **12 — 8 November 2026, CONFIDENTIALITY CONSTRAINT: client material must not be exposed; §8.9 re-tiers the idea bank and rebuilds the weekly rhythm on clearance-free content.** **13 — 8 November 2026, ten source-backed, clearance-free Story ideas that feed the five Highlights (§8.10).** **14 — 8 November 2026, §8.10 expanded from ten to THIRTY ideas at the client's request.** **15 — 8 November 2026, §8.11 adds two banks of twenty: twenty Stories you can just post and twenty designed for audience interaction.** **16 — 8 November 2026, LOW-EFFORT CORRECTION: §8.12 re-cuts both banks into phone-only, ≤5-minute Stories and retires the designed or data-dependent versions in §8.10–§8.11.** **17 — 8 November 2026, §8.13 assesses the client's own four "just post" ideas against the low-effort and confidentiality filters.** **18 — 8 November 2026, §8.14 re-cuts the interactive bank into twenty CHILL, low-stakes interactions: the client wants less audience-decides-the-business for now.** **19 — 8 November 2026, §7.11 answers the client's question about which THREE posts to pin, superseding the §6.5 trio.** **20 — 8 November 2026, §7.12 re-cuts that answer into the client's own plain-language model: About / Proof / Services.**
+**Revisions:** 2 — 7 November 2026, client review of the live profile on a phone: avatar centring, name wrapping, bio emoji/capitalisation/content (§7, supersedes §6). **3 — 7 November 2026, geography is conditional, not a requirement (§7.4).** **4 — 7 November 2026, client decision: the bio line "marketing doesn't have to be boring or repetitive" and `(003694655-T)` are LOCKED (§7.6); all bio-replacement drafts are withdrawn.** **5 — 7 November 2026, FINAL BIO ANSWER in §7.7: keep the line word-for-word, add one initial capital, remove 🧸, add nothing else.** **6 — 8 November 2026, HIGHLIGHTS ANSWER in §7.8: architecture, ordering mechanics, cover specs.** **7 — 8 November 2026, client spots two overlaps; §7.9 resolves them and reduces the final set to FIVE Highlights.** **8 — 8 November 2026, why Highlights matter and what they cannot do (§7.10).** **9 — 8 November 2026, EVIDENCE CORRECTION: two real Highlights found (`BTS`, `client feedback`), plus a full Instagram Stories section (§8).** **10 — 8 November 2026, current Story state and the two cover images described (§8.7).** **11 — 8 November 2026, a sustainable recurring Story idea bank and weekly template (§8.8).** **12 — 8 November 2026, CONFIDENTIALITY CONSTRAINT: client material must not be exposed; §8.9 re-tiers the idea bank and rebuilds the weekly rhythm on clearance-free content.** **13 — 8 November 2026, ten source-backed, clearance-free Story ideas that feed the five Highlights (§8.10).** **14 — 8 November 2026, §8.10 expanded from ten to THIRTY ideas at the client's request.** **15 — 8 November 2026, §8.11 adds two banks of twenty: twenty Stories you can just post and twenty designed for audience interaction.** **16 — 8 November 2026, LOW-EFFORT CORRECTION: §8.12 re-cuts both banks into phone-only, ≤5-minute Stories and retires the designed or data-dependent versions in §8.10–§8.11.** **17 — 8 November 2026, §8.13 assesses the client's own four "just post" ideas against the low-effort and confidentiality filters.** **18 — 8 November 2026, §8.14 re-cuts the interactive bank into twenty CHILL, low-stakes interactions: the client wants less audience-decides-the-business for now.** **19 — 8 November 2026, §7.11 answers the client's question about which THREE posts to pin, superseding the §6.5 trio.** **20 — 8 November 2026, §7.12 re-cuts that answer into the client's own plain-language model: About / Proof / Services.** **21 — 8 November 2026, §7.13 answers whether to flip slots 2 and 3: yes, for now — About / Services / Proof.**
 **Companion to:** [`Destined-Digital-Instagram-Research.md`](Destined-Digital-Instagram-Research.md)
 **Posts teardown:** [`Destined-Digital-Instagram-Posts-Analysis.md`](Destined-Digital-Instagram-Posts-Analysis.md) — feed posts, Reels, captions, cadence and engagement; §13 (Revision 2) covers posting frequency, content variety, aesthetic & colour scheme; Revision 3 separates content type from topic variety (§13.2); Revision 4 expands the corpus to 18 posts and adds the type deep dive (§14); Revision 5 rebuilds topic variety, buyer-journey coverage and the topic target (§15); Revision 6 adds twenty golden static / carousel ideas and a build-once spec (§16)
 **Theory basis:** MKW1120 Lectures 1–10 (uploaded PDFs), especially L9 (IMC / communication process), L6 (STP & positioning), L7 (services & brand), L5 (buyer decision process)
@@ -709,7 +709,7 @@ Short answer: **they are the only permanent, structured navigation an Instagram 
 | # | Fix | Effort | Why here |
 |---|---|---|---|
 | 1 | **Name (≤24 chars) + category + 5 native links** | Minutes | Fixes the single biggest gap (`/testimonials` undiscoverable) and helps both search and conversion |
-| 2 | **Pinned trio** (§7.11–§7.12) | Reorder 3 existing posts, ~10 min | Permanent first-screen proof, no new assets |
+| 2 | **Pinned trio** (§7.11–§7.13) | Reorder 3 existing posts, ~10 min | Permanent first-screen proof, no new assets |
 | 3 | **The five Highlights (§7.9)** | Biggest build, ~25–40 frames | Worth doing once 1 and 2 are done |
 | 4 | **Covers / visual polish** | Design pass | A matching dark set is a credibility cue, not a conversion driver on its own |
 
@@ -777,6 +777,8 @@ Three honest qualifications. **(a)** Verify RM1,500 is still current before pinn
 
 ### 7.12 The client's three-pin model, in plain language (Revision 20)
 
+> **Order revised in §7.13 (Revision 21):** the three jobs are unchanged, but slots 2 and 3 are swapped to **About / Services / Proof** for now. The post selections, confidentiality rule and pin-vs-Highlight rule below still apply.
+
 The client's reply to §7.11: **(1)** "okay i get this one. its the basic who we are, founder image etc." — **(2)** "i dont really understand this one" — **(3)** "**our services** kind of post, what we offer".
 
 **Verdict: the client is right and §7.11's slot 2 was jargon.** The abstract "consideration / method" label and the 10 Mar messaging-clarity Reel are **withdrawn**. The correct trio is the classic, plainly named **About / Proof / Services**, which is also the shape of the original §6.5 answer — restored here with the two fixes that §7.11 added (confidentiality, and no duplication with Highlights).
@@ -805,6 +807,47 @@ The client's reply to §7.11: **(1)** "okay i get this one. its the basic who we
 **Mechanics and caveats from §7.11 are unchanged:** three slots, any own post including Reels and carousels, silent and reversible; newest pin lands top-left, so pin **3 → 2 → 1** and verify in-app; unpin anything time-bound the day it expires ([UpGrow](https://www.upgrow.com/blog/ultimate-guide-instagram-pinned-posts)). Whether the first three mirror grid items are actually pinned is **unconfirmed** — confirm the live pins, their order, the current price and any clearances in a logged-in session. Pins convert attention that already exists; they create no discovery (§7.10). Track profile visits → link taps → `AUDIT` DMs → consults, not likes.
 
 *Revision 20 records the client's own framing and supersedes §7.11 only on slot 2's label and content. All external sources are secondary practitioner guides, not Meta primary rules, and disagree on minor UI details. No official analytics, exhaustive post history, exact visuals or current pinned state are claimed. The client-review clearance decision (§8.13), the "product poster" scope question, the saved-Highlight-cover date caveat (§8.7/§8.10) and the public-GitHub privacy question all remain open.*
+
+---
+
+### 7.13 Should slots 2 and 3 be flipped? (Revision 21)
+
+The client asks: **"should we flip 2 and 3 in order?"** — i.e. **About / Services / Proof** instead of §7.12's **About / Proof / Services**.
+
+**Short answer: yes, flip — for now.** It is a low-stakes, silent, reversible change, but for *this* account the flipped order fixes the more urgent problem.
+
+#### The two orders optimise different things
+
+| Order | Optimises | Sequence logic | Supported by |
+|---|---|---|---|
+| **About / Proof / Services** | **Persuasion** — trust before the ask | intro → proof → CTA ("hook → specificity → proof → CTA") | [Fobet Media](https://fobetmedia.com/instagram-pinned-post-strategy/), [LiveInstagram](https://liveinstagram.net/instagram/how-instagram-pinned-posts-work/), [BrandID](https://brandid.app/blog/how-to-pin-a-post-on-instagram/), [DeepMarketing](https://www.deepmarketing.it/en/blog/persuasive-content-social-ads-2026) |
+| **About / Services / Proof** | **Comprehension** — what you do before whether you are good | who → what → why believe | Buyer-journey logic (§15.5); the client's own instinct |
+
+Most 2026 guides default to the first, and the classic reason is sound: the **third tile is the "closer"** — the one that turns a visit into a next step. If the services post carries "how to start", keeping it last is persuasive. **But that assumes the visitor already understands what is being sold.**
+
+#### Why flip here
+
+1. **The bottleneck is clarity, not trust.** The bio is locked as a non-informational brand line (§7.7), the name is being shortened (§7.2), and the loudest observed signal is the *"Okay great marketing. Now show me the product where can I get it"* comment. §15.5 found **0 dedicated consideration-stage posts**. A stranger needs "what do you offer" *before* "are they good" — putting services in the more prominent slot 2 answers the question that is actually being asked.
+2. **Slot 2 currently holds the weakest tile.** Until a cleared case study with a real number exists, proof means the Sunway credential or a green-tier spec/own-account substitute (§7.12). Don't spend the second-most-viewed slot on the weakest asset; let proof work as the **final reassurance** at slot 3.
+3. **Nothing has to be duplicated.** All three tiles sit above the fold on a phone, so the **set matters more than the order**. Keep "how to start / `DM \"AUDIT\"`" on the services carousel at slot 2, and add **one soft CTA** to the proof tile's last slide or caption (e.g. "DM for the full breakdown") so the last tile still closes the loop.
+
+#### Final order (for now)
+
+| Slot | Job | Post |
+|---|---|---|
+| **1 (left)** | **About / founder** | 3 May "gen z boss" carousel (55/7) or 31 Jul founder Reel (61/9); later a founder-intro carousel that opens with "who we help" |
+| **2 (middle)** | **Services / what we offer** | 6 Jun launch-package Reel (39/0), **only if RM1,500 is still current**; later **§16 S4** "What full-service actually includes" |
+| **3 (right)** | **Proof / why trust us** | 21 Jul Sunway University guest-lecture carousel (81/5); later a cleared case study with one number, or §16 S6/S9/S10 green substitutes |
+
+#### When to flip back
+
+Once a **cleared case study with a real number** exists, proof becomes strong enough to earn slot 2 — and at that point the textbook **About / Proof / Services (with the CTA last)** sequence is the better order again. Until then, clarity first. Revisit after four weeks against **profile visits → link taps → `AUDIT` DMs → consults**, not likes; do not over-optimise a three-tile order before the underlying posts are strong.
+
+#### Mechanics caveat — verify in-app
+
+**Meta does not document how three pins are ordered among themselves** ([InsAutopilot](https://insautopilot.com/blog/instagram-pinned-posts/)), and 2026 guides conflict: most say the **most recently pinned post lands top-left**, so unpin all three and **re-pin in reverse** of the desired left-to-right order ([UpGrow](https://www.upgrow.com/blog/ultimate-guide-instagram-pinned-posts), [Taap](https://taap.bio/blog/how-to-pin-posts-on-instagram), [TinyGrab](https://tinygrab.com/how-to-pin-on-instagram)); at least one says pin in the order you want them read ([BrandID](https://brandid.app/blog/how-to-pin-a-post-on-instagram/)). Check the result on your own phone after re-pinning. Pinning is silent, free and reversible, and **creates no discovery** — it only changes what profile visitors see first (§7.10).
+
+*Revision 21 changes slot order only; the three jobs, post selections, confidentiality tiers, the pin-vs-`Services`-Highlight no-duplication rule, and all evidence caveats from §7.11–§7.12 are unchanged. Whether the first three mirror grid items are actually pinned remains unconfirmed; confirm the live pins, the current RM1,500 price and any clearances in a logged-in session. The client-review clearance decision (§8.13), the "product poster" scope question, the saved-Highlight-cover date caveat (§8.7/§8.10) and the public-GitHub privacy question all remain open.*
 
 ---
 
@@ -1502,6 +1545,10 @@ Total stays inside the **≈23 min/week** budget in §8.12. **Measure sticker ta
 ---
 
 ## 10. Sources
+
+**Revision 21 (§7.13) — slot order**
+- Two competing sequences — intro → proof → CTA vs clarity-first: [Fobet Media — post 1 founder story, post 2 "ultimate proof"](https://fobetmedia.com/instagram-pinned-post-strategy/) · [LiveInstagram — intro / strongest post / current CTA](https://liveinstagram.net/instagram/how-instagram-pinned-posts-work/) · [BrandID — slot 3 = action](https://brandid.app/blog/how-to-pin-a-post-on-instagram/) · [DeepMarketing — hook → specificity → proof → CTA](https://www.deepmarketing.it/en/blog/persuasive-content-social-ads-2026)
+- Pin order mechanics are **not documented by Meta** and guides conflict: [InsAutopilot — Instagram states no rule for the order of three pins](https://insautopilot.com/blog/instagram-pinned-posts/) · [UpGrow — newest pin top-left, unpin and re-pin to reorder](https://www.upgrow.com/blog/ultimate-guide-instagram-pinned-posts) · [Taap](https://taap.bio/blog/how-to-pin-posts-on-instagram) · [TinyGrab](https://tinygrab.com/how-to-pin-on-instagram)
 
 **Revision 20 (§7.12) — About / Proof / Services**
 - Intro + social proof + offer as the three-pin trio; "the second pin is where proof lives": [Conbersa — how to pin a post](https://www.conbersa.ai/learn/how-to-pin-a-post-on-instagram) · [Techie Spider — how pins shape first impressions](https://www.techiespider.com/how-pinned-posts-shape-first-impressions-on-instagram/) · [Virallized — pinned posts glossary](https://www.virallized.com/instagram-glossary/pinned-posts) · [Transformation Junction — pin your strongest decision-stage proof](https://www.transformationjunction.com/blog/social-proof-convert-followers-clients-uk-businesses/)
