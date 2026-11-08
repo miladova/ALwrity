@@ -5,6 +5,7 @@
 **Revision 2 — 8 November 2026:** adds §13, a deep dive on **posting frequency, content variety, aesthetic & colour scheme**, and corrects several format labels in §1/§2 using decoded Instagram CDN media tags.
 **Revision 3 — 8 November 2026:** separates **content type** (the format: single image / carousel / Reel) from **topic variety** (the subject: founder, proof, BTS, offer, education) as two independent axes, adds a type × topic cross-tab, and sets a separate target for each.
 **Revision 4 — 8 November 2026:** on the user's request to discuss type first, widens the observed corpus from 12 to **18 posts** using the Imginn Reels tab, adds a dedicated **§14 content type deep dive**, and corrects several earlier cadence, format and offer claims (list in §14.6).
+**Revision 5 — 8 November 2026:** rebuilds **topic variety** on the full 18-post corpus in **§15** — full topic inventory, type × topic cross-tab, buyer-journey coverage, an operational topic target, and a second correction list (§15.7).
 **Companion to:** [`Destined-Digital-Instagram-Research.md`](Destined-Digital-Instagram-Research.md) (whole-account audit) and [`Destined-Digital-Instagram-Profile-Top-Analysis.md`](Destined-Digital-Instagram-Profile-Top-Analysis.md) (header, Highlights, Stories)
 **Theory basis:** MKW1120 Lectures 1–10, especially L9 (IMC, communication process, AIDA / 5As, appeals), L7 (services, brand, positioning), L6 (STP), L5 (buyer decision process), L4 (MIS), L2 (relationship marketing)
 
@@ -26,7 +27,7 @@ Instagram's own profile is login-walled. Data comes from two independent mirrors
 | Reach, impressions, saves, shares, profile visits, DMs, conversions | **Unknown** |
 | Posts after 29 Sep 2026 | **Not visible on either mirror**, but the website and Threads show Oct/Nov activity — the mirrors are incomplete, not authoritative |
 
-**Standing caveat:** all engagement figures below are a **mirror sample**, not official analytics. Relative patterns are useful; absolute performance claims are not. See also the client-confidentiality constraint in §8.9 of the profile-top teardown — nothing here uses client-confidential material, and any client result, quote or shoot asset needs written clearance before it appears in a post. **Revision 2** adds §13 below with a second evidence pass; its sources are listed separately in §13.6. **Terminology convention (Revision 3):** *content type* always means the format/container; *topic* always means the subject matter. They are reported separately — see §1 and §13.2. **Revision 4** widens the evidence base to 18 posts and makes §14 the authoritative type analysis; §14.6 lists the claims it supersedes.
+**Standing caveat:** all engagement figures below are a **mirror sample**, not official analytics. Relative patterns are useful; absolute performance claims are not. See also the client-confidentiality constraint in §8.9 of the profile-top teardown — nothing here uses client-confidential material, and any client result, quote or shoot asset needs written clearance before it appears in a post. **Revision 2** adds §13 below with a second evidence pass; its sources are listed separately in §13.6. **Terminology convention (Revision 3):** *content type* always means the format/container; *topic* always means the subject matter. They are reported separately — see §1 and §13.2. **Revision 4** widens the evidence base to 18 posts and makes §14 the authoritative type analysis; §14.6 lists the claims it supersedes. **Revision 5** makes §15 the authoritative topic analysis; §13.2.2/§13.2.3 remain labelled 12-post sub-samples.
 
 ---
 
@@ -58,7 +59,7 @@ A Reel can carry any topic, and any topic can be carried by any type. §2 and §
 
 **† Format labels revised in Revision 2.** The `o=` parameter on each Pixnoy thumbnail decodes to the original signed Instagram CDN URL; its `efg` tag names the media class — `FEED.best_image_urlgen.C3` (single image), `CAROUSEL_ITEM.best_image_urlgen.C3` (carousel frame), `CLIPS.best_image_urlgen.C3` (Reel). Earlier labels in this table were inferred from mirror post pages; the decoded tags supersede them. The 12 dated posts classify as **3 single images, 3 carousels, 6 Reels**. A `CLIPS` asset can be a video compiled from stills (the 2 Jul "photo dump" is the likely case), so verify in-app. One further date caveat: the CDN `Published Time` for the "industries" asset is **16 Aug 2026 13:06 GMT** (≈21:06 MYT) while the mirror labels the post 17 Aug — mirror dates mix UTC and MYT and may shift by ±1 day.
 
-**Revision 4 scope note.** The Reels tab's six further clips (39/0, 19/3, 6/1, 21/0, 37/4, 59/0) are **not duplicates** — they are six older, individually dated Reels (10 Mar – 6 Jun 2026) missing from the truncated grid. The combined observed corpus is therefore **18 posts**, tabulated in §14.2. A "View more" control on Pixnoy confirms the grid mirror is truncated, so 18 is still a lower bound.
+**Scope note (Revisions 4–5).** The 18-post corpus is the basis for the authoritative type analysis (§14) and topic analysis (§15); the 12-post grid tables in §1–§3 and §13.2 are labelled sub-samples. **Revision 4 note.** The Reels tab's six further clips (39/0, 19/3, 6/1, 21/0, 37/4, 59/0) are **not duplicates** — they are six older, individually dated Reels (10 Mar – 6 Jun 2026) missing from the truncated grid. The combined observed corpus is therefore **18 posts**, tabulated in §14.2. A "View more" control on Pixnoy confirms the grid mirror is truncated, so 18 is still a lower bound.
 
 **Sample statistics (12-post grid sub-sample):** 334 likes, 29 comments; **mean ≈ 28 likes, median ≈ 19**, mean ≈ 2.4 comments. Nominal (likes + comments) / 396 followers ≈ **7.6% per post**. Comments are 0–2 on 9 of 12 posts. *§14.2 gives the 18-post figures; the two denominators are not interchangeable.*
 
@@ -96,9 +97,9 @@ The account's own published advice — "posting more is not the same as selling 
 
 *The pillar tags above overlap — a post can count as both founder-centred and an authority signal — so the rows total 13 tags across 12 posts. §13.2.2 gives a strict one-topic-per-post partition with a different denominator; the conclusion is the same, but the two tables are not interchangeable.*
 
-**The precise finding:** *every post above 50 likes is about a person* — but the reverse does not hold. A brand-identity carousel drew 8 likes and the podcast Reel 39. Person-centred content is the strongest available lever, not a guarantee.
+**The precise finding (corrected in Revision 5 — see §15.3):** in the 12-post sub-sample every post above 50 likes was person-centred. Across all 18 posts that is **no longer true** — four posts exceed 50 likes, three founder posts and one **education** Reel (10 Mar 2026, B2B messaging, 59/0). Person-centred content is still the strongest lever, not a guarantee, and it is the only topic that reliably generates comments.
 
-**What is missing from the 12-post grid sample (see §14.6 for corrections):**
+**What is missing from the 12-post grid sample (corrections in §14.6 and §15.7; full 18-post topic audit in §15):**
 
 - **No post with a quantified client result.** The 7 Aug testimonial says "great marketing isn't just about likes and views… meaningful results for our clients" and then shows no result. The `/testimonials` page carries real growth screenshots; none are repurposed onto Instagram.
 - **No post that explains a service in detail** (what is included, deliverables, timelines, who it is for) *in the recent grid* — the 6 Jun Reel lists three deliverables but no timeline or buyer fit.
@@ -109,7 +110,7 @@ The single most telling artefact is a **real comment** on the 5 Jul "smallest tw
 
 > "Okay great marketing. Now show me the product where can I get it"
 
-A follower is literally asking for the offer — despite a launch-package Reel having been published five weeks earlier. The problem is therefore **not absence of the offer but absence of a permanent surface for it** (companion §7.10). Buyer-alignment in one sentence (Lecture 9, feedback; Lecture 1, needs alignment / marketing myopia).
+A follower is literally asking for the offer — despite a launch-package Reel having been published five weeks earlier. The problem is therefore **not absence of the offer but absence of a permanent surface for it** (companion §7.10). §15.5 reads this as a decision-stage buyer arriving at an awareness-stage grid. Buyer-alignment in one sentence (Lecture 9, feedback; Lecture 1, needs alignment / marketing myopia).
 
 ---
 
@@ -146,7 +147,7 @@ Do not claim an exact palette, typography, custom Reel covers or grid layout wit
 ## 6. What the posts get right
 
 1. **A genuinely differentiated voice.** In a category full of "we drive results" agencies, "marketing doesn't have to be boring" is memorable and ownable (Lecture 7 slide 29: brand as perception, cognitive shortcut; L7 slide 32: beliefs-and-values positioning).
-2. **People outperform corporate copy by roughly 4×.** Person-centred posts average ~49 likes versus ~12 for everything else. This is the clearest A/B signal available and should drive the content plan.
+2. **People outperform everything else by roughly 3×.** Corrected in Revision 5: across the 18-post corpus the founder topic averages **65.7 likes** versus **21.2** for all other topics combined (~3.1×), and generates **57% of all comments**. The earlier "~4× / ~49 vs ~12" figures came from the overlapping-tag 12-post sample (§15.3, §15.7). This is still the clearest A/B signal available.
 3. **Local cues are present** (`#klagency`, `#marketingagencykl`, `#DigitalMarketingMY`, `#MarketingForSMEs`, Sunway, Malaysian collaborators) — useful for a Malaysian SME target, even if inconsistently applied.
 4. **Production capability is visible** — product-shot BTS, shoot dumps, set styling — which makes an intangible service partly tangible (Lecture 7 slide 23).
 5. **Authority signals** — Sunway AUSMAT guest lecture, a podcast interview, a founder story — build credibility beyond the grid.
@@ -159,8 +160,8 @@ Do not claim an exact palette, typography, custom Reel covers or grid layout wit
 
 | # | Problem | Evidence |
 |---|---|---|
-| 1 | **Proof is absent from the grid** despite real growth screenshots on `/testimonials` | No quantified result in 12 posts; 7 Aug testimonial shows no number |
-| 2 | **Buyer misalignment** — the feed speaks to peers, friends, students, models and jobseekers more than SME owners | "Okay great marketing. Now show me the product where can I get it" |
+| 1 | **Proof is absent from the grid** despite real growth screenshots on `/testimonials` | No quantified result in **18** posts; the single proof post (7 Aug, 8/0) shows no number (§15.3) |
+| 2 | **Buyer misalignment** — 56% of posts sit at awareness, with no decision-stage furniture | "Okay great marketing. Now show me the product where can I get it"; §15.5 |
 | 3 | **Cadence** — burst-and-silence, 54- and 43-day gaps with a 6-day median inside bursts, no fixed slot system | §2, §13.1, §14.2 |
 | 4 | **No offer architecture** — the one explicit offer is a 9 s June Reel with no pin, Highlight or link; no service explainer with timeline/buyer fit | §3, §14.6 |
 | 5 | **Generic, unmeasurable CTAs** — five variants of "DM us", no keyword or link | §4 |
@@ -178,7 +179,7 @@ Do not claim an exact palette, typography, custom Reel covers or grid layout wit
 |---|---|---|
 | L9 s6–7 | Communication process / noise | The 56–70% stat and generic CTAs introduce noise; the "show me the product" comment is decoded feedback that the promise never landed |
 | L9 s8, s20 | Feedback | Real comments exist but are not used as a feedback loop; no post responds to the buyer's actual question |
-| L9 s10, s15 | 5As / AIDA / appeals | Posts cluster at awareness and emotional appeal; almost nothing at desire/action or rational appeal |
+| L9 s10, s15 | 5As / AIDA / appeals | Posts cluster at awareness and emotional appeal; almost nothing at desire/action or rational appeal — quantified in §15.5 |
 | L9 s22 | IMC — clear, consistent, compelling | Four voices across IG, Threads, website and LinkedIn; even within IG, five different CTAs |
 | L7 s23–24 | Intangibility / inseparability | BTS and founder content are the right physical evidence, but proof and offer are missing |
 | L7 s29, s32 | Brand as perception / positioning levels | Strong beliefs-and-values positioning; weak attribute and benefit positioning |
@@ -206,7 +207,7 @@ Do not claim an exact palette, typography, custom Reel covers or grid layout wit
    - *Offer explainer*: one service per post, what is included, who it is for, entry price (only if RM1,500 is still current), and the free 30-min consult.
 6. **Set two separate targets — one per axis (§13.2.4).** Do not collapse them into a single "content mix" number.
    - **Type target (the container):** of **2–3 feed posts per week**, roughly 2 Reels + 1 carousel; a single image at most once a fortnight and never the week's only post; plus the Stories rhythm in §8.2–8.8 of the profile-top teardown.
-   - **Topic target (the subject):** roughly 40% buyer-problem education / 30% proof / 20% BTS-culture / 10% offers, applied **across** all types. In practice this means proof must also appear as a carousel and a Reel, not always as a single image. Reuse their own TikTok scripts for the education topic.
+   - **Topic target (the subject):** roughly 40% buyer-problem education / 30% proof / 20% BTS-culture / 10% offers, applied **across** all types. In practice this means proof must also appear as a carousel and a Reel, not always as a single image. Reuse their own TikTok scripts for the education topic. **§15.6 makes this operational** on the 18-post corpus, with the hard-offer/soft-CTA distinction and confidentiality-safe proof substitutes.
 7. **Design a consistent Reel cover template** (dark wordmark system, one short title, matching the avatar) so the grid reads as a series — the palette roles, 60/30/10 rules and cover-template spec are in §13.4.
 8. **Systematise collaborations**: one co-created Reel per month with a complementary Malaysian business, as the `@zhechambers.my` post did.
 9. **Answer the comment.** Publish "what we sell, what it costs, how to buy" — but first **resurface the 6 Jun launch-package Reel** (pin it, add it to a Highlight, link it from the bio); the content already exists (§14.6).
@@ -240,7 +241,7 @@ The marketing is done **for clients**, so client information must remain confide
 
 ---
 
-## 12. Sources (Revision 1 — additional sources for §13 are in §13.6)
+## 12. Sources (Revision 1 — additional sources in §13.6, §14.7 and §15.8)
 
 **Post surfaces**
 - [Imginn posts](https://imginn.com/destined.digital/) (chunks 0–1) · [Imginn Reels](https://imginn.com/reels/destined.digital/) · [Pixnoy posts](https://www.pixnoy.com/profile/destined.digital/) (chunks 0–2)
@@ -354,7 +355,7 @@ Decoded CDN `efg` tags classify all 12 dated posts:
 
 #### 13.2.2 Axis B — topic variety
 
-> **Scope warning (Revision 4):** this is the 12-post grid sub-sample. The six added Reels change the topic distribution; per the user's request, **topic re-analysis is deferred** — see the note at the end of §14.5.
+> **Superseded for counts (Revision 5):** this is the 12-post grid sub-sample, retained as a worked example of the method. The authoritative 18-post topic distribution is **§15.3**; the corrected cross-tab is **§15.4**.
 
 §3 used overlapping pillar tags (13 tags across 12 posts). Here each post gets **exactly one dominant topic** so the distribution is countable:
 
@@ -373,7 +374,7 @@ Decoded CDN `efg` tags classify all 12 dated posts:
 
 #### 13.2.3 The cross-tab — where the two axes meet
 
-> **Scope warning (Revision 4):** this cross-tab is a **12-post sub-sample**. It is retained as a worked example of the method, not as the final count; the empty-cell diagnosis is revisited after the topic discussion.
+> **Superseded for counts (Revision 5):** this cross-tab is a **12-post sub-sample**, retained as a worked example. The rebuilt 18-post cross-tab is **§15.4** — the central finding (carousels carry only founder + brand) survives unchanged.
 
 | Topic ↓ / Type → | Single image | Carousel | Reel | n |
 |---|---|---|---|---|
@@ -398,7 +399,7 @@ This is the precise reason to separate the axes: **fixing type variety alone pro
 | Axis | Observed (mirror) | Proposed target | Guardrail |
 |---|---|---|---|
 | **A — type** | 3 single / 3 carousel / **12 Reels** (17/17/**67%**) across 18 posts (§14.2) | 2 Reels + 1 carousel per week; single image ≤ fortnightly, never the week's only post | No gap >14 days, rolling 1-week buffer (§13.1) |
-| **B — topic** | Founder 3, BTS 3, brand 2, offer 2, proof 1, education 1 | 40% buyer education / 30% proof / 20% BTS-culture / 10% offers (§9) | Every recurring topic must appear in **≥2 types** within a 4-week cycle; no topic welded to one format |
+| **B — topic** | Founder 3, BTS **5**, brand 2, offer **5**, proof 1, education **2** across 18 posts (§15.3) | 40% buyer education / 30% proof / 20% BTS-culture / 10% **hard** offers (§9, §15.6) | Every recurring topic must appear in **≥2 types** within a 4-week cycle; no topic welded to one format |
 
 Each calendar slot is then one **(type, topic) pair** — the distinction becomes operational rather than decorative:
 
@@ -491,7 +492,9 @@ The table below is a **placeholder framework to be replaced by the client's real
 
 **Revision 4 additions (full list in §14.7):** [Imginn Reels tab](https://imginn.com/reels/destined.digital/) (chunks 0–1) · six newly dated post pages (`DZPEN_qyCfS`, `DZMnNg0ElBr`, `DYydxvCgce7`, `DYudFl6yj_g`, `DYjuLLSSK-9`, `DVsR8I6l-eg`) · [Metricool 2026 study](https://metricool.com/press-release-instagram-study-2026/) · [Wavevision / Buffer format comparison](https://www.wavevision.io/blog/instagram-carousel-posts-vs-reels-performance-comparison-2026-data) · [TryUnlockDM / Socialinsider](https://www.tryunlockdm.com/blog/instagram-reels-vs-carousels-2026) · [HopperHQ Reel specs](https://www.hopperhq.com/blog/instagram-reel-size/).
 
-**Course material:** MKW1120 Lectures 1, 4, 7 and 9 as referenced in §8.
+**Revision 5 additions (full list in §15.8):** B2B content-mix and buyer-journey sources — [BrandRoad](https://brandroad.in/blog/instagram-growth-b2b-brands-2026), [1into2](https://www.1into2.com/instagram-marketing-strategies-for-b2b-brands/), [Komet Media](https://www.kometmedia.com/blogs/instagram-growth-playbook-for-b2b-saas), [GrowWithSakib](https://growwithsakib.com/content-mapping-buyer-journey/), [Infuse](https://infuse.com/glossary/content-marketing/).
+
+**Course material:** MKW1120 Lectures 1, 4, 5, 7 and 9 as referenced in §8 and §15.5.
 
 ---
 
@@ -568,7 +571,7 @@ These can all be fixed **without changing a single topic** — which is why it w
 | **Single image** | One offer / pinned card | ≤1 per fortnight | One legible message, wordmark, text contrast ≥4.5:1; never the week's only post | DMs, link taps |
 | **Cover system** | Recognition | — | 3–5 templates (Light / Dark / Urgent), ≤5-word title, fixed wordmark corner, one accent underline; carry into Reels covers, Stories and the five Highlight covers in companion §7.9 | 3-column grid coherence, thumbnail legibility at 32–40 px |
 
-**Topic note, deliberately deferred:** the six added Reels are roughly 3 offer/CTA, 2 BTS/culture and 1 education, so the 18-post topic distribution is approximately **BTS 5, offer 5, founder 3, brand 2, education 2, proof 1**. That materially softens "no offer" and hardens "no proof". §13.2.2 and §13.2.3 remain explicitly a 12-post sub-sample and will be rebuilt when we discuss topics.
+**Topic note — now resolved in §15 (Revision 5):** the six added Reels are roughly 3 offer/CTA, 2 BTS/culture and 1 education, giving the 18-post distribution **BTS 5, offer 5, founder 3, brand 2, education 2, proof 1**. §15 confirms those counts, rebuilds the type × topic cross-tab and sets the topic target. The earlier §13.2.2/§13.2.3 tables remain labelled 12-post sub-samples.
 
 ### 14.6 Corrections this pass supersedes
 
@@ -598,4 +601,136 @@ All figures are mirror-derived; no official analytics, no pixel inspection and n
 
 ---
 
-*Desk research from publicly accessible sources only. All engagement figures are a mirror sample, not official analytics; visual conclusions are low-confidence inferences. No client-confidential material is included. Recommendations are proposals, not observed changes. Revision 2 (§13) adds decoded CDN media tags, automated asset descriptions and secondary 2026 design/frequency guidance; Revision 3 separates content type from topic variety (§13.2); Revision 4 expands the corpus to 18 posts and adds the type deep dive (§14). All of it remains to be verified in a logged-in session.*
+## 15. Topic variety deep dive (Revision 5)
+
+Added 8 November 2026 when the user asked to move from type to topics. This is the **authoritative topic analysis on the full 18-post corpus**. §13.2.2 and §13.2.3 are retained as labelled 12-post sub-samples that demonstrate the method. **Content type stays separate throughout (§14)** — topic is *what a post is about*, type is *how it is packaged*.
+
+### 15.1 Method and definitions
+
+- **One dominant topic per post**, no overlapping tags, so the six topic rows sum to exactly 18. §3's older pillar table used overlapping tags (13 tags across 12 posts) and is not comparable.
+- The six topics: **Founder / people / values** · **Brand identity / manifesto** · **BTS / process / culture** · **Social proof / results** · **Offer / service / price** · **Education / industry insight**.
+- Inside *Offer*, distinguish a **hard offer** (price **and** deliverables **and** how to buy in one post) from a **soft CTA** ("DM us", "chat with our team", "free consult") or a **price rationale** (a podcast clip explaining why packages cost what they do). A tag count of five offer posts can look healthy while only one is actually complete — this is the single most useful distinction in this section.
+- All likes/comments are mirror-derived, not official analytics; dates are ±1 day across UTC/MYT. Topic labels are analyst judgements from captions, not Instagram metadata.
+
+### 15.2 Full topic inventory (18 posts, chronological)
+
+| Date | Post | Type | Topic | Offer sub-type | Likes / comments |
+|---|---|---|---|---|---|
+| 10 Mar | B2B messaging clarity | Reel | **Education** | — | **59 / 0** |
+| 3 May | "Gen Z boss" | Carousel | Founder | — | 55 / 7 |
+| 19–20 May | "Heart behind our work" | Carousel | Brand | — | 8 / 0 |
+| 20 May | Team introduction | Reel | BTS | people-centred | 37 / 4 |
+| 24 May | "Your brand is our privilege" | Reel | Offer | soft CTA | 21 / 0 |
+| 26 May | Word-search "upgrade your socials" | Reel | Offer | soft CTA | 6 / 1 |
+| 30 May | Crowded-market manifesto | Single | Brand | — | 18 / 2 |
+| 5 Jun | Day in the life of an Account Manager | Reel | BTS | people-centred | 19 / 3 |
+| **6 Jun** | **Launch package RM1,500/month** | Reel | **Offer** | **hard offer** | 39 / 0 |
+| 2 Jul | "Last bits of June" photo dump | Reel | BTS | — | 7 / 0 |
+| 5 Jul | "Smallest tweaks" | Reel | BTS | — | 10 / 4 |
+| 21 Jul | Sunway AUSMAT lecture | Carousel | Founder | — | **81 / 5** |
+| 31 Jul | "Christ as my business partner" | Reel | Founder | — | **61 / 9** |
+| 31 Jul | Podcast: why packages start at RM1,500 | Reel | Offer | price rationale | 39 / 1 |
+| 7 Aug | Client testimonial | Single | **Proof** | unquantified | 8 / 0 |
+| 10 Aug | Product-shot BTS | Reel | BTS | — | 19 / 0 |
+| 17 Aug | "Industries / request our packages" | Single | Offer | soft CTA | 20 / 1 |
+| 29 Sep | "Meta 56–70%" creative stat | Reel | Education | unverified claim | 8 / 0 |
+
+### 15.3 Distribution and performance
+
+| Topic | n | Share of posts | Likes | Mean likes | Share of likes | Comments | Share of comments |
+|---|---|---|---|---|---|---|---|
+| **Founder / people / values** | 3 | 16.7% | 197 | **65.7** | **38.3%** | **21** | **56.8%** |
+| Offer / service / price | 5 | 27.8% | 125 | 25.0 | 24.3% | 3 | 8.1% |
+| BTS / process / culture | 5 | 27.8% | 92 | 18.4 | 17.9% | 11 | 29.7% |
+| Education / industry insight | 2 | 11.1% | 67 | 33.5 | 13.0% | 0 | 0% |
+| Brand identity / manifesto | 2 | 11.1% | 26 | 13.0 | 5.0% | 2 | 5.4% |
+| **Social proof / results** | **1** | **5.6%** | 8 | **8.0** | **1.6%** | **0** | **0%** |
+| **Total** | **18** | 100% | **515** | 28.6 | 100% | **37** | 100% |
+
+**Seven readings:**
+
+1. **Founder is the engine.** 17% of posts produce 38% of likes and **57% of comments**. Mean 65.7 vs **21.2** for all other topics combined (318 likes / 15 posts) ≈ **3.1×**, not the "~4×" from the 12-post overlapping-tag sample.
+2. **Correction:** *"every post above 50 likes is about a person"* no longer holds. Four posts clear 50 likes — 81, 61, 59, 55 — three founder and one **education** (10 Mar B2B messaging, 59/0). But that education post drew **zero comments**, whereas the three founder posts drew 21 between them. Education can buy attention; people buy conversation.
+3. **Proof is the weakest topic and the biggest gap.** One post, 8 likes, 0 comments, and it contains no number — while `/testimonials` holds real growth screenshots. Client confidentiality (companion §8.9) constrains direct reuse, making this the hardest gap to close; clearance-free substitutes are not optional.
+4. **Offer is not scarce, it is thin.** Five posts (28%) but only **one hard offer** (6 Jun: price + three deliverables + DM CTA). Three are soft CTAs, one is a price rationale inside a podcast clip. Across all five, **3 comments total**, no DM keyword, no link, no measurable CTA — and only one offer post exists after 31 Jul.
+5. **BTS is the second conversation driver** (11 comments, 30% of all comments) despite a low 18.4-like mean. Its two best posts — team intro (37/4) and day-in-the-life (19/3) — are both **people-centred**: the founder effect leaking into the BTS topic.
+6. **Education is polarised and silent.** 59/0 and 8/0, both zero comments; the latter carries an unsupported "Meta 56–70%" claim. "WHERE DREAMS MEET DATA" is demonstrated by neither.
+7. **Brand manifesto is saturated.** Two posts, 5% of likes. No new manifestos are needed.
+
+### 15.4 Type × topic cross-tab, rebuilt for 18 posts
+
+| Topic ↓ / Type → | Single image | Carousel | Reel | n |
+|---|---|---|---|---|
+| Founder / people | — | 55, 81 | 61 | 3 |
+| Brand identity / manifesto | 18 | 8 | — | 2 |
+| BTS / process / culture | — | — | 7, 10, 19, 37, 19 | 5 |
+| Social proof / results | 8 | **—** | **—** | 1 |
+| Offer / service / price | 20 | **—** | 39, 21, 6, 39 | 5 |
+| Education / industry insight | — | **—** | 59, 8 | 2 |
+| **Total** | **3** | **3** | **12** | **18** |
+
+**9 of 18 cells are still empty** — the same count as the 12-post sub-sample, but with different contents and much better evidence:
+
+- **Carousels still carry only founder + brand.** With 18 posts observed, not one carousel has been used for proof, offer, education or BTS. The format with the highest mean engagement has never carried a commercial topic.
+- **Three of six topics are welded to one type:** BTS 5/5 Reels, Education 2/2 Reels, Proof 1/1 single image.
+- **Proof sits in the weakest type**, and BTS/education sit only in the type with the widest performance variance.
+- **Offer has no carousel**, so a service explainer (deliverables, timeline, who it is for, price) has never been built in the format that earns saves.
+
+The mismatch is therefore a *topic* problem as much as a type problem: there is no rule saying a commercial topic must appear in a save-worthy type. Fixing type variety alone gave more Reels about BTS; fixing topic variety alone would give more proof posts that are still single images. **The fix lives in the cells** (§13.2.4 guardrail: every recurring topic in ≥2 types per 4-week cycle).
+
+### 15.5 Buyer-journey coverage (5As / AIDA, MKW1120 Lecture 9)
+
+| Stage | What the buyer needs | Topics that serve it | Corpus | Verdict |
+|---|---|---|---|---|
+| **Aware / Attention** | Name the problem; see a human | Founder, Brand, BTS | **10 / 18 (56%)** | Over-served |
+| **Appeal / Interest** | Demonstrate expertise | Education | 2 / 18 (11%) | Thin; one claim unverified |
+| **Ask / Consideration** | Method, comparison, deliverables, process | Service explainer, education | **0 dedicated** | Missing |
+| **Act / Decision** | Price, how to buy, measurable CTA, proof | Offer, Proof | 5 tagged / **1 hard offer** / 0 measurable CTA | Weak |
+| **Advocate / post-purchase** | Cleared results, client story, UGC | Proof | 1 / 18, no number | Missing |
+
+Secondary 2026 B2B guidance agrees on the shape of the gap: educational content for awareness, comparisons and case studies for consideration, pricing/testimonials/demos for decision ([Infuse](https://infuse.com/glossary/content-marketing/), [GrowWithSakib](https://growwithsakib.com/content-mapping-buyer-journey/), [FanSpicy](https://fanspicy.com/insights/types-of-content-marketing-a-2026-strategy-guide/)); GrowWithSakib's audit framing argues **decision-stage gaps convert existing attention fastest** and should be fixed before adding more awareness content. [Komet Media](https://www.kometmedia.com/blogs/instagram-growth-playbook-for-b2b-saas) and [1into2](https://www.1into2.com/instagram-marketing-strategies-for-b2b-brands/) make the same case for customer-proof carousels and a weekly case-study habit.
+
+**Bottom line:** the feed is a top-of-funnel machine with almost no bottom-of-funnel furniture. The *"Okay great marketing. Now show me the product where can I get it"* comment is a **decision-stage buyer arriving at an awareness-stage grid** (Lecture 9 slides 10, 15; Lecture 5 slides 30–35 on high-involvement B2B search; Lecture 1 slide 6, needs alignment).
+
+### 15.6 The topic target, made operational
+
+§13.2.4 already separates the **type target** (2 Reels + 1 carousel/week) from the **topic target**. Here is the topic side, applied to an illustrative 4-week cycle of 12 posts at 3/week:
+
+| Topic | Current (18 posts) | Target | First move |
+|---|---|---|---|
+| Buyer-problem education | 2 (11%) | **~40% (5)** | Turn the 10 Mar messaging Reel into a repeatable carousel series; reuse their own TikTok scripts; primary sources only |
+| Proof / results | 1 (6%) | **~30% (3–4)** | One number per post, cleared/anonymised/owned; if clearances are unavailable use the green-tier substitutes in companion §8.9 (own-account experiments, spec work, aggregate counts, method-not-metrics) |
+| BTS / culture | 5 (28%) | **~20% (2)** | Keep only the people-centred variants that earned comments |
+| **Hard** offers | **1 of 5 tagged** | **~10% (1)** | Price + deliverables + who it's for + one measurable CTA (`DM "AUDIT"` or the consult link). **Pin, Highlight and link the 6 Jun Reel** rather than reinventing it |
+| Founder | 3 (17%) | Fold into education/proof as the **presenter** | Founder-led Reel: one buyer problem → one fix → one CTA |
+| Brand manifesto | 2 (11%) | 0–1 | No new manifestos |
+
+Two caveats. (1) The 40/30/20/10 split is §9's **hypothesis**, not an industry standard — 2026 B2B guides conflict ([BrandRoad](https://brandroad.in/blog/instagram-growth-b2b-brands-2026) 40/25/20/15; [1into2](https://www.1into2.com/instagram-marketing-strategies-for-b2b-brands/) 40/30/20/10; [Scale Growth](https://scalegrowth.digital/resources/social/instagram-content-ideas/) 40/30/20/10 educate/engage/promote/entertain; [ProMentor](https://promentordigitalsolutions.com/instagram-marketing-for-small-businesses-what-actually-works-in-2026/) 70/20/10). Validate at 4 weeks against **saves, DMs and consults**, not likes. (2) A 30% proof target is ambitious under the confidentiality constraint; the clearance mechanisms in §8.9 (written permission, cleared-client list, anonymisation checklist, "Shared with permission; data redacted" footer) are what make it achievable, and clearance-free substitutes keep the slot filled when they are not.
+
+### 15.7 Corrections superseded in this pass
+
+| Earlier claim | Corrected finding | Where |
+|---|---|---|
+| "Every post above 50 likes is about a person" (§3, §6, §13.2.2) | **3 of 4**; the fourth is the 10 Mar **education** Reel (59/0) | §15.3 |
+| "People outperform corporate copy by ~4× / ~49 vs ~12" | **~3.1× / 65.7 vs 21.2** across 18 posts | §15.3 |
+| Topic distribution (12-post): founder 3, BTS 3, brand 2, offer 2, proof 1, education 1 | **founder 3, BTS 5, offer 5, brand 2, education 2, proof 1** | §15.3 |
+| "No buyer-problem education" | One 10 Mar Reel exists (59/0); it earns attention but no conversation | §14.6, §15.3 |
+| "No standalone offer post" | One **hard offer** (6 Jun) plus three soft CTAs and one price rationale | §14.6, §15.3 |
+| "9 of 18 cells empty" (12-post cross-tab) | Still 9 of 18, but different cells; carousels still only founder + brand | §15.4 |
+| "40/30/20/10" as a bare ratio | Retained, but now operational: hard vs soft offers, proof substitutes, presenter role for founder | §15.6 |
+
+**Unchanged:** no quantified client result anywhere in the 18 posts; hashtag typos; five vague CTAs; the unsupported Meta stat; the 54- and 43-day silences; the confidentiality tiers. **Reframed:** offer scarcity → offer *impermanence and incompleteness*; "no proof" → one proof post with no number, blocked mainly by clearance rather than by data availability.
+
+### 15.8 Sources added in Revision 5
+
+**Buyer-journey / content mapping (secondary):** [Infuse — content marketing glossary](https://infuse.com/glossary/content-marketing/) · [GrowWithSakib — content mapping to the buyer journey](https://growwithsakib.com/content-mapping-buyer-journey/) · [FanSpicy — types of content marketing 2026](https://fanspicy.com/insights/types-of-content-marketing-a-2026-strategy-guide/) · [Dummies — content across the buyer journey](https://www.dummies.com/article/how-can-content-marketing-educate-customers-throughout-the-buyer-journey/).
+
+**B2B topic mixes (secondary, mutually inconsistent):** [BrandRoad](https://brandroad.in/blog/instagram-growth-b2b-brands-2026) · [1into2](https://www.1into2.com/instagram-marketing-strategies-for-b2b-brands/) · [Komet Media](https://www.kometmedia.com/blogs/instagram-growth-playbook-for-b2b-saas) · [ProMentor](https://promentordigitalsolutions.com/instagram-marketing-for-small-businesses-what-actually-works-in-2026/) · [Scale Growth Digital](https://scalegrowth.digital/resources/social/instagram-content-ideas/).
+
+**Primary evidence:** the 18 post pages listed in §12 and §14.7. **Course material:** MKW1120 Lectures 1 (s6), 5 (s30–35), 7 (s29, s32), 9 (s10, s15, s22), plus the IMC consistency argument in §8.
+
+All secondary sources are practitioner/commercial guides with conflicting ratios; none is a Meta rule. All engagement figures are a mirror sample; no official analytics, no pixel inspection. Confirm topic labels, pins, clearances, saves, DMs and consults in a logged-in session.
+
+---
+
+*Desk research from publicly accessible sources only. All engagement figures are a mirror sample, not official analytics; visual conclusions are low-confidence inferences. No client-confidential material is included. Recommendations are proposals, not observed changes. Revision 2 (§13) adds decoded CDN media tags, automated asset descriptions and secondary 2026 design/frequency guidance; Revision 3 separates content type from topic variety (§13.2); Revision 4 expands the corpus to 18 posts and adds the type deep dive (§14); Revision 5 rebuilds topic variety on the same 18 posts (§15). All of it remains to be verified in a logged-in session.*
