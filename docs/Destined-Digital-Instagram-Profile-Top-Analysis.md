@@ -2,7 +2,7 @@
 
 **Subject:** `@destined.digital` — the profile header (name, bio, profile picture, category, links, counts, Highlights, pinned posts) and its Threads counterpart
 **Prepared:** 7 November 2026 (MYT)
-**Revisions:** 2 — 7 November 2026, client review of the live profile on a phone: avatar centring, name wrapping, bio emoji/capitalisation/content (§7, supersedes §6). **3 — 7 November 2026, geography is conditional, not a requirement (§7.4).** **4 — 7 November 2026, client decision: the bio line "marketing doesn't have to be boring or repetitive" and `(003694655-T)` are LOCKED (§7.6); all bio-replacement drafts are withdrawn.** **5 — 7 November 2026, FINAL BIO ANSWER in §7.7: keep the line word-for-word, add one initial capital, remove 🧸, add nothing else.** **6 — 8 November 2026, HIGHLIGHTS ANSWER in §7.8: architecture, ordering mechanics, cover specs.** **7 — 8 November 2026, client spots two overlaps; §7.9 resolves them and reduces the final set to FIVE Highlights.** **8 — 8 November 2026, why Highlights matter and what they cannot do (§7.10).** **9 — 8 November 2026, EVIDENCE CORRECTION: two real Highlights found (`BTS`, `client feedback`), plus a full Instagram Stories section (§8).** **10 — 8 November 2026, current Story state and the two cover images described (§8.7).** **11 — 8 November 2026, a sustainable recurring Story idea bank and weekly template (§8.8).**
+**Revisions:** 2 — 7 November 2026, client review of the live profile on a phone: avatar centring, name wrapping, bio emoji/capitalisation/content (§7, supersedes §6). **3 — 7 November 2026, geography is conditional, not a requirement (§7.4).** **4 — 7 November 2026, client decision: the bio line "marketing doesn't have to be boring or repetitive" and `(003694655-T)` are LOCKED (§7.6); all bio-replacement drafts are withdrawn.** **5 — 7 November 2026, FINAL BIO ANSWER in §7.7: keep the line word-for-word, add one initial capital, remove 🧸, add nothing else.** **6 — 8 November 2026, HIGHLIGHTS ANSWER in §7.8: architecture, ordering mechanics, cover specs.** **7 — 8 November 2026, client spots two overlaps; §7.9 resolves them and reduces the final set to FIVE Highlights.** **8 — 8 November 2026, why Highlights matter and what they cannot do (§7.10).** **9 — 8 November 2026, EVIDENCE CORRECTION: two real Highlights found (`BTS`, `client feedback`), plus a full Instagram Stories section (§8).** **10 — 8 November 2026, current Story state and the two cover images described (§8.7).** **11 — 8 November 2026, a sustainable recurring Story idea bank and weekly template (§8.8).** **12 — 8 November 2026, CONFIDENTIALITY CONSTRAINT: client material must not be exposed; §8.9 re-tiers the idea bank and rebuilds the weekly rhythm on clearance-free content.**
 **Companion to:** [`Destined-Digital-Instagram-Research.md`](Destined-Digital-Instagram-Research.md)
 **Theory basis:** MKW1120 Lectures 1–10 (uploaded PDFs), especially L9 (IMC / communication process), L6 (STP & positioning), L7 (services & brand), L5 (buyer decision process)
 
@@ -779,7 +779,7 @@ This makes Highlights an **output of the Story rhythm** rather than a separate p
 - Add captions to video (most mobile video is watched muted), don't put critical information in text-only frames, and keep emoji sparing per §7.3(a).
 - **Don't over-produce.** Stories' advantage is authenticity and low cost; a fully designed Story is just another feed post ([1](https://postoria.io/blog/how-the-instagram-algorithm-works), [2](https://viewprivateinstagram.substack.com/p/instagram-stories-vs-highlights-vs-reels)).
 
-**Guardrails specific to this account:** keep casting/hiring out of client-facing Stories (Threads already carries them); don't repeat the unverified "Meta 56–70%" stat; clean the `/personal-branding` template filler before linking to it; and treat founder faith content as the founder's judgement call — it is authentic and high-engagement, but in multi-faith Malaysia it carries decoding risk (Lecture 9, communication process / noise).
+**Guardrails specific to this account:** client confidentiality is a hard boundary — see **§8.9** before using any result, quote or shoot footage. Keep casting/hiring out of client-facing Stories (Threads already carries them); don't repeat the unverified "Meta 56–70%" stat; clean the `/personal-branding` template filler before linking to it; and treat founder faith content as the founder's judgement call — it is authentic and high-engagement, but in multi-faith Malaysia it carries decoding risk (Lecture 9, communication process / noise).
 
 ### 8.5 Measurement — close the feedback loop
 
@@ -830,6 +830,8 @@ Both `efg` parameters decode to `STORY.best_image_urlgen`, confirming these are 
 ---
 
 ### 8.8 A sustainable Story idea bank (Revision 11)
+
+> **HARD CONSTRAINT — see §8.9 (Revision 12).** The client has confirmed the marketing is done **for clients**, so client information must remain confidential. `One number`, `Client said / we did`, `Behind the shot`, `You pick` and `Client love` below assumed client metrics, quotes, products or tags could be shown. **§8.8 is superseded wherever it touches client material**; the structure (fixed series, weekly template, Story bank) still stands.
 
 The client asked for Story ideas that can be posted **regularly**. The failure mode for a small agency is treating every Story as a new piece of content to produce. The fix is a **closed set of recurring series attached to work that already happens** — *capture, don't create* — plus a fixed weekly template so nobody faces a blank canvas. Every idea below reuses assets already owned (§8.0–8.3); none requires a new shoot.
 
@@ -882,9 +884,62 @@ Opportunistic series (`Behind the shot`, `You pick`, `Meet the desk`, `Client lo
 
 **Review after 4 weeks.** For each series log replies, sticker taps, link taps and `AUDIT` DMs. Keep the top four, drop the bottom two, replace them with two prompts sourced from the question box (Lecture 9 feedback loop; Lecture 4 MIS). That is how regularity survives past the first fortnight.
 
-**Avoid:** 10+ frames/day, fully designed Story graphics, reposting only polished feed posts, all-agency-self content with no buyer value, casting/hiring in the client-facing tray, the unverified "Meta 56–70%" stat, and links to `/personal-branding` until its template filler is cleaned.
+**Avoid:** 10+ frames/day, fully designed Story graphics, reposting only polished feed posts, all-agency-self content with no buyer value, casting/hiring in the client-facing tray, the unverified "Meta 56–70%" stat, links to `/personal-branding` until its template filler is cleaned, and **any client material not on the cleared list (§8.9)**.
 
 *Revision 11 is a content-system proposal synthesised from §8 and the account's own captions; no new external sources beyond those already cited in §8.*
+
+---
+
+### 8.9 Confidentiality constraint — the hard boundary (Revision 12)
+
+The client's standing requirement: the marketing is done **for clients**, so client information must remain confidential. This is not a tone preference — it invalidates part of §8.8.
+
+**Why confidentiality threatens regularity.** The problem is not the content, it is the **per-post approval loop**. If every Story needs a client sign-off, a 2–3 day/week rhythm collapses within a fortnight. The fix is structural:
+
+1. Make the **default system run entirely on material that needs no approval**, and
+2. Convert client-derived content from "ask each time" to **one written clearance at onboarding**, stored in a cleared-client list.
+
+Agency guidance is consistent: get written permission before naming a client or publishing results, read the NDA, mask sensitive data, and anonymise where needed ([1](https://www.brandstrategysarah.com/blog/how-to-share-brand-strategy-case-studies), [5](https://mocktheagency.com/content/are-you-allowed-to-say-who-your-clients-are/)). Anonymised patterns ("a Malaysian F&B brand", "a regional retailer") still demonstrate capability without breaching confidentiality ([3](https://www.reddit.com/r/Entrepreneur/comments/1qr3af4/question_how_to_get_social_proof_if_you_can/)). Some agencies go further and reserve exact numbers for NDA-protected intro calls ([4](https://growwithba.com/case-studies/)).
+
+**Three tiers of Story material**
+
+| Tier | What | Approval | Role in the rhythm |
+|---|---|---|---|
+| **Green — safe by default** | Own opinions and methods, generic process explainers, own team/founder moments (staff consent once), own templates / mock-ups / spec work, own-account experiments, public owned pages (`/services`, `/whydestined`, blog), buyer-myth education from their own published captions, polls with no client assets | **None** | Backbone — 6 of 8 series |
+| **Amber — cleared only** | Anonymised client results, cropped quote screenshots, generic set-up BTS with no product / packaging / logo, reposts or tags of a client's own public post | One-time written clearance + anonymisation checklist | Optional, from the cleared bank only |
+| **Red — never in a public Story** | Client names, logos, handles, tags; unreleased campaigns, products or packaging; raw analytics dashboards with account names; exact pricing, proposals, contracts or decks; identifiable client staff; internal messages; live shoot footage of client product; casting/hiring details with names | Explicit written sign-off per item, or keep off Instagram entirely | None |
+
+Note: [`/testimonials`](https://www.destined-digital.com/testimonials) is already published on their own website, so **linking** to it is the lowest-risk proof route — but website publication is not blanket permission to lift a screenshot *into an Instagram Story*. Check the original consent first.
+
+**Keep `Results` alive without client data** — five substitutes:
+
+1. **Own-account case studies.** "We tested this hook on our own Reel — here's what happened." Fully owned, no clearance.
+2. **Spec / self-initiated work.** A self-authored mock brief for a fictional brand; show the thinking and the asset. Zero client data.
+3. **Aggregate capability counts.** "12 shoots this quarter", "5 industries served" — no client identification ([3](https://www.reddit.com/r/Entrepreneur/comments/1qr3af4/question_how_to_get_social_proof_if_you_can/)).
+4. **Method, not metrics.** Show *how* a hook is tested or a shoot is briefed; link to the public `/testimonials` page for the numbers.
+5. **Rounded, sector-level outcomes** where cleared: "a Malaysian F&B brand, roughly 2× Reels views in 30 days" — no names, no raw dashboards, published after the campaign has ended.
+
+**Mechanisms that make this operationally safe**
+
+- **One-time clearance at onboarding.** Add three tick-boxes to the brief or contract: ☐ may share anonymised results · ☐ may share BTS from shoots (specify what) · ☐ may share quotes/testimonials (specify channels). Maintain a **cleared-client list**; everything else defaults to red. One decision per client instead of one per Story ([1](https://www.brandstrategysarah.com/blog/how-to-share-brand-strategy-case-studies), [5](https://mocktheagency.com/content/are-you-allowed-to-say-who-your-clients-are/)).
+- **Anonymisation checklist before every amber frame:** no names / handles / logos / packaging; no unique product shapes; no dashboard account names; numbers rounded or banded; nothing published before the campaign is live or finished; cleared-client list checked.
+- **"Shared with permission; data redacted"** footer on any cleared case-study frame — a discreet trust signal in itself ([1](https://www.brandstrategysarah.com/blog/how-to-share-brand-strategy-case-studies)).
+- **Story bank hygiene.** Keep a separate **"cleared" album**; never dump raw client footage into a shared phone album; delete raw client clips after posting. Instagram Stories are visible to **all followers** and can be screen-recorded — treat them as published, not private. Close Friends is not a safe channel for client material.
+- **Staff consent** for `Meet the desk` is a one-time internal agreement, not a per-post ask.
+
+**Revised weekly template — safe by default** (2–3 days, 3–4 frames):
+
+| Day | Series | Status |
+|---|---|---|
+| Mon | `This week at Destined` — "a shoot this week", "three edits in progress"; **no client names, no client visuals** | Green |
+| Wed | **Proof day, green version** — own-account test / spec work / process explainer / link sticker to public `/testimonials`. Rotate in a cleared, anonymised number only if on the cleared list | Green (amber optional) |
+| Fri | `Fix it Friday` or `Ask us anything` answers | Green |
+
+Opportunistic and green: `Meet the desk`, `Behind the process` (own templates), `You pick` **using their own spec shots**, fortnightly `What we're booking`. `Client love` is amber-only — repost or tag only with written approval. `One number`, `Client said / we did` and `Behind the shot` become **amber variants**, not defaults.
+
+**Bottom line:** confidentiality does **not** prevent regular Stories — 6 of the 8 series need zero client material and zero approvals. What it prevents is *casual* use of client proof. Build the rhythm on green material, keep proof in a cleared-and-anonymised lane, and regularity survives.
+
+**A second reading of "confidential".** If the requirement covers the **analysis itself** (this being client work that should not be public), say so: these files have been committed to a **public** GitHub repository (`miladova/ALwrity`, branch `arena/010b3074-alwrity`) since the client asked for GitHub visibility. Nothing in them is client-confidential — they use only public evidence and the client's own instructions — but public hosting can be stopped or the files moved to a private location on request. Until clarified, §8.9 applies to **Story content**, which is the direct subject of the question.
 
 ---
 
@@ -898,6 +953,7 @@ Opportunistic series (`Behind the shot`, `You pick`, `Meet the desk`, `Client lo
 - **Highlight count, labels, order and covers** — confirm `BTS` and `client feedback` and whether more exist; whether any contains casting/hiring or expired promos (§8.0, §7.9).
 - Whether the first three grid posts are **pinned**.
 - **Post count**, any active Stories, and **Story frequency over a two-week window**; which stickers / link stickers are used; which frames are saved to Highlights (§8).
+- **Client clearance**: which clients have written permission for anonymised results, shoot BTS or quotes, and whether any existing Story/Highlight contains un-cleared material (§8.9).
 - Profile picture legibility at thumbnail size.
 - Whether a WhatsApp/Email button exists (the site uses `0128310988` and `joanna@destined-digital.com`).
 
@@ -915,6 +971,11 @@ Opportunistic series (`Behind the shot`, `You pick`, `Meet the desk`, `Client lo
 - Name 30, bio 150, up to 5 native links, name field is searchable: [1](https://replug.io/blog/instagram-bio-character-limit) · [2](https://wordscalculator.net/blog/instagram-character-limits) · [3](https://taskant.com/instagram-character-limit/) · [5](https://boldlytype.com/blog/instagram-bio-character-limit) · [4](https://postlen.app/en/blog/instagram-character-limits)
 - Threads name/bio limits and topic tags/links: [1](https://postory.io/blog/threads-bio-ideas) · [3](https://momentumhive.app/blog/threads-character-limit-2026) · [4](https://growthscribe.com/instagram-caption-character-limit/)
 - Bio shared between Instagram and Threads: [1](https://postory.io/blog/threads-bio-ideas) · [2](https://thetextgenerators.com/social-media-character-limits/) · [4](https://www.sendcove.app/integrations/threads/character-limits); dissenting view (separate bios): [3](https://omnisocials.com/guides/threads-character-limits)
+
+**Revision 12 (§8.9) — client confidentiality**
+- Written permission before naming clients or publishing results; read the NDA; mask sensitive data; anonymise: [Brand Strategy Sarah](https://www.brandstrategysarah.com/blog/how-to-share-brand-strategy-case-studies) · [MOCK, the agency](https://mocktheagency.com/content/are-you-allowed-to-say-who-your-clients-are/)
+- Anonymised sector-level patterns and aggregate stats as legitimate social proof: [r/Entrepreneur](https://www.reddit.com/r/Entrepreneur/comments/1qr3af4/question_how_to_get_social_proof_if_you_can/) · [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing/comments/1lywrui/what_should_i_keep_confidential_in_a_case_study/)
+- Exact metrics reserved for NDA-protected calls: [Grow With BA](https://growwithba.com/case-studies/)
 
 **Revision 10 (§8.7) — current Story state and cover assets**
 - Active-Story re-check: [Imginn Stories](https://imginn.com/stories/destined.digital/) · [Imgsed Stories](https://imgsed.com/stories/destined.digital/) · [Pixnoy Stories](https://www.pixnoy.com/profile/destined.digital/stories/) (lists only saved Highlight covers)
@@ -952,4 +1013,4 @@ Opportunistic series (`Behind the shot`, `You pick`, `Meet the desk`, `Client lo
 
 ---
 
-*Desk research from publicly accessible sources, plus the client's own observation of the live profile on a phone and their editorial decisions (§7, Revisions 2–11). Character counts were computed against the exact strings shown. All header rewrites are proposals, not observed changes; the locked bio in §7.6 is a client decision.*
+*Desk research from publicly accessible sources, plus the client's own observation of the live profile on a phone and their editorial decisions (§7, Revisions 2–12). Character counts were computed against the exact strings shown. All header rewrites are proposals, not observed changes; the locked bio in §7.6 is a client decision.*
