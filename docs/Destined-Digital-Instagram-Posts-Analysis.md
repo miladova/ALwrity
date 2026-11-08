@@ -4,6 +4,7 @@
 **Prepared:** 8 November 2026 (MYT)
 **Revision 2 — 8 November 2026:** adds §13, a deep dive on **posting frequency, content variety, aesthetic & colour scheme**, and corrects several format labels in §1/§2 using decoded Instagram CDN media tags.
 **Revision 3 — 8 November 2026:** separates **content type** (the format: single image / carousel / Reel) from **topic variety** (the subject: founder, proof, BTS, offer, education) as two independent axes, adds a type × topic cross-tab, and sets a separate target for each.
+**Revision 4 — 8 November 2026:** on the user's request to discuss type first, widens the observed corpus from 12 to **18 posts** using the Imginn Reels tab, adds a dedicated **§14 content type deep dive**, and corrects several earlier cadence, format and offer claims (list in §14.6).
 **Companion to:** [`Destined-Digital-Instagram-Research.md`](Destined-Digital-Instagram-Research.md) (whole-account audit) and [`Destined-Digital-Instagram-Profile-Top-Analysis.md`](Destined-Digital-Instagram-Profile-Top-Analysis.md) (header, Highlights, Stories)
 **Theory basis:** MKW1120 Lectures 1–10, especially L9 (IMC, communication process, AIDA / 5As, appeals), L7 (services, brand, positioning), L6 (STP), L5 (buyer decision process), L4 (MIS), L2 (relationship marketing)
 
@@ -25,7 +26,7 @@ Instagram's own profile is login-walled. Data comes from two independent mirrors
 | Reach, impressions, saves, shares, profile visits, DMs, conversions | **Unknown** |
 | Posts after 29 Sep 2026 | **Not visible on either mirror**, but the website and Threads show Oct/Nov activity — the mirrors are incomplete, not authoritative |
 
-**Standing caveat:** all engagement figures below are a **mirror sample**, not official analytics. Relative patterns are useful; absolute performance claims are not. See also the client-confidentiality constraint in §8.9 of the profile-top teardown — nothing here uses client-confidential material, and any client result, quote or shoot asset needs written clearance before it appears in a post. **Revision 2** adds §13 below with a second evidence pass; its sources are listed separately in §13.6. **Terminology convention (Revision 3):** *content type* always means the format/container; *topic* always means the subject matter. They are reported separately — see §1 and §13.2.
+**Standing caveat:** all engagement figures below are a **mirror sample**, not official analytics. Relative patterns are useful; absolute performance claims are not. See also the client-confidentiality constraint in §8.9 of the profile-top teardown — nothing here uses client-confidential material, and any client result, quote or shoot asset needs written clearance before it appears in a post. **Revision 2** adds §13 below with a second evidence pass; its sources are listed separately in §13.6. **Terminology convention (Revision 3):** *content type* always means the format/container; *topic* always means the subject matter. They are reported separately — see §1 and §13.2. **Revision 4** widens the evidence base to 18 posts and makes §14 the authoritative type analysis; §14.6 lists the claims it supersedes.
 
 ---
 
@@ -57,9 +58,9 @@ A Reel can carry any topic, and any topic can be carried by any type. §2 and §
 
 **† Format labels revised in Revision 2.** The `o=` parameter on each Pixnoy thumbnail decodes to the original signed Instagram CDN URL; its `efg` tag names the media class — `FEED.best_image_urlgen.C3` (single image), `CAROUSEL_ITEM.best_image_urlgen.C3` (carousel frame), `CLIPS.best_image_urlgen.C3` (Reel). Earlier labels in this table were inferred from mirror post pages; the decoded tags supersede them. The 12 dated posts classify as **3 single images, 3 carousels, 6 Reels**. A `CLIPS` asset can be a video compiled from stills (the 2 Jul "photo dump" is the likely case), so verify in-app. One further date caveat: the CDN `Published Time` for the "industries" asset is **16 Aug 2026 13:06 GMT** (≈21:06 MYT) while the mirror labels the post 17 Aug — mirror dates mix UTC and MYT and may shift by ±1 day.
 
-The Reels tab also exposes further clips (39/0, 19/3, 6/1, 21/0, 37/4, 59/0), some of which overlap with the posts above, so the sample is roughly **12 posts plus additional Reels**, not a complete grid. A "View more" control on Pixnoy confirms the mirror is truncated.
+**Revision 4 scope note.** The Reels tab's six further clips (39/0, 19/3, 6/1, 21/0, 37/4, 59/0) are **not duplicates** — they are six older, individually dated Reels (10 Mar – 6 Jun 2026) missing from the truncated grid. The combined observed corpus is therefore **18 posts**, tabulated in §14.2. A "View more" control on Pixnoy confirms the grid mirror is truncated, so 18 is still a lower bound.
 
-**Sample statistics (12 dated posts):** 334 likes, 29 comments; **mean ≈ 28 likes, median ≈ 19**, mean ≈ 2.4 comments. Nominal (likes + comments) / 396 followers ≈ **7.6% per post**. Comments are 0–2 on 9 of 12 posts.
+**Sample statistics (12-post grid sub-sample):** 334 likes, 29 comments; **mean ≈ 28 likes, median ≈ 19**, mean ≈ 2.4 comments. Nominal (likes + comments) / 396 followers ≈ **7.6% per post**. Comments are 0–2 on 9 of 12 posts. *§14.2 gives the 18-post figures; the two denominators are not interchangeable.*
 
 ---
 
@@ -67,16 +68,16 @@ The Reels tab also exposes further clips (39/0, 19/3, 6/1, 21/0, 37/4, 59/0), so
 
 > **Axis note.** This section is about the **container** — single image, carousel, Reel — and says nothing about subject matter. Topic variety is a different axis (§3, §13.2.2).
 
-**Content type mix (revised in Revision 2).** Decoded CDN tags give **3 single images, 3 carousels and 6 Reels** (Reel durations confirmed at 11–81 s on individual post pages). Two of the strongest posts are Reels (founder faith, 61/9; podcast, 39/1), and the single best post (Sunway lecture, 81/5) is a **carousel**, not a static image — see §13.2 for the format-by-format breakdown. There is no consistent series, no recurring template and no recognisable cover system: every thumbnail carries a `best_image_urlgen` tag, i.e. an auto-generated frame rather than an uploaded custom cover (low-confidence inference).
+**Content type mix (12-post grid sub-sample; revised in Revision 2, superseded by §14).** Decoded CDN tags give **3 single images, 3 carousels and 6 Reels** here; across the full 18-post corpus Reels are **12 of 18 (67%)** and durations run **9–81 s** (§14.2). Two of the strongest posts are Reels (founder faith, 61/9; podcast, 39/1), and the single best post (Sunway lecture, 81/5) is a **carousel**, not a static image — see §13.2 for the format-by-format breakdown. There is no consistent series, no recurring template and no recognisable cover system: every thumbnail carries a `best_image_urlgen` tag, i.e. an auto-generated frame rather than an uploaded custom cover (low-confidence inference).
 
-**Cadence.** Gaps between the 12 dated posts: 17, 10, **33**, 3, 16, 10, 0, 7, 3, 7, **43** days.
+**Cadence (corrected in Revision 4 — see §14.6).** The 12-post grid sample gives gaps of 17, 10, 33, 3, 16, 10, 0, 7, 3, 7, 43 days, but the Reels tab adds six earlier posts (10 Mar, 20/24/26 May, 5/6 Jun) which **remove the apparent 33-day void**: June had at least two posts, and the 30 May → 2 Jul stretch becomes 6 / 1 / 26 days.
 
-- Two burst clusters (early May; late July–mid August), then long silences.
-- Longest gap: **43 days** (17 Aug → 29 Sep).
-- Average ≈ 13 days between posts, i.e. roughly **1–2 posts per month** in the mirror.
-- The mirror stops at 29 Sep 2026 while the website and Threads show October/November activity (an October shoot dump, a skincare shoot, `@sivarajan x @fupi.co`), so the true cadence is **at least** this sparse but may be better. Do not claim an exact current posting rate.
+- **Combined 18-post corpus:** 18 posts over 203 days (10 Mar → 29 Sep 2026) = **0.62 posts/week, ≈2.7 posts/month**, median gap **6 days**.
+- Two long silences remain: **54 days** (10 Mar → 3 May, i.e. all of April) and **43 days** (17 Aug → 29 Sep).
+- Burst-and-silence is therefore *more* pronounced, not less: inside a burst the account posts every 1–7 days, then disappears for six weeks.
+- The mirrors stop at 29 Sep 2026 while the website and Threads show October/November activity (an October shoot dump, a skincare shoot, `@sivarajan x @fupi.co`), so the true current cadence remains unknown. Do not claim an exact posting rate.
 
-The account's own published advice — "posting more is not the same as selling better" — is reasonable, but 33- and 43-day silences are not a strategy; they are absence. §13.1 reframes this: the account actually posts every 3–10 days *inside* a burst, so the fix is a maximum gap and a content buffer, not a higher volume target.
+The account's own published advice — "posting more is not the same as selling better" — is reasonable, but 54- and 43-day silences are not a strategy; they are absence. The fix is a maximum gap and a content buffer, not a higher volume target (§13.1).
 
 ---
 
@@ -97,18 +98,18 @@ The account's own published advice — "posting more is not the same as selling 
 
 **The precise finding:** *every post above 50 likes is about a person* — but the reverse does not hold. A brand-identity carousel drew 8 likes and the podcast Reel 39. Person-centred content is the strongest available lever, not a guarantee.
 
-**What is missing from the grid entirely:**
+**What is missing from the 12-post grid sample (see §14.6 for corrections):**
 
 - **No post with a quantified client result.** The 7 Aug testimonial says "great marketing isn't just about likes and views… meaningful results for our clients" and then shows no result. The `/testimonials` page carries real growth screenshots; none are repurposed onto Instagram.
-- **No post that explains a service in detail** (what is included, deliverables, timelines, who it is for).
-- **No standalone offer post.** Price appears only once, buried in the 31 Jul podcast caption ("packages start at RM1,500").
+- **No post that explains a service in detail** (what is included, deliverables, timelines, who it is for) *in the recent grid* — the 6 Jun Reel lists three deliverables but no timeline or buyer fit.
+- **No standalone offer post in the recent grid** — but **Revision 4 correction:** a **6 Jun 2026 Reel** (9 s, 39/0) is an explicit launch-package post ("starts at RM1,500/month", three deliverables listed, DM CTA), and a 24 May Reel offers the free consult. The offer has been published; it is simply not pinned, not resurfaced and not visible in the truncated grid (§14.2, §14.6).
 - **No post with a specific, measurable CTA** — no DM keyword, no link, no "book the 30-min consult here".
 
 The single most telling artefact is a **real comment** on the 5 Jul "smallest tweaks" Reel (10 likes / 4 comments):
 
 > "Okay great marketing. Now show me the product where can I get it"
 
-A follower is literally asking for the offer. That is the buyer-alignment problem in one sentence (Lecture 9, feedback; Lecture 1, needs alignment / marketing myopia).
+A follower is literally asking for the offer — despite a launch-package Reel having been published five weeks earlier. The problem is therefore **not absence of the offer but absence of a permanent surface for it** (companion §7.10). Buyer-alignment in one sentence (Lecture 9, feedback; Lecture 1, needs alignment / marketing myopia).
 
 ---
 
@@ -160,8 +161,8 @@ Do not claim an exact palette, typography, custom Reel covers or grid layout wit
 |---|---|---|
 | 1 | **Proof is absent from the grid** despite real growth screenshots on `/testimonials` | No quantified result in 12 posts; 7 Aug testimonial shows no number |
 | 2 | **Buyer misalignment** — the feed speaks to peers, friends, students, models and jobseekers more than SME owners | "Okay great marketing. Now show me the product where can I get it" |
-| 3 | **Cadence** — burst-and-silence, 33- and 43-day gaps, no fixed slot system | §2, §13.1 |
-| 4 | **No offer architecture** — no service explainer, no standalone offer post, price buried in one podcast caption | §3 |
+| 3 | **Cadence** — burst-and-silence, 54- and 43-day gaps with a 6-day median inside bursts, no fixed slot system | §2, §13.1, §14.2 |
+| 4 | **No offer architecture** — the one explicit offer is a 9 s June Reel with no pin, Highlight or link; no service explainer with timeline/buyer fit | §3, §14.6 |
 | 5 | **Generic, unmeasurable CTAs** — five variants of "DM us", no keyword or link | §4 |
 | 6 | **Caption hygiene** — buried hooks, mixed register, real hashtag typos, no consistent target | §4 |
 | 7 | **Unsupported "Meta 56–70%" claim** on the most data-oriented post | No primary Meta source located |
@@ -208,7 +209,7 @@ Do not claim an exact palette, typography, custom Reel covers or grid layout wit
    - **Topic target (the subject):** roughly 40% buyer-problem education / 30% proof / 20% BTS-culture / 10% offers, applied **across** all types. In practice this means proof must also appear as a carousel and a Reel, not always as a single image. Reuse their own TikTok scripts for the education topic.
 7. **Design a consistent Reel cover template** (dark wordmark system, one short title, matching the avatar) so the grid reads as a series — the palette roles, 60/30/10 rules and cover-template spec are in §13.4.
 8. **Systematise collaborations**: one co-created Reel per month with a complementary Malaysian business, as the `@zhechambers.my` post did.
-9. **Answer the comment.** Literally publish the post that follower asked for: "what we sell, what it costs, how to buy".
+9. **Answer the comment.** Publish "what we sell, what it costs, how to buy" — but first **resurface the 6 Jun launch-package Reel** (pin it, add it to a Highlight, link it from the bio); the content already exists (§14.6).
 10. Keep casting/hiring off the client-facing grid; use a separate labelled surface.
 
 **P2 — measurement discipline**
@@ -264,22 +265,26 @@ Added 8 November 2026 at the user's request. §2, §3 and §5 touched these four
 
 ### 13.1 Posting frequency
 
-**What the mirror actually shows.** Twelve dated posts span 3 May → 29 Sep 2026 (149 days) = **0.56 posts/week, ≈2.4 posts/month**.
+**What the mirror actually shows (corrected in Revision 4).** The 12-post grid sample suggested 0.56 posts/week and a zero-post June. Adding the six older Reels exposed by the Reels tab gives **18 posts over 203 days (10 Mar → 29 Sep 2026) = 0.62 posts/week, ≈2.7 posts/month**.
 
-| Month | Posts in mirror |
+| Month | Posts in combined observed corpus |
 |---|---|
-| May 2026 | 3 |
-| June 2026 | **0** |
+| March 2026 | 1 |
+| April 2026 | **0** |
+| May 2026 | 6 |
+| June 2026 | **2** |
 | July 2026 | 5 |
 | August 2026 | 3 |
 | September 2026 | 1 |
 
-Eleven inter-post gaps: 17, 10, **33**, 3, 16, 10, 0, 7, 3, 7, **43** days — median **10**, mean ≈13.5.
+Seventeen inter-post gaps, median **6 days**, mean ≈11.9: 54, 16, 1, 4, 2, 4, 6, 1, 26, 3, 16, 10, 0, 7, 3, 7, 43 days.
 
 Two findings sharpen the diagnosis:
 
-1. **June has zero posts, yet a "snippet of the last bits of June" was published on 2 July.** Client work and shoots clearly continued; publishing stopped. This is a scheduling/operations failure, not a lack of material.
-2. **7 of 11 gaps are ≤10 days.** Inside a burst the account does sustain roughly weekly-to-fortnightly output. The failure is two discontinuities (33 and 43 days), not a uniformly slow rate. The problem is *continuity*, not *volume*.
+1. **April has zero posts; June has two** (5 and 6 Jun), and a "snippet of the last bits of June" was published on 2 July. Client work and shoots clearly continued; publishing stopped and restarted. This is a scheduling/operations failure, not a lack of material.
+2. **Median gap is 6 days while the two longest are 54 and 43 days.** Inside a burst the account sustains near-daily-to-weekly output. The failure is two discontinuities, not a uniformly slow rate. The problem is *continuity*, not *volume*.
+
+*Earlier versions of this section said June 2026 had no posts and that a 33-day gap ran 30 May → 2 Jul. Both were artefacts of the truncated grid; see §14.6.*
 
 **Date caveat.** CDN timestamps are GMT while the report uses MYT: the "industries" asset is stamped 16 Aug 2026 13:06 GMT (≈21:06 MYT) but the mirror labels the post 17 Aug. Treat all mirror dates as ±1 day. The mirrors also stop at 29 Sep 2026 while the website and Threads show Oct/Nov activity, so **the true current cadence is unknown** — this is a lower bound on a stale sample, not a live measurement.
 
@@ -299,8 +304,8 @@ They disagree by a factor of two on Reels (2–4 vs 4–7/week) and on feed post
 
 | Control | Target | Rationale |
 |---|---|---|
-| Maximum silence | **No gap >14 days** on the feed | Directly targets the two observed 33- and 43-day gaps without inflating volume |
-| Rolling buffer | **1 week of posts ready at all times**, batched in one production day | Removes the "no material" excuse; June proves material existed |
+| Maximum silence | **No gap >14 days** on the feed | Directly targets the two observed 54- and 43-day gaps without inflating volume |
+| Rolling buffer | **1 week of posts ready at all times**, batched in one production day | Removes the "no material" excuse; the 2 July June-dump proves material existed while publishing lagged |
 | Story floor | 2–3 Story days/week (companion §8.2–8.9), clearance-free tiers only | Keeps the account present between feed posts without adding feed posts |
 
 Measure **posts per rolling 4-week window** and **reach per post**. If reach per post falls as frequency rises, the constraint is hook quality (§4), not cadence. Do not set a cadence from a blog's average; set it from this account's own Insights after 4 weeks.
@@ -317,6 +322,8 @@ The word "variety" hides two different questions. Keeping them apart changes the
 They are **orthogonal**: a Reel can carry any of the six topics, and any topic can be packaged as any of the three types. A target such as "2 Reels + 1 carousel a week" is a **type** target; "40% educational" is a **topic** target. Several 2026 secondary frameworks silently mix the two — e.g. "40% Reels, 30% carousels, 20% Stories, 10% feed posts" ([Flowshorts](https://flowshorts.app/blog/instagram-marketing-strategy)) is a type mix, while "40% educate / 30% engage / 20% promote / 10% entertain" ([Scale Growth](https://scalegrowth.digital/resources/social/instagram-content-ideas/)) is a topic/objective mix. Quoting both as "the ideal content mix" without naming the axis is how a plan ends up with three Reels all about the same thing.
 
 #### 13.2.1 Axis A — content type
+
+> **Scope warning (Revision 4):** the tables below use the **12-post grid sub-sample only**. §14.2 is the authoritative 18-post type distribution — 12 Reels (**67%**), 3 carousels, 3 single images.
 
 Decoded CDN `efg` tags classify all 12 dated posts:
 
@@ -343,9 +350,11 @@ Decoded CDN `efg` tags classify all 12 dated posts:
 
 *Small mirror sample; likes are not official analytics, and these are correlations, not causal effects. The carousel mean is lifted by one 81-like outlier; the 8-like "heart behind our work" carousel sits at the same floor as the weakest Reel.*
 
-**Verdict on axis A: type variety is high, type systematisation is low.** All three feed types are in use and Reels already make up half the sample — so "add more formats" is the wrong advice. What is missing is a rule for which type carries which job, a repeatable series, and a cover template: every thumbnail is a `best_image_urlgen` auto-frame.
+**Verdict on axis A: type variety is high, type systematisation is low.** All three feed types are in use and Reels make up half the 12-post sub-sample — **two-thirds of the full 18-post corpus** (§14.2) — so "add more formats" is the wrong advice. What is missing is a rule for which type carries which job, a repeatable series, and a cover template: every thumbnail is a `best_image_urlgen` auto-frame.
 
 #### 13.2.2 Axis B — topic variety
+
+> **Scope warning (Revision 4):** this is the 12-post grid sub-sample. The six added Reels change the topic distribution; per the user's request, **topic re-analysis is deferred** — see the note at the end of §14.5.
 
 §3 used overlapping pillar tags (13 tags across 12 posts). Here each post gets **exactly one dominant topic** so the distribution is countable:
 
@@ -363,6 +372,8 @@ Decoded CDN `efg` tags classify all 12 dated posts:
 **Verdict on axis B: topic variety is skewed, not absent.** Six topics are present, but **founder + BTS = 6 of 12 posts**, while proof and education get one post each. There is no quantified client result, no service explainer, no standalone offer post, and no buyer-problem education. Topics cluster at awareness and emotional appeal, with almost nothing at desire/action (Lecture 9 slides 10, 15). This is the gap §3 and §7 already identified — but it is a **topic** gap, and changing the type mix will not close it.
 
 #### 13.2.3 The cross-tab — where the two axes meet
+
+> **Scope warning (Revision 4):** this cross-tab is a **12-post sub-sample**. It is retained as a worked example of the method, not as the final count; the empty-cell diagnosis is revisited after the topic discussion.
 
 | Topic ↓ / Type → | Single image | Carousel | Reel | n |
 |---|---|---|---|---|
@@ -386,7 +397,7 @@ This is the precise reason to separate the axes: **fixing type variety alone pro
 
 | Axis | Observed (mirror) | Proposed target | Guardrail |
 |---|---|---|---|
-| **A — type** | 3 single / 3 carousel / 6 Reels (25/25/50) | 2 Reels + 1 carousel per week; single image ≤ fortnightly, never the week's only post | No gap >14 days, rolling 1-week buffer (§13.1) |
+| **A — type** | 3 single / 3 carousel / **12 Reels** (17/17/**67%**) across 18 posts (§14.2) | 2 Reels + 1 carousel per week; single image ≤ fortnightly, never the week's only post | No gap >14 days, rolling 1-week buffer (§13.1) |
 | **B — topic** | Founder 3, BTS 3, brand 2, offer 2, proof 1, education 1 | 40% buyer education / 30% proof / 20% BTS-culture / 10% offers (§9) | Every recurring topic must appear in **≥2 types** within a 4-week cycle; no topic welded to one format |
 
 Each calendar slot is then one **(type, topic) pair** — the distinction becomes operational rather than decorative:
@@ -464,7 +475,7 @@ The table below is a **placeholder framework to be replaced by the client's real
 | Aesthetic / covers | Medium-high (needs real brand assets) | **P1–P2** | One-page visual system + 3 cover templates |
 | Colour scheme | High (needs the brand guide) | **P2** | Extract real hex values from the logo/guide, then apply 60/30/10 + contrast checks |
 
-**None of the four fixes the offer gap.** A perfectly regular, beautifully colour-coded grid that still never says what is sold, what it costs or how to buy will keep producing comments like *"Okay great marketing. Now show me the product where can I get it"*. Confusing a type target with a topic target is the fastest way to fix neither. Frequency and aesthetics are **multipliers on the message, not substitutes for it** (Lecture 9 slide 22, IMC; Lecture 1 slide 6, needs alignment). All proof imagery and any client-facing shoot stills remain subject to the three-tier confidentiality constraint in companion §8.9.
+**None of the four fixes the offer gap.** A perfectly regular, beautifully colour-coded grid whose only explicit offer is a 9-second Reel from June will keep producing comments like *"Okay great marketing. Now show me the product where can I get it"*. Confusing a type target with a topic target is the fastest way to fix neither. Frequency and aesthetics are **multipliers on the message, not substitutes for it** (Lecture 9 slide 22, IMC; Lecture 1 slide 6, needs alignment). All proof imagery and any client-facing shoot stills remain subject to the three-tier confidentiality constraint in companion §8.9.
 
 **Verify in a logged-in session before finalising this section:** full 3-column grid screenshot including Oct/Nov posts; the real brand palette/hex values from the logo file or brand guide; whether custom Reel covers exist; contrast on white-on-image type; 32–40 px thumbnail legibility; the CDN-vs-mirror date offset; and official Insights to replace every mirror like count.
 
@@ -478,8 +489,113 @@ The table below is a **placeholder framework to be replaced by the client's real
 
 **Primary/owned evidence:** [Pixnoy posts](https://www.pixnoy.com/profile/destined.digital/) (chunks 0–2, `o=` parameters decoded to signed CDN URLs) · [Imginn posts](https://imginn.com/destined.digital/) and [Reels](https://imginn.com/reels/destined.digital/) · [Squarespace site JSON](https://www.destined-digital.com/?format=json-pretty) (timezone, social accounts, logo asset URL; **no colour values**) · automated reads of four signed Instagram CDN image URLs (machine-generated descriptions; URLs expire).
 
+**Revision 4 additions (full list in §14.7):** [Imginn Reels tab](https://imginn.com/reels/destined.digital/) (chunks 0–1) · six newly dated post pages (`DZPEN_qyCfS`, `DZMnNg0ElBr`, `DYydxvCgce7`, `DYudFl6yj_g`, `DYjuLLSSK-9`, `DVsR8I6l-eg`) · [Metricool 2026 study](https://metricool.com/press-release-instagram-study-2026/) · [Wavevision / Buffer format comparison](https://www.wavevision.io/blog/instagram-carousel-posts-vs-reels-performance-comparison-2026-data) · [TryUnlockDM / Socialinsider](https://www.tryunlockdm.com/blog/instagram-reels-vs-carousels-2026) · [HopperHQ Reel specs](https://www.hopperhq.com/blog/instagram-reel-size/).
+
 **Course material:** MKW1120 Lectures 1, 4, 7 and 9 as referenced in §8.
 
 ---
 
-*Desk research from publicly accessible sources only. All engagement figures are a mirror sample, not official analytics; visual conclusions are low-confidence inferences. No client-confidential material is included. Recommendations are proposals, not observed changes. Revision 2 (§13) adds decoded CDN media tags, automated asset descriptions and secondary 2026 design/frequency guidance; Revision 3 separates content type from topic variety and adds a type × topic cross-tab (§13.2). All of it remains to be verified in a logged-in session.*
+## 14. Content type deep dive (Revision 4)
+
+Added 8 November 2026 when the user asked to discuss **type first**. This is now the **authoritative type analysis**; §2, §13.2.1 and the 12-post tables in §13.2 are a labelled sub-sample. Topic variety is deliberately left for the next discussion — §14.5 flags only where the added posts change it.
+
+### 14.1 Why the corpus grew from 12 to 18
+
+The grid mirrors are truncated (a "View more" control on Pixnoy). The [Imginn Reels tab](https://imginn.com/reels/destined.digital/) lists **12 Reels** in reverse-chronological order; six of them — 10 Mar, 20 May, 24 May, 26 May, 5 Jun and 6 Jun 2026 — appear nowhere in the 12-post grid list. Their individual post pages give exact "Posted On" dates, captions, and `duration_s` values from the signed CDN download URLs. The observed corpus is therefore **18 posts spanning 10 Mar → 29 Sep 2026 (203 days)** — still a lower bound, not an exhaustive history.
+
+Every one of the 12 Reels-tab thumbnails carries `CLIPS.best_image_urlgen.C3`, which independently confirms the `efg` decoding used in §1 and §13.2.
+
+### 14.2 The 12 Reels, individually
+
+| Date | Shortcode | Duration | Likes / comments | What it is | In 12-post grid? |
+|---|---|---|---|---|---|
+| 29 Sep 2026 | `Dd24JguMT4u` | — | 8 / 0 | "Meta 56–70%" creative-strategy claim, "save this post" | Yes |
+| 10 Aug 2026 | `Db29rxlj_o_` | **11 s** | 19 / 0 | Behind an "effortless" product shot | Yes |
+| 31 Jul 2026 | `DbdnTqNKVfy` | — | **61 / 9** | Founder faith / values | Yes |
+| 31 Jul 2026 | `Dbb-pYOyjkg` | **81 s** | 39 / 1 | Podcast clip, why packages start at RM1,500 (co-created) | Yes |
+| 5 Jul 2026 | `DaaVx-yh_JT` | **17 s** | 10 / 4 | "Smallest tweaks" — includes the "show me the product" comment | Yes |
+| 2 Jul 2026 | `DaRd--hOQVY` | — | 7 / 0 | "Snippet of the last bits of June" photo dump | Yes |
+| **6 Jun 2026** | `DZPEN_qyCfS` | **9 s** | 39 / 0 | **Launch-package Reel: "starts at RM1,500/month", account manager / designer / editor, DM CTA** | No |
+| **5 Jun 2026** | `DZMnNg0ElBr` | **25 s** | 19 / 3 | "A day in the life of an Account Manager" | No |
+| **26 May 2026** | `DYydxvCgce7` | **11 s** | 6 / 1 | Word-search "upgrade your socials" + "chat with our team" | No |
+| **24 May 2026** | `DYudFl6yj_g` | **16 s** | 21 / 0 | "Your brand is our privilege", free-consult CTA | No |
+| **20 May 2026** | `DYjuLLSSK-9` | **21 s** | 37 / 4 | Team introduction | No |
+| **10 Mar 2026** | `DVsR8I6l-eg` | **19 s** | **59 / 0** | B2B messaging-clarity education, "send us a dm" | No |
+
+*Durations come from the CDN `duration_s` field on nine post pages; three are unavailable. Dates are mirror-provided "Posted On" values and may be ±1 day across UTC/MYT.*
+
+**Corrected type distribution (18 posts):**
+
+| Type | Posts | Share of posts | Likes | Share of likes | Mean likes | Comments |
+|---|---|---|---|---|---|---|
+| Single image (`FEED`) | 3 | 17% | 46 | 8.9% | **15.3** | 3 |
+| Carousel (`CAROUSEL_ITEM`) | 3 | 17% | 144 | 28.0% | **48.0** | 12 |
+| Reel (`CLIPS`) | **12** | **67%** | 325 | 63.1% | **27.1** | 22 |
+| **Total** | **18** | 100% | **515** | 100% | 28.6 | **37** |
+
+Read the shares, not just the means: carousels generate **28% of likes and 32% of comments from 17% of posts**; single images generate **9% of likes from 17% of posts**. The carousel mean is still inflated by the 81-like Sunway outlier, so treat this as an efficiency signal, not a causal claim. Reels are **9–81 s**, with nine known durations clustered at **9–25 s**; the 81 s podcast clip is the sole outlier.
+
+### 14.3 What each type is for — external 2026 evidence
+
+| Type | Platform job | Evidence (secondary, not Meta primary) |
+|---|---|---|
+| **Reel** | Discovery / reach beyond followers | [Buffer analysis of 52M posts](https://www.wavevision.io/blog/instagram-carousel-posts-vs-reels-performance-comparison-2026-data): 30.81% reach rate, ≈2.25× single images and 1.36× carousels. [Metricool 2026 study of 24.3M posts](https://metricool.com/press-release-instagram-study-2026/): >4× the interactions of single-image posts; average watch time 8.5 s. Reel shares up ~67% YoY. |
+| **Carousel** | Authority / saves / depth | Metricool: **9× more saves** than single-image posts. Buffer: 6.90% median engagement rate by reach vs 3.31% for Reels (≈109% more engagement per person reached). [Socialinsider 2026 benchmarks via TryUnlockDM](https://www.tryunlockdm.com/blog/instagram-reels-vs-carousels-2026): ~0.55% ER for carousels vs ~0.50–0.52% Reels vs ~0.33% static. Instagram can re-serve a carousel with a later slide as its cover. |
+| **Single image** | One legible message / pinned card | Metricool: reach **−21.96%**, interactions **−25.41%**, engagement **−45.98%** YoY — the fastest-declining format. |
+| **Stories** | Retention (separate surface) | Companion §8; out of scope for this feed/Reels teardown. |
+
+**Caveat:** these are commercial studies and blog summaries that disagree with each other; none is a Meta rule, and this account has ~396 followers, well below the 1–5K bracket where Socialinsider still found Reels ahead (9.78% reach vs 8.80% carousels vs 7.00% images). Use them as directional reasoning, not benchmarks.
+
+**Implication for Destined Digital:** the Reel-heavy mix is *directionally right* — they are already using the platform's discovery format as their default. The type-level problem is not "not enough formats"; it is that (a) the weakest, fastest-declining type carries the commercial posts, (b) the highest-value type (carousel) is never used for proof, offer or education, and (c) none of the 12 Reels has a designed cover.
+
+### 14.4 The actual type-level problems
+
+These can all be fixed **without changing a single topic** — which is why it was worth separating the axes.
+
+1. **No custom Reel covers.** All 12 Reels-tab thumbnails are `CLIPS.best_image_urlgen.C3` (auto-generated frame). The same mirror renders `video_user_uploaded_thumbnail` / `video_user_selected_thumbnail` on unrelated accounts' posts, so the tag does distinguish an uploaded cover from a picked frame — medium confidence, verify in-app. Result: a grid of 12 unrelated frames with no series label, no title and no wordmark.
+2. **Short, unstructured clips.** 9–25 s dominates, but there is no repeatable hook → value → CTA structure across clips; the 81 s podcast is a one-off.
+3. **Single images carry the commercial load.** The three singles are the manifesto (18/2), the unquantified testimonial (8/0) and the "industries / request packages" post (20/1) — precisely the buyer-facing messages, in the format 2026 data says is declining fastest.
+4. **Carousels are under-used and mis-assigned.** 3 of 18, all founder/brand (Gen Z boss, heart behind the work, Sunway). None for proof, offer, education or BTS, despite carousels being the save/authority format.
+5. **No type-level series or cover template**, so nothing compounds: twelve Reels, twelve separate productions.
+6. **Production specs are unverifiable** from mirrors — 1080×1920 / 9:16, H.264/AAC, captions-on for mute viewing, safe zones. These are recommendations, not observations.
+
+### 14.5 A type architecture (proposal)
+
+| Type | Job | Weekly slot | Structure / spec | Metric to watch |
+|---|---|---|---|---|
+| **Reel** | Discovery | 2/week | 1080×1920, 9:16, MP4/H.264 + AAC, 30 fps; 9–30 s; hook in first 1–2 s; captions on. **Uploaded cover 1080×1920** with all key elements inside the **centre 1080×1080**, because the profile grid crops to 3:4 (1080×1440). Keep clear of UI bands: top ~14%, bottom ~35%, sides ~6% ([HopperHQ](https://www.hopperhq.com/blog/instagram-reel-size/), [Reap](https://reap.video/blog/instagram-reels-size), [Somake](https://www.somake.ai/blog/instagram-reel-size-guide), [MakeMoonshot](https://makemoonshot.co/blog/reel-cover-size-safe-zone)) | Reach, watch time, shares, follows |
+| **Carousel** | Authority / saves | 1/week | 1080×1350 (4:5) or 1080×1080; 3–6 frames; one idea per frame; slide 1 = hook, last slide = CTA + handle | Saves, swipe-through, completion, profile visits |
+| **Single image** | One offer / pinned card | ≤1 per fortnight | One legible message, wordmark, text contrast ≥4.5:1; never the week's only post | DMs, link taps |
+| **Cover system** | Recognition | — | 3–5 templates (Light / Dark / Urgent), ≤5-word title, fixed wordmark corner, one accent underline; carry into Reels covers, Stories and the five Highlight covers in companion §7.9 | 3-column grid coherence, thumbnail legibility at 32–40 px |
+
+**Topic note, deliberately deferred:** the six added Reels are roughly 3 offer/CTA, 2 BTS/culture and 1 education, so the 18-post topic distribution is approximately **BTS 5, offer 5, founder 3, brand 2, education 2, proof 1**. That materially softens "no offer" and hardens "no proof". §13.2.2 and §13.2.3 remain explicitly a 12-post sub-sample and will be rebuilt when we discuss topics.
+
+### 14.6 Corrections this pass supersedes
+
+| Earlier claim | Corrected finding | Source |
+|---|---|---|
+| 3 single / 3 carousel / 6 Reels (25/25/50) | **3 / 3 / 12 (17/17/67)** across 18 posts | §14.2 |
+| June 2026 had **0** posts | June had **2 Reels** (5, 6 Jun); **April** is the zero month | §14.2 |
+| A **33-day** gap 30 May → 2 Jul | 30 May → 5 Jun → 6 Jun → 2 Jul = **6 / 1 / 26 days**; longest gaps are **54 days** (10 Mar → 3 May) and **43 days** (17 Aug → 29 Sep) | §13.1, §14.2 |
+| Reels run **11–81 s** | **9–81 s** (9 s launch-package Reel) | §14.2 |
+| "No standalone offer post; price buried in one podcast caption" | A **6 Jun 2026 Reel** states "starts at RM1,500/month", lists three deliverables and ends with a DM CTA; a 24 May Reel offers the free consult | §14.2 |
+| "No buyer-problem education" | A **10 Mar 2026 Reel** (59/0, 19 s) teaches B2B messaging clarity; it predates the visible grid by months | §14.2 |
+| "No custom covers (low-confidence inference)" | **12/12** Reel thumbnails are auto-generated frames; medium confidence | §14.4 |
+
+**What does not change:** burst-and-silence is still the cadence problem (median 6-day gaps inside bursts, two 40–55-day silences); no post in the observed corpus contains a quantified client result; hashtag typos, five vague CTAs, the unsupported "Meta 56–70%" claim and the "show me the product" comment all stand. Client-clearance tiers (companion §8.9) still apply to any proof or shoot imagery.
+
+**What does change:** the offer is not absent — it is **impermanent**. That reframes the fix from "write an offer post" to **"give the offer a permanent surface"**: pin the 6 Jun Reel, place it in a Highlight, and link it from the bio. This is exactly the conversion-layer argument in companion §7.10, and it makes the type discussion actionable without touching topics.
+
+### 14.7 Sources added in Revision 4
+
+**Primary mirror evidence:** [Imginn Reels tab](https://imginn.com/reels/destined.digital/) (chunks 0–1) · individual post pages [`DZPEN_qyCfS`](https://imginn.com/p/DZPEN_qyCfS/) (6 Jun), [`DZMnNg0ElBr`](https://imginn.com/p/DZMnNg0ElBr/) (5 Jun), [`DYydxvCgce7`](https://imginn.com/p/DYydxvCgce7/) (26 May), [`DYudFl6yj_g`](https://imginn.com/p/DYudFl6yj_g/) (24 May), [`DYjuLLSSK-9`](https://imginn.com/p/DYjuLLSSK-9/) (20 May), [`DVsR8I6l-eg`](https://imginn.com/p/DVsR8I6l-eg/) (10 Mar).
+
+**Format performance (secondary, mutually inconsistent):** [Metricool 2026 Instagram study](https://metricool.com/press-release-instagram-study-2026/) · [Wavevision / Buffer 52M-post comparison](https://www.wavevision.io/blog/instagram-carousel-posts-vs-reels-performance-comparison-2026-data) · [TryUnlockDM / Socialinsider](https://www.tryunlockdm.com/blog/instagram-reels-vs-carousels-2026) · [Futuristic Marketing carousel guide](https://futuristicmarketingservices.com/Blogs/graphic-designing/instagram-carousel-design-guide/) · [r/InstagramMarketing discussion](https://www.reddit.com/r/InstagramMarketing/comments/1ucdpbl/carousels_are_quietly_the_most_underrated_format/).
+
+**Reel specs, covers and safe zones (secondary):** [HopperHQ](https://www.hopperhq.com/blog/instagram-reel-size/) · [Reap](https://reap.video/blog/instagram-reels-size) · [Somake](https://www.somake.ai/blog/instagram-reel-size-guide) · [Hanna-Eng](https://www.hanna-eng.com/guides/format-reels-instagram/) · [MakeMoonshot](https://makemoonshot.co/blog/reel-cover-size-safe-zone).
+
+All figures are mirror-derived; no official analytics, no pixel inspection and no Meta primary source. Verify the full grid, covers, durations and Insights in a logged-in session.
+
+---
+
+*Desk research from publicly accessible sources only. All engagement figures are a mirror sample, not official analytics; visual conclusions are low-confidence inferences. No client-confidential material is included. Recommendations are proposals, not observed changes. Revision 2 (§13) adds decoded CDN media tags, automated asset descriptions and secondary 2026 design/frequency guidance; Revision 3 separates content type from topic variety (§13.2); Revision 4 expands the corpus to 18 posts and adds the type deep dive (§14). All of it remains to be verified in a logged-in session.*
