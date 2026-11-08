@@ -2,7 +2,7 @@
 
 **Subject:** `@destined.digital` — the profile header (name, bio, profile picture, category, links, counts, Highlights, pinned posts) and its Threads counterpart
 **Prepared:** 7 November 2026 (MYT)
-**Revisions:** 2 — 7 November 2026, client review of the live profile on a phone: avatar centring, name wrapping, bio emoji/capitalisation/content (§7, supersedes §6). **3 — 7 November 2026, geography is conditional, not a requirement (§7.4).** **4 — 7 November 2026, client decision: the bio line "marketing doesn't have to be boring or repetitive" and `(003694655-T)` are LOCKED (§7.6); all bio-replacement drafts are withdrawn.** **5 — 7 November 2026, FINAL BIO ANSWER in §7.7: keep the line word-for-word, add one initial capital, remove 🧸, add nothing else.** **6 — 8 November 2026, HIGHLIGHTS ANSWER in §7.8: architecture, ordering mechanics, cover specs.** **7 — 8 November 2026, client spots two overlaps; §7.9 resolves them and reduces the final set to FIVE Highlights.** **8 — 8 November 2026, why Highlights matter and what they cannot do (§7.10).** **9 — 8 November 2026, EVIDENCE CORRECTION: two real Highlights found (`BTS`, `client feedback`), plus a full Instagram Stories section (§8).**
+**Revisions:** 2 — 7 November 2026, client review of the live profile on a phone: avatar centring, name wrapping, bio emoji/capitalisation/content (§7, supersedes §6). **3 — 7 November 2026, geography is conditional, not a requirement (§7.4).** **4 — 7 November 2026, client decision: the bio line "marketing doesn't have to be boring or repetitive" and `(003694655-T)` are LOCKED (§7.6); all bio-replacement drafts are withdrawn.** **5 — 7 November 2026, FINAL BIO ANSWER in §7.7: keep the line word-for-word, add one initial capital, remove 🧸, add nothing else.** **6 — 8 November 2026, HIGHLIGHTS ANSWER in §7.8: architecture, ordering mechanics, cover specs.** **7 — 8 November 2026, client spots two overlaps; §7.9 resolves them and reduces the final set to FIVE Highlights.** **8 — 8 November 2026, why Highlights matter and what they cannot do (§7.10).** **9 — 8 November 2026, EVIDENCE CORRECTION: two real Highlights found (`BTS`, `client feedback`), plus a full Instagram Stories section (§8).** **10 — 8 November 2026, current Story state and the two cover images described (§8.7).**
 **Companion to:** [`Destined-Digital-Instagram-Research.md`](Destined-Digital-Instagram-Research.md)
 **Theory basis:** MKW1120 Lectures 1–10 (uploaded PDFs), especially L9 (IMC / communication process), L6 (STP & positioning), L7 (services & brand), L5 (buyer decision process)
 
@@ -21,7 +21,7 @@ This is a narrow, deep pass on the **first screen** a visitor sees. Instagram's 
 | Business category, contact buttons, post count | **No** | Unverifiable publicly |
 | Bio link(s) | **No** (no aggregator found, no link rendered) | Unverifiable publicly |
 | Highlights | **Yes (new)** — at least two: `BTS`, `client feedback` (§8.0) | Medium |
-| Active Stories | No active 24-hour Story at capture; Highlights prove historical Story use | Low / inferred |
+| Active Stories | **No active Story visible** on any mirror at 8 Nov re-check (§8.7); Highlights prove historical use | Low / snapshot |
 | Pinned posts | Inferred from grid order only | Low |
 | Threads header (name, bio, topic tags, follower count) | Yes, live | High |
 
@@ -726,7 +726,7 @@ On 8 November 2026 the **direct** [Pixnoy Stories route](https://www.pixnoy.com/
 
 Both image alt-texts read "@destined.digital Highlights: …". The mirror lists exactly two (`hl_destined.digital_0_…`, `_1_…`), though mirrors can be incomplete; cover artwork itself returned 403 and could not be inspected. This **supersedes** the "Highlights unverifiable" wording in §1.8 and §7.8.
 
-Three consequences:
+Cover artwork was later partly recovered via automated image descriptions — see **§8.7**. Three consequences:
 
 1. **Stories have been posted.** Highlights can only be built from Stories, so someone has published and deliberately saved Story frames. "No Stories" on Imginn/Imgsed means **no active 24-hour Story at the moment of capture** — not "this account never posts Stories". Current frequency remains unknown.
 2. **The row is sparse and mis-labelled for buyers.** `BTS` is internal jargon. `client feedback` is 15 characters — at the truncation limit documented in §7.8 — and describes *quotes*, not outcomes. Neither answers any of the five buyer questions in §7.9 (`Is this for me?`, `Does it work?`, `What do I buy?`, `Why trust you?`, `What happens next?`). There is no `Results`, `Services`, `Start Here` or `FAQ` label.
@@ -791,6 +791,44 @@ Consistent with §7.10: **(1)** name + category + 5 native links (minutes) → *
 
 ---
 
+### 8.7 Current Story state — what is actually observable (Revision 10)
+
+Re-checked 8 November 2026. The question "what do Stories currently look like?" has a precise but limited answer.
+
+**Active 24-hour Stories: none visible.**
+
+| Route | Result at re-check |
+|---|---|
+| [Imginn Stories](https://imginn.com/stories/destined.digital/) | "No Stories" |
+| [Imgsed Stories](https://imgsed.com/stories/destined.digital/) | "No Stories" |
+| [Pixnoy Stories](https://www.pixnoy.com/profile/destined.digital/stories/) (direct) | Only the two **saved Highlight covers**; no active frames |
+| [Pixnoy highlights route](https://www.pixnoy.com/profile/destined.digital/highlights/) | Empty |
+| Jina-proxied Pixnoy Stories, storiesig, instanavigation, dumpor | CAPTCHA / blocked / bot verification |
+
+This is a **single snapshot**, not a pattern. Stories expire after 24 hours and public mirrors do not reliably index ephemeral content; absence here is not proof that nothing was posted today. Only a logged-in view can answer definitively.
+
+**The durable trace: two saved Highlights.** Pixnoy's cover thumbnails carry base64-encoded CDN URLs. Reading those full URLs through the reader proxy returned automated descriptions and asset timestamps for both covers — **text descriptions only**; the image bytes themselves remain unretrievable from this environment, so confidence is low.
+
+| # | Label | Cover, automated description | Asset date (low confidence) | Reading |
+|---|---|---|---|---|
+| 1 | `BTS` | "A black GoPro camera is placed above a [dark-]haired woman with a white shirt" | 15 May 2026 | A production / behind-the-scenes photo with a crew member |
+| 2 | `client feedback` | "A small window looking at some scoring feedback" | 30 May 2026 | Looks like a screenshot of a feedback or scoring view |
+
+Both `efg` parameters decode to `STORY.best_image_urlgen`, confirming these are Story-derived cover frames rather than separately designed assets.
+
+**What this tells us**
+
+1. **The covers are raw photos / screenshots, not a designed system.** No matching dark-field wordmark set, no consistent typography, no one-icon-per-cover — inconsistent with both the dark wordmark avatar and the cover system recommended in §7.8. At roughly 60 pt, a GoPro photo and a small screenshot are hard to parse.
+2. **`client feedback` is sentiment, not outcomes.** The label and the screenshot cover point to quote / testimonial captures. There is no sign of the four [`/testimonials`](https://www.destined-digital.com/testimonials) growth screenshots with numbers — so the proof gap (§0) is still open **even though a feedback Highlight exists**.
+3. **The row looks like a one-time May 2026 setup.** Both cover assets date to mid/late May 2026, about 5½ months before this audit. A cover need not change when new frames are added, so this is not proof of neglect — but combined with only two labels and no buyer-facing categories, it reads as set-and-forget.
+4. **Stories have definitely been used** (Highlights require Stories), most plausibly for shoot BTS and client-feedback screenshots — consistent with the account's feed themes (photo dumps, product shoots, testimonials, founder notes). This is **inference from covers and captions**, not observation of Story frames.
+
+**Still not observable:** active Story frames today, Story frequency / cadence, sticker or link-sticker usage, which frames are saved into which Highlight, view / reply / tap metrics, whether casting or hiring appears in Stories, and the exact cover artwork. All require a logged-in session (§9).
+
+**Bottom line:** publicly, the account currently shows **no active Story** and only a **two-Highlight, photo-covered, May-2026-looking archive** — human and on-brand in tone, but not a buyer-facing navigation system and not surfacing quantified proof. That is the honest answer; anything more specific would be invention.
+
+---
+
 ## 9. Verify in a logged-in session before finalising
 
 - The **exact live name field** and whether "Full-Service Marketing Agency" is the name or the business category — plus whether it is inherited from a linked Facebook Page.
@@ -818,6 +856,10 @@ Consistent with §7.10: **(1)** name + category + 5 native links (minutes) → *
 - Name 30, bio 150, up to 5 native links, name field is searchable: [1](https://replug.io/blog/instagram-bio-character-limit) · [2](https://wordscalculator.net/blog/instagram-character-limits) · [3](https://taskant.com/instagram-character-limit/) · [5](https://boldlytype.com/blog/instagram-bio-character-limit) · [4](https://postlen.app/en/blog/instagram-character-limits)
 - Threads name/bio limits and topic tags/links: [1](https://postory.io/blog/threads-bio-ideas) · [3](https://momentumhive.app/blog/threads-character-limit-2026) · [4](https://growthscribe.com/instagram-caption-character-limit/)
 - Bio shared between Instagram and Threads: [1](https://postory.io/blog/threads-bio-ideas) · [2](https://thetextgenerators.com/social-media-character-limits/) · [4](https://www.sendcove.app/integrations/threads/character-limits); dissenting view (separate bios): [3](https://omnisocials.com/guides/threads-character-limits)
+
+**Revision 10 (§8.7) — current Story state and cover assets**
+- Active-Story re-check: [Imginn Stories](https://imginn.com/stories/destined.digital/) · [Imgsed Stories](https://imgsed.com/stories/destined.digital/) · [Pixnoy Stories](https://www.pixnoy.com/profile/destined.digital/stories/) (lists only saved Highlight covers)
+- Cover assets (`STORY.best_image_urlgen` Story-derived frames), automated descriptions + asset timestamps 15 May 2026 and 30 May 2026, obtained by decoding Pixnoy's base64 `o=` parameter and reading the full CDN URLs through the reader proxy: `671198388_935659482624784_3745484518925952203_n.jpg` (BTS), `709755762_932941826487877_2593497342582816771_n.jpg` (client feedback). Signed CDN URLs expire; descriptions are low-confidence automated text, not direct visual inspection. Pixnoy's own thumbnail proxy returned 404 to the reader.
 
 **Revision 9 (§8) — Instagram Stories**
 - Stories as relationship/retention layer, mainly shown to existing followers, private engagement signals: [Postoria](https://postoria.io/blog/how-the-instagram-algorithm-works) · [ContentStudio](https://contentstudio.io/blog/instagram-features-for-marketers) · [PostPlanify](https://postplanify.com/blog/instagram-post-vs-story-vs-reel) · [Stories vs Highlights vs Reels](https://viewprivateinstagram.substack.com/p/instagram-stories-vs-highlights-vs-reels)
@@ -851,4 +893,4 @@ Consistent with §7.10: **(1)** name + category + 5 native links (minutes) → *
 
 ---
 
-*Desk research from publicly accessible sources, plus the client's own observation of the live profile on a phone and their editorial decisions (§7, Revisions 2–9). Character counts were computed against the exact strings shown. All header rewrites are proposals, not observed changes; the locked bio in §7.6 is a client decision.*
+*Desk research from publicly accessible sources, plus the client's own observation of the live profile on a phone and their editorial decisions (§7, Revisions 2–10). Character counts were computed against the exact strings shown. All header rewrites are proposals, not observed changes; the locked bio in §7.6 is a client decision.*
