@@ -2,7 +2,7 @@
 
 **Subject:** `@destined.digital` — the profile header (name, bio, profile picture, category, links, counts, Highlights, pinned posts) and its Threads counterpart
 **Prepared:** 7 November 2026 (MYT)
-**Revisions:** 2 — 7 November 2026, client review of the live profile on a phone: avatar centring, name wrapping, bio emoji/capitalisation/content (§7, supersedes §6). **3 — 7 November 2026, geography is conditional, not a requirement (§7.4).** **4 — 7 November 2026, client decision: the bio line "marketing doesn't have to be boring or repetitive" and `(003694655-T)` are LOCKED (§7.6); all bio-replacement drafts are withdrawn.** **5 — 7 November 2026, FINAL BIO ANSWER in §7.7: keep the line word-for-word, add one initial capital, remove 🧸, add nothing else.** **6 — 8 November 2026, HIGHLIGHTS ANSWER in §7.8: architecture, ordering mechanics, cover specs.** **7 — 8 November 2026, client spots two overlaps; §7.9 resolves them and reduces the final set to FIVE Highlights.** **8 — 8 November 2026, why Highlights matter and what they cannot do (§7.10).** **9 — 8 November 2026, EVIDENCE CORRECTION: two real Highlights found (`BTS`, `client feedback`), plus a full Instagram Stories section (§8).** **10 — 8 November 2026, current Story state and the two cover images described (§8.7).**
+**Revisions:** 2 — 7 November 2026, client review of the live profile on a phone: avatar centring, name wrapping, bio emoji/capitalisation/content (§7, supersedes §6). **3 — 7 November 2026, geography is conditional, not a requirement (§7.4).** **4 — 7 November 2026, client decision: the bio line "marketing doesn't have to be boring or repetitive" and `(003694655-T)` are LOCKED (§7.6); all bio-replacement drafts are withdrawn.** **5 — 7 November 2026, FINAL BIO ANSWER in §7.7: keep the line word-for-word, add one initial capital, remove 🧸, add nothing else.** **6 — 8 November 2026, HIGHLIGHTS ANSWER in §7.8: architecture, ordering mechanics, cover specs.** **7 — 8 November 2026, client spots two overlaps; §7.9 resolves them and reduces the final set to FIVE Highlights.** **8 — 8 November 2026, why Highlights matter and what they cannot do (§7.10).** **9 — 8 November 2026, EVIDENCE CORRECTION: two real Highlights found (`BTS`, `client feedback`), plus a full Instagram Stories section (§8).** **10 — 8 November 2026, current Story state and the two cover images described (§8.7).** **11 — 8 November 2026, a sustainable recurring Story idea bank and weekly template (§8.8).**
 **Companion to:** [`Destined-Digital-Instagram-Research.md`](Destined-Digital-Instagram-Research.md)
 **Theory basis:** MKW1120 Lectures 1–10 (uploaded PDFs), especially L9 (IMC / communication process), L6 (STP & positioning), L7 (services & brand), L5 (buyer decision process)
 
@@ -829,6 +829,65 @@ Both `efg` parameters decode to `STORY.best_image_urlgen`, confirming these are 
 
 ---
 
+### 8.8 A sustainable Story idea bank (Revision 11)
+
+The client asked for Story ideas that can be posted **regularly**. The failure mode for a small agency is treating every Story as a new piece of content to produce. The fix is a **closed set of recurring series attached to work that already happens** — *capture, don't create* — plus a fixed weekly template so nobody faces a blank canvas. Every idea below reuses assets already owned (§8.0–8.3); none requires a new shoot.
+
+**Eight recurring series**
+
+| # | Series | Trigger (already happening) | Frames | Interactive | Saves to | Effort |
+|---|---|---|---|---|---|---|
+| 1 | `This week at Destined` | Monday, always | 3: shoot calendar / one client problem being solved / what is coming | Poll: "which should we show more of?" | Expires (time-bound) | 5 min |
+| 2 | `One number` | Weekly, from [`/testimonials`](https://www.destined-digital.com/testimonials) | 3–4: one **real** anonymised metric → what changed → link sticker → `DM "AUDIT"` | Link sticker | `Results` | 5 min |
+| 3 | `Client said / we did` | Any new client quote | 3: quote screenshot → the action that produced it → CTA | Question sticker | `Results` | 5 min |
+| 4 | `Behind the shot` | Any shoot day | 3: setup clip → styling / lighting detail → finished frame | Poll "A or B?" | `Results` (work half) / `Why Us` | Phone only |
+| 5 | `You pick` | During editing | 2–3: two crops / covers / colourways → poll → next-day "you picked X, here's why it works" | Poll | Expires or `Results` | Phone only |
+| 6 | `Fix it Friday` | Weekly, from their own TikTok scripts | 3: buyer myth → truth → one action | Question sticker / DM keyword | `FAQ` | 5 min |
+| 7 | `Ask us anything` | Weekly question box | 1 prompt + 2–3 answers the following week | Question sticker | `FAQ` | 2 min |
+| 8 | `Meet the desk` | Any day, opportunistic | 1–2: founder / team to camera, works in progress, a real opinion | Slider or emoji poll | `Why Us` / expires | 2 min |
+
+**Fortnightly, not weekly:** `What we're booking` — free 30-min consult, `DM "AUDIT"`, link to [`/services`](https://www.destined-digital.com/services), and "from RM1,500" **only if that price is still current**. Saves to `Services`. Selling every day would undo the relationship purpose of Stories (§8.1).
+
+**Optional:** `Client love` — repost a client's own post (with permission) and tag them (`@fupi.co` and similar), which adds relationship signals without new assets; short `Cozy Conversions` / guest-lecture clips for `Why Us`. Interactive stickers such as "Add Yours" and question boxes are documented relationship tools ([3](https://contentstudio.io/blog/instagram-features-for-marketers)). Keep casting calls and hiring out of this row (§6.6).
+
+**Fixed weekly template** — 2–3 days, 3–4 frames each (§8.2):
+
+| Day | Series | Saves to |
+|---|---|---|
+| Mon | `This week at Destined` | Expires |
+| Wed | **Proof day** — rotate `One number` → `Client said / we did` → `Behind the shot` | `Results` |
+| Fri | `Fix it Friday` **or** `Ask us anything` answers | `FAQ` |
+
+Opportunistic series (`Behind the shot`, `You pick`, `Meet the desk`, `Client love`) fill any gap; they are event-driven, never forced. Proof must appear **at least once a week** — it is the single biggest gap in the account (§0). One interactive sticker on every Story day (§8.4).
+
+**Two example scripts** — templates only; use real figures, never invented ones:
+
+`One number`
+- F1: "[Real metric] in [real period]." — a growth figure from `/testimonials`
+- F2: "What changed: [one sentence — hook, format, or targeting]."
+- F3: "Full breakdown ↓" — link sticker → `/testimonials`
+- F4: "Want this for your brand? DM AUDIT"
+
+`Fix it Friday` — repurposing their own caption "posting more is not the same as selling better"
+- F1: "Posting more ≠ selling more."
+- F2: "Three posts a week with no next step is noise. One post with a clear CTA is a funnel."
+- F3: "What's your CTA right now?" — question sticker; answers become next week's post
+
+**Four rules that make it sustainable**
+
+1. **Batch the decisions, not the content.** 15 minutes on Monday to assign the week's three series. Capture footage opportunistically during real work; post from the phone. No design pass.
+2. **Keep a Story bank.** One phone album / note where quotes, numbers, screenshots and BTS clips accumulate as they happen. Nobody ever opens a blank canvas.
+3. **A minimum fallback.** On a chaotic week, post 2 frames — one text thought + one poll — rather than zero. Consistency is measured in days, not production value ([3](https://heropost.io/instagram-stories-for-business-2026/)).
+4. **Tag the destination at capture.** Decide which of the five Highlights (§7.9) a frame belongs to when shooting it. Only evergreen frames get saved; time-bound ones expire (§8.3). No separate Highlight-maintenance project.
+
+**Review after 4 weeks.** For each series log replies, sticker taps, link taps and `AUDIT` DMs. Keep the top four, drop the bottom two, replace them with two prompts sourced from the question box (Lecture 9 feedback loop; Lecture 4 MIS). That is how regularity survives past the first fortnight.
+
+**Avoid:** 10+ frames/day, fully designed Story graphics, reposting only polished feed posts, all-agency-self content with no buyer value, casting/hiring in the client-facing tray, the unverified "Meta 56–70%" stat, and links to `/personal-branding` until its template filler is cleaned.
+
+*Revision 11 is a content-system proposal synthesised from §8 and the account's own captions; no new external sources beyond those already cited in §8.*
+
+---
+
 ## 9. Verify in a logged-in session before finalising
 
 - The **exact live name field** and whether "Full-Service Marketing Agency" is the name or the business category — plus whether it is inherited from a linked Facebook Page.
@@ -893,4 +952,4 @@ Both `efg` parameters decode to `STORY.best_image_urlgen`, confirming these are 
 
 ---
 
-*Desk research from publicly accessible sources, plus the client's own observation of the live profile on a phone and their editorial decisions (§7, Revisions 2–10). Character counts were computed against the exact strings shown. All header rewrites are proposals, not observed changes; the locked bio in §7.6 is a client decision.*
+*Desk research from publicly accessible sources, plus the client's own observation of the live profile on a phone and their editorial decisions (§7, Revisions 2–11). Character counts were computed against the exact strings shown. All header rewrites are proposals, not observed changes; the locked bio in §7.6 is a client decision.*
