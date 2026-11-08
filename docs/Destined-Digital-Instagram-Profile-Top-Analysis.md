@@ -2,7 +2,7 @@
 
 **Subject:** `@destined.digital` — the profile header (name, bio, profile picture, category, links, counts, Highlights, pinned posts) and its Threads counterpart
 **Prepared:** 7 November 2026 (MYT)
-**Revisions:** 2 — 7 November 2026, client review of the live profile on a phone: avatar centring, name wrapping, bio emoji/capitalisation/content (§7, supersedes §6). **3 — 7 November 2026, geography is conditional, not a requirement (§7.4).** **4 — 7 November 2026, client decision: the bio line "marketing doesn't have to be boring or repetitive" and `(003694655-T)` are LOCKED (§7.6); all bio-replacement drafts are withdrawn.** **5 — 7 November 2026, FINAL BIO ANSWER in §7.7: keep the line word-for-word, add one initial capital, remove 🧸, add nothing else.** **6 — 8 November 2026, HIGHLIGHTS ANSWER in §7.8: architecture, ordering mechanics, cover specs.** **7 — 8 November 2026, client spots two overlaps; §7.9 resolves them and reduces the final set to FIVE Highlights.** **8 — 8 November 2026, why Highlights matter and what they cannot do (§7.10).** **9 — 8 November 2026, EVIDENCE CORRECTION: two real Highlights found (`BTS`, `client feedback`), plus a full Instagram Stories section (§8).** **10 — 8 November 2026, current Story state and the two cover images described (§8.7).** **11 — 8 November 2026, a sustainable recurring Story idea bank and weekly template (§8.8).** **12 — 8 November 2026, CONFIDENTIALITY CONSTRAINT: client material must not be exposed; §8.9 re-tiers the idea bank and rebuilds the weekly rhythm on clearance-free content.** **13 — 8 November 2026, ten source-backed, clearance-free Story ideas that feed the five Highlights (§8.10).** **14 — 8 November 2026, §8.10 expanded from ten to THIRTY ideas at the client's request.** **15 — 8 November 2026, §8.11 adds two banks of twenty: twenty Stories you can just post and twenty designed for audience interaction.** **16 — 8 November 2026, LOW-EFFORT CORRECTION: §8.12 re-cuts both banks into phone-only, ≤5-minute Stories and retires the designed or data-dependent versions in §8.10–§8.11.** **17 — 8 November 2026, §8.13 assesses the client's own four "just post" ideas against the low-effort and confidentiality filters.** **18 — 8 November 2026, §8.14 re-cuts the interactive bank into twenty CHILL, low-stakes interactions: the client wants less audience-decides-the-business for now.**
+**Revisions:** 2 — 7 November 2026, client review of the live profile on a phone: avatar centring, name wrapping, bio emoji/capitalisation/content (§7, supersedes §6). **3 — 7 November 2026, geography is conditional, not a requirement (§7.4).** **4 — 7 November 2026, client decision: the bio line "marketing doesn't have to be boring or repetitive" and `(003694655-T)` are LOCKED (§7.6); all bio-replacement drafts are withdrawn.** **5 — 7 November 2026, FINAL BIO ANSWER in §7.7: keep the line word-for-word, add one initial capital, remove 🧸, add nothing else.** **6 — 8 November 2026, HIGHLIGHTS ANSWER in §7.8: architecture, ordering mechanics, cover specs.** **7 — 8 November 2026, client spots two overlaps; §7.9 resolves them and reduces the final set to FIVE Highlights.** **8 — 8 November 2026, why Highlights matter and what they cannot do (§7.10).** **9 — 8 November 2026, EVIDENCE CORRECTION: two real Highlights found (`BTS`, `client feedback`), plus a full Instagram Stories section (§8).** **10 — 8 November 2026, current Story state and the two cover images described (§8.7).** **11 — 8 November 2026, a sustainable recurring Story idea bank and weekly template (§8.8).** **12 — 8 November 2026, CONFIDENTIALITY CONSTRAINT: client material must not be exposed; §8.9 re-tiers the idea bank and rebuilds the weekly rhythm on clearance-free content.** **13 — 8 November 2026, ten source-backed, clearance-free Story ideas that feed the five Highlights (§8.10).** **14 — 8 November 2026, §8.10 expanded from ten to THIRTY ideas at the client's request.** **15 — 8 November 2026, §8.11 adds two banks of twenty: twenty Stories you can just post and twenty designed for audience interaction.** **16 — 8 November 2026, LOW-EFFORT CORRECTION: §8.12 re-cuts both banks into phone-only, ≤5-minute Stories and retires the designed or data-dependent versions in §8.10–§8.11.** **17 — 8 November 2026, §8.13 assesses the client's own four "just post" ideas against the low-effort and confidentiality filters.** **18 — 8 November 2026, §8.14 re-cuts the interactive bank into twenty CHILL, low-stakes interactions: the client wants less audience-decides-the-business for now.** **19 — 8 November 2026, §7.11 answers the client's question about which THREE posts to pin, superseding the §6.5 trio.**
 **Companion to:** [`Destined-Digital-Instagram-Research.md`](Destined-Digital-Instagram-Research.md)
 **Posts teardown:** [`Destined-Digital-Instagram-Posts-Analysis.md`](Destined-Digital-Instagram-Posts-Analysis.md) — feed posts, Reels, captions, cadence and engagement; §13 (Revision 2) covers posting frequency, content variety, aesthetic & colour scheme; Revision 3 separates content type from topic variety (§13.2); Revision 4 expands the corpus to 18 posts and adds the type deep dive (§14); Revision 5 rebuilds topic variety, buyer-journey coverage and the topic target (§15); Revision 6 adds twenty golden static / carousel ideas and a build-once spec (§16)
 **Theory basis:** MKW1120 Lectures 1–10 (uploaded PDFs), especially L9 (IMC / communication process), L6 (STP & positioning), L7 (services & brand), L5 (buyer decision process)
@@ -122,7 +122,7 @@ The first three grid items on the mirrors are older than the fourth (May 2026 po
 2. "being a gen z boss is controversial…" (founder culture, 55 / 7)
 3. "A little peek into our heart behind our work at Destined" (values)
 
-All three are **identity content**. A first-time SME buyer arrives and sees three posts about who Destined is, with no post about what they deliver, what it costs, or what result a client got. Pinned posts and Highlights are the profile's "landing page"; they are currently both pointed inward.
+All three are **identity content**. A first-time SME buyer arrives and sees three posts about who Destined is, with no post about what they deliver, what it costs, or what result a client got. Pinned posts and Highlights are the profile's "landing page"; they are currently both pointed inward. **For the final three-pin recommendation see §7.11 (Revision 19).**
 
 ### 1.10 The Threads header (same Meta identity, different message)
 The live [Threads profile](https://r.jina.ai/https://www.threads.com/@destined.digital) shows 226 followers and three linked **topic tags**:
@@ -258,6 +258,8 @@ Add UTM tags per slot so enquiries can be attributed (L4 MIS). Clean the `/perso
 Covers: solid dark background, white label, one small `🧸` accent — consistent with the current avatar and legible at thumbnail size.
 
 ### 6.5 Pinned trio — convert the three slots into a funnel
+
+> **Superseded in §7.11 (Revision 19):** the order of jobs below (Proof / Offer / Start Here) is retained, but the content is revised — a "case-study carousel with a real number" needs written clearance, and a pinned "services + client types" post would duplicate the `Start Here` and `Services` Highlights. Use §7.11.
 1. **Proof** — a case-study carousel with a real number
 2. **Offer** — "What we do / from RM1,500 / free consult"
 3. **Start here** — services + client types + DM CTA
@@ -707,11 +709,67 @@ Short answer: **they are the only permanent, structured navigation an Instagram 
 | # | Fix | Effort | Why here |
 |---|---|---|---|
 | 1 | **Name (≤24 chars) + category + 5 native links** | Minutes | Fixes the single biggest gap (`/testimonials` undiscoverable) and helps both search and conversion |
-| 2 | **Pinned trio** (Proof / Offer / Start Here) | Reorder 3 existing posts | Permanent first-screen proof, no new assets |
+| 2 | **Pinned trio** (§7.11) | Reorder 3 existing posts, ~10 min | Permanent first-screen proof, no new assets |
 | 3 | **The five Highlights (§7.9)** | Biggest build, ~25–40 frames | Worth doing once 1 and 2 are done |
 | 4 | **Covers / visual polish** | Design pass | A matching dark set is a credibility cue, not a conversion driver on its own |
 
 **Bottom line:** Highlights matter because they are the profile's permanent decision aid at the exact moment a buyer is deciding — and more than usual here, because the bio was deliberately kept non-informational. But they **convert attention that already exists; they do not create it**. Fix the links and pins first, then build the row.
+
+---
+
+### 7.11 The three pinned posts — final answer (Revision 19)
+
+The client asks: **"if i am to have 3 posts pinned what do you think they should be?"**
+
+**Mechanics first.** Instagram allows **three** pinned posts; any own grid post qualifies, including **Reels and carousels**; pinning is silent, free and reversible; new posts appear *behind* the pinned row. Several 2026 guides report that the **most recently pinned post lands in the top-left slot**, pushing the others right — so to get an intended 1 / 2 / 3 left-to-right order, **pin in reverse (3 → 2 → 1)** and verify in-app ([LiveInstagram](https://liveinstagram.net/instagram/how-instagram-pinned-posts-work/), [Taap](https://taap.bio/blog/how-to-pin-posts-on-instagram), [Virallized](https://www.virallized.com/instagram-glossary/pinned-posts), [The Marketing Heaven](https://themarketingheaven.com/how-to-pin-posts-and-reels-to-instagram-profile/)).
+
+**Evidence caveat (§1.9):** the first three mirror grid items are older than the fourth, which is *consistent with* pins but **unconfirmed**. This section is a **recommendation**, not a description of what is currently pinned. Confirm the three live pins in a logged-in session.
+
+#### The principle: three buyer questions, not three "best" posts
+
+With the bio locked at 63/150 as a pure brand statement (§7.7) and the name shortened (§7.2), the pinned row is the **only permanent surface a visitor reads before deciding whether to scroll**. §7.10 ranks it priority **2** behind name/category/links — a ~10-minute fix needing no new assets.
+
+Generic 2026 guidance says pin an **introduction, proof, and an offer** (or story / authority / closer, or start-here / proof / pricing-or-process) ([Shannon McKinstrie](https://shannonmckinstrie.com/instagram-business-profile-tips/), [Sked Social](https://skedsocial.com/blog/build-instagram-presence), [InfluencerDB](https://influencerdb.net/social-media-marketing/instagram-for-small-business/), [InstantDM](https://instantdm.com/blog/the-perfect-pinned-post-formula-how-to-turn-your-instagram-profile-into-a-client), [ReflectingWalls](https://www.reflectingwalls.com/the-real-estate-agents-ultimate-guide-to-instagram/)). **Applying that literally here would repeat the existing mistake**: §1.9's three apparent pins are already all identity content — manifesto, founder culture, values. And §15.5 found **awareness 10/18 (56%), consideration 0 dedicated, decision 1 hard offer**. So the pins must carry **consideration and decision**, not more awareness.
+
+| Slot | Buyer question | Stage (§15.5) | What must NOT be here |
+|---|---|---|---|
+| **1 (left)** | "Who are you, and why should I trust you?" | Aware → Appeal, but **with an external credential** | Another manifesto; a pure values post |
+| **2 (middle)** | "Can you actually do it? What happens if I work with you?" | **Consideration — currently 0 dedicated posts** | "We're passionate" filler; any client proof without written clearance |
+| **3 (right)** | "What do I buy, what does it cost, how do I start?" | **Decision — only 1 hard offer** | An expired price; a bare "DM us" with no offer |
+
+#### Pin today — three existing posts, zero new assets
+
+| Slot | Existing post (18-post corpus) | Type | Likes / comments | Why it earns the slot |
+|---|---|---|---|---|
+| **1** | **21 Jul 2026 — Sunway University AUSMAT guest lecture** | Carousel | **81 / 5** | The **highest-liked post observed**; founder-led *and* an external credential; public event, **no client data**; carousels average **48.0 mean likes** (§14.2) |
+| **2** | **10 Mar 2026 — B2B messaging-clarity Reel** (`DVsR8I6l-eg`, 19 s) | Reel | **59 / 0** | Second-highest Reel; shows **how they think**, ends "send us a dm"; green tier; the closest existing thing to a **consideration / method** post |
+| **3** | **6 Jun 2026 — launch-package Reel** (`DZPEN_qyCfS`, 9 s) | Reel | **39 / 0** | The **only hard offer**: "starts at RM1,500/month", three deliverables, DM CTA. §9 rec #9 and §14.6 already say **resurface, pin and link it** — it answers the *"show me the product where can I get it"* comment |
+
+Three honest qualifications. **(a)** Verify RM1,500 is still current before pinning #3; an outdated price pin actively misleads ([Virallized](https://www.virallized.com/instagram-glossary/pinned-posts)). **(b)** #2 earned 59 likes but **0 comments** — it demonstrates attention, not conversation; that is acceptable for a pin, which is a *read* surface, not a discussion surface. **(c)** The mix is 1 carousel + 2 Reels; carousels are the stronger saves/authority format (§14.2, §16.2), so swap one Reel for a carousel later.
+
+#### Upgrade path — two swaps, slot 1 unchanged
+
+| Slot | Swap to | When | Why |
+|---|---|---|---|
+| **2** | A **cleared / anonymised case-study carousel with one number**; if clearance is unavailable, use **§16 S9** (spec work for a fictional brand), **§16 S6** (own-account caption experiment) or **§16 S10** (the 4 steps of our audit) | After written permission, or one carousel build | Real proof with a number; the green-tier substitutes keep the slot honest until then (§8.9, §10 in the posts teardown) |
+| **3** | **§16 S5** — "The launch package: what you get, what you don't, who it's for" carousel | Once built | A **permanent, readable** tile; save-worthy; no expiring price baked into the visual; a carousel replaces a 9-second Reel whose cover is an auto-generated frame (§14.4) |
+
+#### What never gets pinned
+
+- The **29 Sep 2026 "Meta 56–70%" Reel** — the stat is unsupported (§9 rec #3 / §14.6).
+- **Casting / model-call posts** — they belong on a separate labelled surface (§6.6).
+- The **30 May manifesto**, **3 May "gen z boss"** and **19 May "peek into our heart"** — the current identity-only trio (§1.9); keep at most **one** human post, and make it the credential-bearing one.
+- Any **client quote, testimonial screenshot, logo, dashboard, packaging or unreleased work** without written clearance (§8.9). A pinned post is the most exposed tile on the profile, so the confidentiality bar is at its highest here.
+- Anything **dated or time-bound** — unpin the day it expires.
+
+#### Consistency with the rest of the header
+
+- **§6.5 is superseded** for content, not for the order of jobs: its "case-study carousel with a real number" is not publishable without clearance, and its "Start here — services + client types" would duplicate the `Start Here` and `Services` Highlights. The three jobs (proof / offer / orientation) remain, re-ordered and made clearance-safe.
+- **No duplication rule (§7.9):** each Highlight answers exactly one buyer question and no frame is duplicated. Pins are the **3-second scan**, Highlights are the **catalogue**. Do not pin a five-service list (`Services` owns it), a navigation map (`Start Here` owns it), or a `FAQ` card (`FAQ` owns it).
+- **Keep one human face** — founder/people topics average **65.7 likes vs 21.2** and carry **57% of all comments** (§15.3) — but the Sunway carousel does that *and* supplies a credential, which is why it beats a pure founder-story pin.
+- **What pins cannot do:** they convert attention that already exists; they create no discovery (§7.10). Track profile visits → link taps → `AUDIT` DMs → booked consults, not likes.
+
+*Revision 19 answers the client's three-pin question. It is a proposal, not an observation: whether the first three grid items are actually pinned, their order, the current RM1,500 price, saves, profile visits and any client clearances must all be confirmed in a logged-in session. External 2026 pinning guides are secondary, not Meta primary, and disagree on minor UI details; no official analytics, exhaustive post history or exact visuals are claimed. The client-review clearance decision (§8.13), the saved-Highlight-cover date caveat (§8.7/§8.10), the "product poster" scope question and the public-GitHub privacy question all remain open.*
 
 ---
 
@@ -1409,6 +1467,10 @@ Total stays inside the **≈23 min/week** budget in §8.12. **Measure sticker ta
 ---
 
 ## 10. Sources
+
+**Revision 19 (§7.11) — the three pinned posts**
+- Three slots, any own post including Reels and carousels, silent and reversible; newest pin lands top-left; don't leave slots empty; never pin an expired offer: [LiveInstagram — how pinned posts work](https://liveinstagram.net/instagram/how-instagram-pinned-posts-work/) · [Taap — pinning order and mechanics](https://taap.bio/blog/how-to-pin-posts-on-instagram) · [Virallized — pinned posts glossary](https://www.virallized.com/instagram-glossary/pinned-posts) · [The Marketing Heaven](https://themarketingheaven.com/how-to-pin-posts-and-reels-to-instagram-profile/)
+- What to pin (intro / proof / offer; story / authority / closer; start-here + proof + pricing-or-process): [Shannon McKinstrie — three pins as website tabs](https://shannonmckinstrie.com/instagram-business-profile-tips/) · [Sked Social — brand story, best service, social proof](https://skedsocial.com/blog/build-instagram-presence) · [InstantDM — the pinned-post formula](https://instantdm.com/blog/the-perfect-pinned-post-formula-how-to-turn-your-instagram-profile-into-a-client) · [InfluencerDB — start here, proof, pricing or process](https://influencerdb.net/social-media-marketing/instagram-for-small-business/) · [ReflectingWalls — who you help, best work, process](https://www.reflectingwalls.com/the-real-estate-agents-ultimate-guide-to-instagram/)
 
 **Revision 18 (§8.14) — chill, low-stakes interaction**
 - Low-stakes this-or-that, would-you-rather and icebreaker questions: [BestieScore — 50 Story quiz ideas](https://bestiescore.com/blog/best-instagram-story-quiz-ideas) · [FormFriends — 100+ poll questions](https://formfriends.com/blog/instagram-story-poll-questions) · [Indzu — keep polls simple and fun](https://indzu.com/blog/social/how-to-make-an-instagram-story-poll/) · [SocialRails — 200+ questions to ask on a Story](https://socialrails.com/blog/questions-to-ask-on-instagram-story) · [Ainfluencer — 40 Story ideas incl. Add Yours and games](https://influencermarketing.ainfluencer.com/instagram-story-ideas/)
