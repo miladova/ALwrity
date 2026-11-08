@@ -905,7 +905,7 @@ Agency guidance is consistent: get written permission before naming a client or 
 
 | Tier | What | Approval | Role in the rhythm |
 |---|---|---|---|
-| **Green — safe by default** | Own opinions and methods, generic process explainers, own team/founder moments (staff consent once), own templates / mock-ups / spec work, own-account experiments, public owned pages (`/services`, `/whydestined`, blog), buyer-myth education from their own published captions, polls with no client assets | **None** | Backbone — 6 of 8 series |
+| **Green — safe by default** | Own opinions and methods, generic process explainers, own team/founder moments (staff consent once), own templates / mock-ups / spec work, own-account experiments, public owned pages (`/services`, `/whydestined`, blog), buyer-myth education from their own published captions, polls with no client assets | **None** | Backbone — 5 of 8 series, plus the fortnightly offer |
 | **Amber — cleared only** | Anonymised client results, cropped quote screenshots, generic set-up BTS with no product / packaging / logo, reposts or tags of a client's own public post | One-time written clearance + anonymisation checklist | Optional, from the cleared bank only |
 | **Red — never in a public Story** | Client names, logos, handles, tags; unreleased campaigns, products or packaging; raw analytics dashboards with account names; exact pricing, proposals, contracts or decks; identifiable client staff; internal messages; live shoot footage of client product; casting/hiring details with names | Explicit written sign-off per item, or keep off Instagram entirely | None |
 
@@ -937,7 +937,7 @@ Note: [`/testimonials`](https://www.destined-digital.com/testimonials) is alread
 
 Opportunistic and green: `Meet the desk`, `Behind the process` (own templates), `You pick` **using their own spec shots**, fortnightly `What we're booking`. `Client love` is amber-only — repost or tag only with written approval. `One number`, `Client said / we did` and `Behind the shot` become **amber variants**, not defaults.
 
-**Bottom line:** confidentiality does **not** prevent regular Stories — 6 of the 8 series need zero client material and zero approvals. What it prevents is *casual* use of client proof. Build the rhythm on green material, keep proof in a cleared-and-anonymised lane, and regularity survives.
+**Bottom line:** confidentiality does **not** prevent regular Stories — 5 of the 8 series, plus the fortnightly offer, need zero client material and zero approvals. What it prevents is *casual* use of client proof. Build the rhythm on green material, keep proof in a cleared-and-anonymised lane, and regularity survives.
 
 **A second reading of "confidential".** If the requirement covers the **analysis itself** (this being client work that should not be public), say so: these files have been committed to a **public** GitHub repository (`miladova/ALwrity`, branch `arena/010b3074-alwrity`) since the client asked for GitHub visibility. Nothing in them is client-confidential — they use only public evidence and the client's own instructions — but public hosting can be stopped or the files moved to a private location on request. Until clarified, §8.9 applies to **Story content**, which is the direct subject of the question.
 
