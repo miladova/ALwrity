@@ -6,6 +6,7 @@
 **Revision 3 — 8 November 2026:** separates **content type** (the format: single image / carousel / Reel) from **topic variety** (the subject: founder, proof, BTS, offer, education) as two independent axes, adds a type × topic cross-tab, and sets a separate target for each.
 **Revision 4 — 8 November 2026:** on the user's request to discuss type first, widens the observed corpus from 12 to **18 posts** using the Imginn Reels tab, adds a dedicated **§14 content type deep dive**, and corrects several earlier cadence, format and offer claims (list in §14.6).
 **Revision 5 — 8 November 2026:** rebuilds **topic variety** on the full 18-post corpus in **§15** — full topic inventory, type × topic cross-tab, buyer-journey coverage, an operational topic target, and a second correction list (§15.7).
+**Revision 6 — 8 November 2026:** at the client's request ("posts, specifically statics"), adds **§16 — twenty golden static / carousel post ideas**, a build-once reuse-many spec, and an explicit list of what is excluded by confidentiality.
 **Companion to:** [`Destined-Digital-Instagram-Research.md`](Destined-Digital-Instagram-Research.md) (whole-account audit) and [`Destined-Digital-Instagram-Profile-Top-Analysis.md`](Destined-Digital-Instagram-Profile-Top-Analysis.md) (header, Highlights, Stories; **§8.10–§8.14** have seventy sourced, clearance-free Story ideas (low-effort re-cut in §8.12) plus twenty chill interactive prompts (§8.14)) 
 **Theory basis:** MKW1120 Lectures 1–10, especially L9 (IMC, communication process, AIDA / 5As, appeals), L7 (services, brand, positioning), L6 (STP), L5 (buyer decision process), L4 (MIS), L2 (relationship marketing)
 
@@ -27,7 +28,7 @@ Instagram's own profile is login-walled. Data comes from two independent mirrors
 | Reach, impressions, saves, shares, profile visits, DMs, conversions | **Unknown** |
 | Posts after 29 Sep 2026 | **Not visible on either mirror**, but the website and Threads show Oct/Nov activity — the mirrors are incomplete, not authoritative |
 
-**Standing caveat:** all engagement figures below are a **mirror sample**, not official analytics. Relative patterns are useful; absolute performance claims are not. See also the client-confidentiality constraint in §8.9 of the profile-top teardown — nothing here uses client-confidential material, and any client result, quote or shoot asset needs written clearance before it appears in a post. **Revision 2** adds §13 below with a second evidence pass; its sources are listed separately in §13.6. **Terminology convention (Revision 3):** *content type* always means the format/container; *topic* always means the subject matter. They are reported separately — see §1 and §13.2. **Revision 4** widens the evidence base to 18 posts and makes §14 the authoritative type analysis; §14.6 lists the claims it supersedes. **Revision 5** makes §15 the authoritative topic analysis; §13.2.2/§13.2.3 remain labelled 12-post sub-samples.
+**Standing caveat:** all engagement figures below are a **mirror sample**, not official analytics. Relative patterns are useful; absolute performance claims are not. See also the client-confidentiality constraint in §8.9 of the profile-top teardown — nothing here uses client-confidential material, and any client result, quote or shoot asset needs written clearance before it appears in a post. **Revision 2** adds §13 below with a second evidence pass; its sources are listed separately in §13.6. **Terminology convention (Revision 3):** *content type* always means the format/container; *topic* always means the subject matter. They are reported separately — see §1 and §13.2. **Revision 4** widens the evidence base to 18 posts and makes §14 the authoritative type analysis; §14.6 lists the claims it supersedes. **Revision 5** makes §15 the authoritative topic analysis; §13.2.2/§13.2.3 remain labelled 12-post sub-samples. **Revision 6** adds a proposal bank of static ideas (§16); it is a menu, not an observed change to the grid.
 
 ---
 
@@ -241,7 +242,7 @@ The marketing is done **for clients**, so client information must remain confide
 
 ---
 
-## 12. Sources (Revision 1 — additional sources in §13.6, §14.7 and §15.8)
+## 12. Sources (Revision 1 — additional sources in §13.6, §14.7, §15.8 and §16.6)
 
 **Post surfaces**
 - [Imginn posts](https://imginn.com/destined.digital/) (chunks 0–1) · [Imginn Reels](https://imginn.com/reels/destined.digital/) · [Pixnoy posts](https://www.pixnoy.com/profile/destined.digital/) (chunks 0–2)
@@ -733,4 +734,93 @@ All secondary sources are practitioner/commercial guides with conflicting ratios
 
 ---
 
-*Desk research from publicly accessible sources only. All engagement figures are a mirror sample, not official analytics; visual conclusions are low-confidence inferences. No client-confidential material is included. Recommendations are proposals, not observed changes. Revision 2 (§13) adds decoded CDN media tags, automated asset descriptions and secondary 2026 design/frequency guidance; Revision 3 separates content type from topic variety (§13.2); Revision 4 expands the corpus to 18 posts and adds the type deep dive (§14); Revision 5 rebuilds topic variety on the same 18 posts (§15). All of it remains to be verified in a logged-in session.*
+## 16. Twenty golden static / carousel post ideas (Revision 6)
+
+The client asked to move on to **posts, specifically statics**: "Give me 20 golden ideas for static posts/carousels." This section answers that on the **content type** axis only.
+
+### 16.1 What "static" and "golden" mean here
+
+**Static = the two non-video feed containers** (Revision 3 terminology): `FEED` (a **single image**, one frame) and `CAROUSEL_ITEM` (a **carousel**, two or more frames). Reels (`CLIPS`) are a different surface and Stories/Highlights are a separate surface entirely; neither is in scope here. **Type (the container) and topic (the subject) stay orthogonal** — the `Type` and `Topic` columns below are independent axes, not a blended "content mix". The topic labels are shown only so the buyer-journey gaps from §15.5 are visible.
+
+**"Golden" is a five-part test**, not a compliment:
+
+1. It earns a **save** — a checklist, framework, comparison or recap someone wants back (§14.5: carousels are the authority / saves slot).
+2. It is grounded in **this account's own evidence** — the 18-post corpus, not generic 2026 advice.
+3. It fills a **measured gap** — the missing consideration stage, the empty Offer × Carousel cell, the numberless proof post.
+4. It is **clearance-free (green tier, companion §8.9)** — no client names, logos, quotes, results, dashboards, screenshots, packaging or unreleased work.
+5. It has **one specific CTA** and one job per post — not a manifesto, not a vague "thoughts?".
+
+**A note on effort.** The client's low-effort correction (§8.12) applied to **24-hour Stories**. A permanent feed post is a different surface: one design pass is justified because the asset stays on the grid. The `Lift` column still flags which ideas **reuse an existing asset** so the batch stays small — build one 4:5 master once and reuse it for all fourteen carousels. These twenty are a **menu, not a 4-week calendar**; the rhythm stays §14.5's **1 carousel/week and ≤1 single/fortnight**.
+
+### 16.2 Why statics are where the leverage is
+
+| Type | Posts (18) | Mean likes | Mean comments | What §14–§15 found |
+|---|---|---|---|---|
+| **Reel** (`CLIPS`) | 12 (67%) | 27.1 | 1.8 | Dominates the grid; auto-generated covers; discovery, not depth |
+| **Carousel** (`CAROUSEL_ITEM`) | **3 (17%)** | **48.0** | 4.0 | Highest mean likes, but **only founder + brand topics** ever used it |
+| **Single image** (`FEED`) | 3 (17%) | 15.3 | 1.0 | Weakest; used as filler rather than identity |
+
+Three gaps make statics the highest-return fix: **9 of 18 type × topic cells are empty**; there is **no dedicated consideration-stage post** (§15.5); and **no post in the corpus contains a quantified client result**. Founder topics average **65.7 likes vs 21.2 for everything else** — so the founder belongs *as the presenter*, not as another manifesto. The single hardest evidence point remains the *"Okay great marketing. Now show me the product where can I get it"* comment: a decision-stage buyer arriving at an awareness-stage grid. A carousel is the cheapest permanent place to answer it.
+
+*External 2026 guidance points the same way but disagrees on magnitude:* [Metricool](https://metricool.com/press-release-instagram-study-2026/) reports carousels earning ~9× the saves of single images and single-image reach down ~22% YoY, while [Adpicto](https://www.adpicto.com/en/blog/instagram-carousel-best-practices-2026) says ~35% more saves and [Krumzi](https://www.krumzi.com/blog/15-instagram-carousel-ideas-that-actually-drive-engagement-in-2026) ~22%; [Flockx](https://flockx.io/blog/instagram-carousels-2026) claims 5× the save rate. None is a Meta rule and none is Destined Digital analytics; all are secondary, mutually inconsistent benchmarks. Our own 18-post sample has only **3 carousels and 3 singles**, so the 48.0 vs 15.3 gap is directional, not proof.
+
+### 16.3 The twenty ideas
+
+| # | Golden idea | Type | Topic | Why it earns the slot | Lift |
+|---|---|---|---|---|---|
+| **S1** | **"Your reach isn't the problem — your offer is"** (6 slides: 3 diagnosis questions, what to check, recap) | `CAROUSEL` | Education | Converts the 10 Mar education Reel (59/0) into a save-worthy container and opens the missing consideration stage | 5–8 slides |
+| **S2** | **"The 3 questions we ask before any ad spend"** | `CAROUSEL` | Education | Own method, one question per slide, zero research; checklist is the most-saved layout | 5–8 slides |
+| **S3** | **"5 things to fix on a small business profile before spending on ads"** | `CAROUSEL` | Education | Geography-free pre-flight checklist with an explicit "save this" CTA | 5–8 slides |
+| **S4** | **"What 'full-service' actually includes"** (one service per slide, who it is for, what is not included) | `CAROUSEL` | Offer | Fills the empty Offer × Carousel cell and answers "where can I get it" | 5–8 slides |
+| **S5** | **"The launch package: what you get, what you don't, who it's for"** | `CAROUSEL` | Offer | Gives the 6 Jun hard offer a **permanent, pinnable** surface; verify the RM1,500 price is still current first | 5–8 slides |
+| **S6** | **"We rewrote our own caption. Here's what changed"** (before / after) | `CAROUSEL` | Proof | Own-account experiment is green-tier proof with no client data | 5–8 slides |
+| **S7** | **"One post, three hooks: which would make you stop?"** | `CAROUSEL` | Proof | Shows the method on an **existing** own post; no new shoot | Reuse + slides |
+| **S8** | **"12 reviews this quarter: what people mentioned most"** | `CAROUSEL` | Proof | Rounded aggregate **only** — no names, quotes, logos or exact metrics | 5–8 slides |
+| **S9** | **"Spec work: how we'd launch a fictional brand in 5 posts"** | `CAROUSEL` | Proof | §8.9 spec-work substitute demonstrates capability without exposing client work | 5–8 slides |
+| **S10** | **"Method, not metrics: the 4 steps of our audit"** | `CAROUSEL` | Proof | Decision-stage process explainer with zero confidential data | 5–8 slides |
+| **S11** | **"The 8-point profile audit checklist (save this)"** | `CAROUSEL` | Education | Checklist + recap slide is the strongest save trigger; one measurable CTA (`DM "AUDIT"`) | 5–8 slides |
+| **S12** | **"Posting daily is hurting you. Do this instead"** | `CAROUSEL` | Education | Contrarian **hook, not a title** — opens a curiosity gap on slide 1 | 5–8 slides |
+| **S13** | **"Anatomy of a caption that gets a reply"** (annotated own caption) | `CAROUSEL` | Education | The source asset already exists; annotation is the whole production job | Reuse + slides |
+| **S14** | **"Founder note: the mistake we made in year one"** (one photo + long caption) | `FEED` | Founder | Founder topics average 65.7 vs 21.2 likes; one human note, **not** another brand manifesto | Reuse |
+| **S15** | **"A day in 6 frames" (11am → 2pm)** | `CAROUSEL` | BTS | Photo-led carousel of own team; people-centred posts carry **57% of all comments**; adapts the client's own §8.13 idea #2 to feed | Reuse |
+| **S16** | **"We're booking [month]"** | `FEED` | Offer | Single images are for identity and announcements, not reach; one card, one CTA | 1 card |
+| **S17** | **One-line method card** (one own line on a plain card) | `FEED` | Brand | Keeps the grid intentional between carousels; nothing new to design | 1 card |
+| **S18** | **"Meet [name]"** | `FEED` | BTS | One phone photo + caption; staff consent captured once; no client material | Reuse |
+| **S19** | **"New checklist is live — swipe"** (points to S11) | `FEED` | Brand | Useful as a pointer; use sparingly because singles are ≤1 per fortnight | 1 card |
+| **S20** | **"The question we get most"** | `FEED` | Education | One Q, one-line A, pointer to the `FAQ` Highlight (companion §7.9) | 1 card |
+
+**Axis check:** 14 `CAROUSEL` + 6 `FEED` — roughly the 2:1 ratio implied by §14.5's 1 carousel/week and ≤1 single/fortnight. Topics are approximately **7 education, 5 proof, 3 offer, 2 BTS, 2 brand, 1 founder**, close to §15.6's 40/30/20/10 hypothesis with the founder folded in as presenter. That is a *topic* observation, not a new type target; validate at four weeks against **saves, DMs and consults**, not likes.
+
+### 16.4 Golden build spec — build once, reuse fourteen times
+
+| Rule | Spec | Why |
+|---|---|---|
+| Canvas | **1080×1350 (4:5)**; keep every slide in one orientation; text inside the 3:4 grid crop safe zone | Tall portrait takes the most feed space; the grid trims ~6% of width ([Carouselli](https://carouselli.com/blog/instagram-carousel-best-practices), [xcarousel](https://xcarousel.com/blog/instagram-carousel-best-practices), [Vucifer](https://www.vucifer.com/blog/instagram-carousel-design)) |
+| Slide 1 | A **hook, not a title** — a specific number, a mistake frame or a counterintuitive claim; never a logo or "Introduction" | It is the only slide most people see ([Carouselli](https://carouselli.com/blog/instagram-carousel-best-practices), [CreatorFlow](https://creatorflow.so/blog/instagram-carousel-posts-guide/)) |
+| Length | **5–8 slides**, one idea per slide, ≤25–40 words per slide | Guides conflict (4–6, 5–8, 8–10, 8–12); 5–8 is a practical compromise for completion ([Flockx](https://flockx.io/blog/instagram-carousels-2026), [Krumzi](https://www.krumzi.com/blog/15-instagram-carousel-ideas-that-actually-drive-engagement-in-2026)) |
+| Last slide | **Recap / summary + one specific CTA** + handle | The recap is the most save-friendly slide; saves and DM-sends are the strongest Feed-side signals ([xcarousel](https://xcarousel.com/blog/instagram-carousel-best-practices)) |
+| System | One type pairing, one accent, fixed wordmark corner across all slides | §13.4's hex codes are **illustrative, NOT observed** — no official DD palette was found and no pixels were inspected |
+| Caption | Adds context, does not repeat the graphic; one CTA; no unverified stats | The unsupported "Meta 56–70%" claim and the hashtag typos stay out |
+| Single images | One legible message, contrast ≥4.5:1, readable at 32–40 px thumbnail | §14.5: never the week's only post |
+
+### 16.5 What is deliberately excluded
+
+Generic 2026 "static post idea" lists lean heavily on **screenshots of wins, review screenshots, customer-before-and-after cards, UGC reshares, DM screenshots and client quote graphics** ([Postoria](https://postoria.io/blog/ideas-for-static-posts), [Socialz](https://socialz.ai/blog/instagram-post-ideas), [Hyperwrite](https://www.hyperwriteai.com/articles/b2b-social-media-content-ideas), [AiGrow](https://models.aigrow.me/instagram-post-ideas/)). **None of those appear above.** Under the client's confidentiality constraint (companion §8.9) they are Amber or Red: they need written permission, anonymisation and a cleared bank first. S6–S10 are the green-tier substitutes — own-account experiments, spec work, aggregate counts and method-not-metrics. Once a cleared-client list exists, a cleared case-study carousel can replace S9 without changing the format.
+
+Also excluded: new brand manifestos (§15.6), geography claims (§7.4 makes "who we serve" conditional, not "where we are"), exact pricing beyond a verified current rate, and any claim about official analytics, saves, reach, pins, exact visuals or the full post history. The mirror sample stops at 29 Sep 2026 and is incomplete.
+
+### 16.6 Sources added in Revision 6
+
+**Carousel craft / specs (secondary):** [Carouselli — 12 rules for 2026](https://carouselli.com/blog/instagram-carousel-best-practices) · [CreatorFlow — sizes, templates and 12 tips](https://creatorflow.so/blog/instagram-carousel-posts-guide/) · [Krumzi — 15 carousel ideas](https://www.krumzi.com/blog/15-instagram-carousel-ideas-that-actually-drive-engagement-in-2026) · [xcarousel — best practices that hold up in 2026](https://xcarousel.com/blog/instagram-carousel-best-practices) · [Vucifer — sizes, slide counts, layouts](https://www.vucifer.com/blog/instagram-carousel-design).
+
+**Static-post idea banks (secondary):** [Postoria — 100 static post ideas](https://postoria.io/blog/ideas-for-static-posts) · [Hyperwrite — 50+ B2B social ideas](https://www.hyperwriteai.com/articles/b2b-social-media-content-ideas) · [Socialz — 50+ Instagram post ideas](https://socialz.ai/blog/instagram-post-ideas) · [Avenuez — 2025/2026 organic guide](https://avenuez.com/blog/2025-2026-instagram-organic-social-media-guide-for-brands/) · [AiGrow — 50+ post ideas](https://models.aigrow.me/instagram-post-ideas/).
+
+**Format benchmarks (secondary, mutually inconsistent):** [Metricool 2026 study](https://metricool.com/press-release-instagram-study-2026/) · [Adpicto](https://www.adpicto.com/en/blog/instagram-carousel-best-practices-2026) · [Mean CEO — carousel statistics](https://blog.mean.ceo/instagram-carousel-engagement-statistics/) · [Flockx](https://flockx.io/blog/instagram-carousels-2026) · [r/InstagramMarketing](https://www.reddit.com/r/InstagramMarketing/comments/1ucdpbl/carousels_are_quietly_the_most_underrated_format/).
+
+**Primary evidence:** the 18 post pages in §12 and §14.7; §14 (type) and §15 (topic) of this document; companion §8.9 (confidentiality tiers), §7.9 (Highlights), §7.4 (geography), §8.13 (the client's four ideas). **Course material:** MKW1120 Lectures 9 (AIDA / 5As, IMC), 5 (buyer decision process), 7 (services, positioning), 1 (needs alignment).
+
+*All secondary sources are practitioner or commercial guides with conflicting slide counts and save multipliers; none is a Meta rule and none is Destined Digital analytics. All engagement figures are a mirror sample; no official analytics, no pixel inspection, no exhaustive post history. Recommendations are proposals, not observed changes. Confirm pins, clearances, current pricing, saves, DMs and consults in a logged-in session.*
+
+---
+
+*Desk research from publicly accessible sources only. All engagement figures are a mirror sample, not official analytics; visual conclusions are low-confidence inferences. No client-confidential material is included. Recommendations are proposals, not observed changes. Revision 2 (§13) adds decoded CDN media tags, automated asset descriptions and secondary 2026 design/frequency guidance; Revision 3 separates content type from topic variety (§13.2); Revision 4 expands the corpus to 18 posts and adds the type deep dive (§14); Revision 5 rebuilds topic variety on the same 18 posts (§15); Revision 6 adds twenty golden static / carousel ideas and a build-once spec (§16). All of it remains to be verified in a logged-in session.*
