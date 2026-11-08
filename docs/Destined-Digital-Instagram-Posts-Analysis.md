@@ -3,6 +3,7 @@
 **Subject:** `@destined.digital` — the posts themselves (feed posts, carousels, Reels, captions, hashtags, CTAs, cadence, engagement)
 **Prepared:** 8 November 2026 (MYT)
 **Revision 2 — 8 November 2026:** adds §13, a deep dive on **posting frequency, content variety, aesthetic & colour scheme**, and corrects several format labels in §1/§2 using decoded Instagram CDN media tags.
+**Revision 3 — 8 November 2026:** separates **content type** (the format: single image / carousel / Reel) from **topic variety** (the subject: founder, proof, BTS, offer, education) as two independent axes, adds a type × topic cross-tab, and sets a separate target for each.
 **Companion to:** [`Destined-Digital-Instagram-Research.md`](Destined-Digital-Instagram-Research.md) (whole-account audit) and [`Destined-Digital-Instagram-Profile-Top-Analysis.md`](Destined-Digital-Instagram-Profile-Top-Analysis.md) (header, Highlights, Stories)
 **Theory basis:** MKW1120 Lectures 1–10, especially L9 (IMC, communication process, AIDA / 5As, appeals), L7 (services, brand, positioning), L6 (STP), L5 (buyer decision process), L4 (MIS), L2 (relationship marketing)
 
@@ -24,13 +25,22 @@ Instagram's own profile is login-walled. Data comes from two independent mirrors
 | Reach, impressions, saves, shares, profile visits, DMs, conversions | **Unknown** |
 | Posts after 29 Sep 2026 | **Not visible on either mirror**, but the website and Threads show Oct/Nov activity — the mirrors are incomplete, not authoritative |
 
-**Standing caveat:** all engagement figures below are a **mirror sample**, not official analytics. Relative patterns are useful; absolute performance claims are not. See also the client-confidentiality constraint in §8.9 of the profile-top teardown — nothing here uses client-confidential material, and any client result, quote or shoot asset needs written clearance before it appears in a post. **Revision 2** adds §13 below with a second evidence pass; its sources are listed separately in §13.6.
+**Standing caveat:** all engagement figures below are a **mirror sample**, not official analytics. Relative patterns are useful; absolute performance claims are not. See also the client-confidentiality constraint in §8.9 of the profile-top teardown — nothing here uses client-confidential material, and any client result, quote or shoot asset needs written clearance before it appears in a post. **Revision 2** adds §13 below with a second evidence pass; its sources are listed separately in §13.6. **Terminology convention (Revision 3):** *content type* always means the format/container; *topic* always means the subject matter. They are reported separately — see §1 and §13.2.
 
 ---
 
 ## 1. Post inventory (mirror sample, chronological)
 
-| # | Date (mirror) | Post | Format | Pillar | Likes / comments |
+**Two independent descriptive columns — do not read them as one axis:**
+
+| Axis | Question it answers | Values used in this audit |
+|---|---|---|
+| **Content type** (format) | *How* is the post packaged? | Single image (`FEED`) · Carousel (`CAROUSEL_ITEM`) · Reel (`CLIPS`) · Stories / Highlights are a separate surface (companion §8) |
+| **Topic** (content pillar) | *What* is the post about? | Founder / people · Brand manifesto · BTS / process · Social proof · Offer / service · Education |
+
+A Reel can carry any topic, and any topic can be carried by any type. §2 and §13.2.1 cover the type axis; §3 and §13.2.2 cover the topic axis; §13.2.3 crosses the two.
+
+| # | Date (mirror) | Post | **Type** (format) | **Topic** (pillar) | Likes / comments |
 |---|---|---|---|---|---|
 | 1 | 3 May 2026 | "being a gen z boss is controversial…" | Carousel † | Founder / culture | **55 / 7** |
 | 2 | 19–20 May 2026 | "A little peek into our heart behind our work" | Carousel, 3 frames | Brand identity | 8 / 0 |
@@ -53,9 +63,11 @@ The Reels tab also exposes further clips (39/0, 19/3, 6/1, 21/0, 37/4, 59/0), so
 
 ---
 
-## 2. Format and cadence
+## 2. Content type (format) and cadence
 
-**Format mix (revised in Revision 2).** Decoded CDN tags give **3 single images, 3 carousels and 6 Reels** (Reel durations confirmed at 11–81 s on individual post pages). Two of the strongest posts are Reels (founder faith, 61/9; podcast, 39/1), and the single best post (Sunway lecture, 81/5) is a **carousel**, not a static image — see §13.2 for the format-by-format breakdown. There is no consistent series, no recurring template and no recognisable cover system: every thumbnail carries a `best_image_urlgen` tag, i.e. an auto-generated frame rather than an uploaded custom cover (low-confidence inference).
+> **Axis note.** This section is about the **container** — single image, carousel, Reel — and says nothing about subject matter. Topic variety is a different axis (§3, §13.2.2).
+
+**Content type mix (revised in Revision 2).** Decoded CDN tags give **3 single images, 3 carousels and 6 Reels** (Reel durations confirmed at 11–81 s on individual post pages). Two of the strongest posts are Reels (founder faith, 61/9; podcast, 39/1), and the single best post (Sunway lecture, 81/5) is a **carousel**, not a static image — see §13.2 for the format-by-format breakdown. There is no consistent series, no recurring template and no recognisable cover system: every thumbnail carries a `best_image_urlgen` tag, i.e. an auto-generated frame rather than an uploaded custom cover (low-confidence inference).
 
 **Cadence.** Gaps between the 12 dated posts: 17, 10, **33**, 3, 16, 10, 0, 7, 3, 7, **43** days.
 
@@ -68,15 +80,20 @@ The account's own published advice — "posting more is not the same as selling 
 
 ---
 
-## 3. Content pillars, and what actually performs
+## 3. Topic variety — pillars and what actually performs
 
-| Pillar | Posts in sample | Likes (mean) | Reading |
+> **Axis note.** This section is about **subject matter**, independent of format. Content type is §2 / §13.2.1; the two are crossed in §13.2.3.
+
+
+| Topic (pillar) | Posts in sample | Likes (mean) | Reading |
 |---|---|---|---|
 | **Founder / person / values** | 5 | **49** (55, 8, 81, 61, 39) | By far the strongest. The three posts above 50 likes are all person-centred |
 | Manifesto / brand identity | 2 | 13 (18, 8) | Mid-to-low |
 | Social proof | 2 | 14 (8, 20) | Low, despite a `/testimonials` page full of real growth screenshots |
 | BTS / process / craft | 3 | 12 (7, 10, 19) | Low |
 | Abstract education | 1 | 8 | Lowest |
+
+*The pillar tags above overlap — a post can count as both founder-centred and an authority signal — so the rows total 13 tags across 12 posts. §13.2.2 gives a strict one-topic-per-post partition with a different denominator; the conclusion is the same, but the two tables are not interchangeable.*
 
 **The precise finding:** *every post above 50 likes is about a person* — but the reverse does not hold. A brand-identity carousel drew 8 likes and the podcast Reel 39. Person-centred content is the strongest available lever, not a guarantee.
 
@@ -148,7 +165,7 @@ Do not claim an exact palette, typography, custom Reel covers or grid layout wit
 | 5 | **Generic, unmeasurable CTAs** — five variants of "DM us", no keyword or link | §4 |
 | 6 | **Caption hygiene** — buried hooks, mixed register, real hashtag typos, no consistent target | §4 |
 | 7 | **Unsupported "Meta 56–70%" claim** on the most data-oriented post | No primary Meta source located |
-| 8 | **No repeatable series or custom covers** — every post is a one-off, so nothing compounds | §2, §13.2 |
+| 8 | **No repeatable series or custom covers** — every post is a one-off, so nothing compounds; type and topic are never planned independently | §2, §13.2.1, §13.2.3 |
 | 9 | **Faith content carries decoding risk** in multi-faith Malaysia — authentic and high-engagement, but the audience it attracts may not be the buyer | Lecture 9 slides 6–7 (encoding / noise) — a judgement call, not a rule |
 | 10 | **Confidentiality discipline is unproven** — shoot/client content appears without a visible clearance protocol | See §8.9 of the profile-top teardown |
 
@@ -186,7 +203,9 @@ Do not claim an exact palette, typography, custom Reel covers or grid layout wit
    - *Founder-led Reel*: one buyer problem → one fix → one CTA, 20–40 s. This is their best-performing format (55–81 likes).
    - *Proof carousel*: three cleared/anonymised or fully owned case studies with one number each — subject to the confidentiality tiers in §8.9 of the profile-top teardown (own-account tests, spec work and aggregate counts are clearance-free substitutes).
    - *Offer explainer*: one service per post, what is included, who it is for, entry price (only if RM1,500 is still current), and the free 30-min consult.
-6. **Rebalance the mix** to roughly 40% buyer-problem education / 30% proof / 20% BTS-culture / 10% offers, at **2–3 feed posts per week** plus the Stories rhythm in §8.2–8.8 of the profile-top teardown. Reuse their own TikTok scripts for the education pillar.
+6. **Set two separate targets — one per axis (§13.2.4).** Do not collapse them into a single "content mix" number.
+   - **Type target (the container):** of **2–3 feed posts per week**, roughly 2 Reels + 1 carousel; a single image at most once a fortnight and never the week's only post; plus the Stories rhythm in §8.2–8.8 of the profile-top teardown.
+   - **Topic target (the subject):** roughly 40% buyer-problem education / 30% proof / 20% BTS-culture / 10% offers, applied **across** all types. In practice this means proof must also appear as a carousel and a Reel, not always as a single image. Reuse their own TikTok scripts for the education topic.
 7. **Design a consistent Reel cover template** (dark wordmark system, one short title, matching the avatar) so the grid reads as a series — the palette roles, 60/30/10 rules and cover-template spec are in §13.4.
 8. **Systematise collaborations**: one co-created Reel per month with a complementary Malaysian business, as the `@zhechambers.my` post did.
 9. **Answer the comment.** Literally publish the post that follower asked for: "what we sell, what it costs, how to buy".
@@ -215,6 +234,7 @@ The marketing is done **for clients**, so client information must remain confide
 - Whether any post has been deleted, archived or is a paid/dark post not shown in mirrors.
 - Whether the 5-hashtag cap reported by a secondary 2026 source is enforced on this account.
 - Client clearances for any results or shoot imagery currently published.
+- **Revision 3 items:** confirm the type × topic cross-tab against the full grid; a `CLIPS` asset made from stills may be a photo dump rather than a Reel, which changes the type count.
 - **Revision 2 items:** a full 3-column grid screenshot; the real brand palette/hex codes from the logo file or brand guide; whether any custom Reel covers exist; contrast checks on white-on-image type; a 32–40 px thumbnail legibility test; and the CDN-vs-mirror date offset (§13.3, §13.5).
 
 ---
@@ -285,11 +305,22 @@ They disagree by a factor of two on Reels (2–4 vs 4–7/week) and on feed post
 
 Measure **posts per rolling 4-week window** and **reach per post**. If reach per post falls as frequency rises, the constraint is hook quality (§4), not cadence. Do not set a cadence from a blog's average; set it from this account's own Insights after 4 weeks.
 
-### 13.2 Content variety
+### 13.2 Content variety — two independent axes
 
-**Format classification of the 12 dated posts (decoded CDN tags, Revision 2).**
+The word "variety" hides two different questions. Keeping them apart changes the diagnosis.
 
-| Date | Post | `efg` class | Format | Likes / comments |
+| Axis | Question | Values in this audit | Reported in |
+|---|---|---|---|
+| **A. Content type** (format / container) | *How* is the post packaged? | Single image (`FEED`), carousel (`CAROUSEL_ITEM`), Reel (`CLIPS`); Stories/Highlights are a separate surface (companion §8) | §2, §13.2.1 |
+| **B. Topic** (content pillar / subject) | *What* is the post about? | Founder/people, brand manifesto, BTS/process, social proof, offer/service, education | §3, §13.2.2 |
+
+They are **orthogonal**: a Reel can carry any of the six topics, and any topic can be packaged as any of the three types. A target such as "2 Reels + 1 carousel a week" is a **type** target; "40% educational" is a **topic** target. Several 2026 secondary frameworks silently mix the two — e.g. "40% Reels, 30% carousels, 20% Stories, 10% feed posts" ([Flowshorts](https://flowshorts.app/blog/instagram-marketing-strategy)) is a type mix, while "40% educate / 30% engage / 20% promote / 10% entertain" ([Scale Growth](https://scalegrowth.digital/resources/social/instagram-content-ideas/)) is a topic/objective mix. Quoting both as "the ideal content mix" without naming the axis is how a plan ends up with three Reels all about the same thing.
+
+#### 13.2.1 Axis A — content type
+
+Decoded CDN `efg` tags classify all 12 dated posts:
+
+| Date | Post | `efg` class | Type | Likes / comments |
 |---|---|---|---|---|
 | 3 May | Gen Z boss | `CAROUSEL_ITEM` | Carousel | 55 / 7 |
 | 19–20 May | Heart behind our work | `CAROUSEL_ITEM` | Carousel, 3 frames | 8 / 0 |
@@ -304,36 +335,70 @@ Measure **posts per rolling 4-week window** and **reach per post**. If reach per
 | 17 Aug | Industries we've worked with | `FEED` | Single image | 20 / 1 |
 | 29 Sep | Meta 56–70% "save this post" | `CLIPS` | Reel | 8 / 0 |
 
-| Format | n | Share | Mean likes | Range |
+| Type | n | Share | Mean likes | Range |
 |---|---|---|---|---|
-| Single image (`FEED`) | 3 | 25% | **15.3** | 8–20 |
-| Carousel (`CAROUSEL_ITEM`) | 3 | 25% | **48.0** | 8–81 |
-| Reel (`CLIPS`) | 6 | 50% | **24.0** | 7–61 |
+| Single image | 3 | 25% | **15.3** | 8–20 |
+| Carousel | 3 | 25% | **48.0** | 8–81 |
+| Reel | 6 | 50% | **24.0** | 7–61 |
 
-*Small mirror sample; likes are not official analytics and these are correlations, not causal effects. Carousel mean is inflated by one 81-like outlier; the 8-like "heart behind our work" carousel sits at the same floor as the weakest Reel.*
+*Small mirror sample; likes are not official analytics, and these are correlations, not causal effects. The carousel mean is lifted by one 81-like outlier; the 8-like "heart behind our work" carousel sits at the same floor as the weakest Reel.*
 
-**The sharpest structural finding: the format-to-job mapping is inverted.**
+**Verdict on axis A: type variety is high, type systematisation is low.** All three feed types are in use and Reels already make up half the sample — so "add more formats" is the wrong advice. What is missing is a rule for which type carries which job, a repeatable series, and a cover template: every thumbnail is a `best_image_urlgen` auto-frame.
 
-- **No single-image post cleared 20 likes.** All three posts above 50 likes are carousels (2) or a Reel (1).
-- **The three carousels are all brand/people/authority stories** (Gen Z boss, heart behind the work, Sunway lecture). The format best suited to explanation, saves and proof is **never used for proof or a service explainer**.
-- **Both proof/offer posts that do exist — the 7 Aug testimonial and the 17 Aug "industries / request packages" — are single images**, the format with the lowest ceiling (8 and 20 likes). The commercial message is carried by the least capable format.
-- **Reels are 50% of the sample but serve six different one-off jobs** (monthly dump, process teaser, founder faith, podcast, product BTS, an abstract stat). No named series, no cover template, no repeated hook structure.
-- §3's pillar tags overlap; a strict one-job-per-post partition is roughly **founder 3, brand 2, BTS 3, proof/offer 3, education 1** — awareness-heavy, action-empty (Lecture 9 slides 10, 15).
+#### 13.2.2 Axis B — topic variety
 
-So: **variety is present; architecture is not.** The account already uses all three feed formats, which is a strength. What is missing is a rule that says *which format carries which buyer job* — without that, variety produces twelve unrelated artefacts rather than a compounding library.
+§3 used overlapping pillar tags (13 tags across 12 posts). Here each post gets **exactly one dominant topic** so the distribution is countable:
 
-**A proposed format-to-job map** (a starting hypothesis, to be validated in Insights — not a platform rule):
+| Topic | Posts | Share | Mean likes | What the topic is doing |
+|---|---|---|---|---|
+| Founder / people / values | #1, #6, #7 | 25% | **65.7** (55, 81, 61) | The only reliably high-performing subject |
+| Brand identity / manifesto | #2, #3 | 17% | 13.0 (8, 18) | States the vibe, not the offer |
+| BTS / process / culture | #4, #5, #10 | 25% | 12.0 (7, 10, 19) | Makes an intangible service visible, but earns little response |
+| Offer / service / price | #8, #11 | 17% | 29.5 (39, 20) | Only two posts; price appears in just one caption |
+| Social proof / results | #9 | 8% | 8.0 | A testimonial with **no number in it** |
+| Education / industry insight | #12 | 8% | 8.0 | One abstract stat post with an unverified claim |
 
-| Format | Funnel job (5As / AIDA) | Recurring series | Cadence |
+*§3's "founder / person / values" row counted 5 posts at mean 49 because it also tagged the brand-identity carousel (#2, 8 likes) and the podcast Reel (#8, 39 likes). The strict partition here counts 3 at mean 65.7. Both readings say people-centred content leads; the denominators differ, so do not compare the two numbers directly.*
+
+**Verdict on axis B: topic variety is skewed, not absent.** Six topics are present, but **founder + BTS = 6 of 12 posts**, while proof and education get one post each. There is no quantified client result, no service explainer, no standalone offer post, and no buyer-problem education. Topics cluster at awareness and emotional appeal, with almost nothing at desire/action (Lecture 9 slides 10, 15). This is the gap §3 and §7 already identified — but it is a **topic** gap, and changing the type mix will not close it.
+
+#### 13.2.3 The cross-tab — where the two axes meet
+
+| Topic ↓ / Type → | Single image | Carousel | Reel | n |
+|---|---|---|---|---|
+| Founder / people | — | #1 (55), #6 (81) | #7 (61) | 3 |
+| Brand identity / manifesto | #3 (18) | #2 (8) | — | 2 |
+| BTS / process / culture | — | — | #4 (7), #5 (10), #10 (19) | 3 |
+| Social proof / results | #9 (8) | **—** | **—** | 1 |
+| Offer / service / price | #11 (20) | **—** | #8 (39) | 2 |
+| Education / industry insight | — | **—** | #12 (8) | 1 |
+| **Total** | **3** | **3** | **6** | **12** |
+
+**9 of 18 cells are empty.** Three findings only appear when the axes are crossed:
+
+1. **Carousels — the type with the highest mean (48 likes) — carry only founder and brand topics.** Proof, offer, education and BTS have **never** been given the format best suited to explanation and saves.
+2. **The two commercial topics (proof + offer) are 3 of 12 posts, and 2 of those 3 are single images**, the type with the lowest ceiling (8–20 likes). The commercial message is being carried by the least capable container.
+3. **BTS is locked to one type** (all three BTS posts are Reels); the founder topic is the only one spread across two types. Topics have become welded to formats, which is why the grid feels repetitive even though it uses three types and six subjects.
+
+This is the precise reason to separate the axes: **fixing type variety alone produces more Reels about the same founder/BTS subjects; fixing topic variety alone produces more proof posts that are still single images.** The mismatch lives in the cells, not in either marginal total.
+
+#### 13.2.4 Two separate targets
+
+| Axis | Observed (mirror) | Proposed target | Guardrail |
 |---|---|---|---|
-| Reel | Aware / appeal — discovery | Founder-led "one buyer problem → one fix → one CTA", 20–40 s; clearance-free `Fix it Friday` | 2/week |
-| Carousel | Ask / desire — saves and authority | Proof carousel (owned or cleared), one-service explainer, `One number` | 1/week |
-| Single image | Act — one legible offer | `What we're booking` offer card; cleared testimonial tile; pinned only | 0–1/week, never the only post that week |
-| Stories | Retention / advocate | Mon/Wed/Fri rhythm in companion §8.8–8.9, green tier only | 2–3 days/week |
+| **A — type** | 3 single / 3 carousel / 6 Reels (25/25/50) | 2 Reels + 1 carousel per week; single image ≤ fortnightly, never the week's only post | No gap >14 days, rolling 1-week buffer (§13.1) |
+| **B — topic** | Founder 3, BTS 3, brand 2, offer 2, proof 1, education 1 | 40% buyer education / 30% proof / 20% BTS-culture / 10% offers (§9) | Every recurring topic must appear in **≥2 types** within a 4-week cycle; no topic welded to one format |
 
-A workable weekly slot system: **Tue** founder Reel · **Thu** proof/explainer carousel · **Sat** optional offer card · **Mon/Wed/Fri** Stories. One series name, one cover template and one measurable CTA per slot. Keep casting/hiring off the client-facing grid.
+Each calendar slot is then one **(type, topic) pair** — the distinction becomes operational rather than decorative:
 
-**Caveat on "best" mixes.** 2026 secondary frameworks conflict sharply: 40/30/20/10 educate/engage/promote/entertain ([Scale Growth](https://scalegrowth.digital/resources/social/instagram-content-ideas/)), 40/30/20/10 Reels/carousels/Stories/feed ([Flowshorts](https://flowshorts.app/blog/instagram-marketing-strategy)), 50–60% Reels ([Conbersa](https://www.conbersa.ai/learn/what-is-instagram-best-practices)), 30–40/20–30/15–20/10–15/5–10 pillar weights ([Spunk.pics](https://spunk.pics/blog/instagram-content-strategy-guide-2026)), and 40/30/30 Reels/Stories/carousels ([Venture Media](https://www.venturemedia.io/post/instagram-marketing-strategy-2026-what-works-now)). §9's 40% buyer education / 30% proof / 20% BTS / 10% offers is therefore a **hypothesis tailored to the observed gaps**, not an industry standard; review it at 4 weeks against saves, DMs and consults, not likes.
+| Slot | Type | Topic | Brief |
+|---|---|---|---|
+| Tue | Reel | Founder / buyer education | One buyer problem → one fix → one CTA, 20–40 s |
+| Thu | Carousel | Proof **or** service explainer | 3 frames, one cleared/owned number or one deliverable list |
+| Sat (optional) | Single image | Offer | `What we're booking` card; pinned only |
+| Mon / Wed / Fri | Stories | Retention / culture | Companion §8.8–8.9, green tier only |
+
+One series name, one cover template and one measurable CTA per slot; keep casting/hiring off the client-facing grid. **Caveat:** the generic 2026 mixes cited in §13.6 conflict with each other by a factor of two, and none is a Meta rule. Both targets above are hypotheses built from this sample's empty cells; review them at 4 weeks against saves, DMs and consults, not likes.
 
 ### 13.3 Aesthetic & colour scheme — what can and cannot be claimed
 
@@ -395,11 +460,11 @@ The table below is a **placeholder framework to be replaced by the client's real
 | Area | Effort | Priority | First move |
 |---|---|---|---|
 | Posting frequency | Low (scheduling) | **P0** | No gap >14 days; rolling one-week buffer; batch one day/week |
-| Content variety → repeatability | Medium (planning) | **P1** | Adopt the format-to-job map and three named series |
+| Content variety — **type and topic separately** | Medium (planning) | **P1** | Set a type target and a separate topic target; fill the empty type × topic cells |
 | Aesthetic / covers | Medium-high (needs real brand assets) | **P1–P2** | One-page visual system + 3 cover templates |
 | Colour scheme | High (needs the brand guide) | **P2** | Extract real hex values from the logo/guide, then apply 60/30/10 + contrast checks |
 
-**None of the four fixes the offer gap.** A perfectly regular, beautifully colour-coded grid that still never says what is sold, what it costs or how to buy will keep producing comments like *"Okay great marketing. Now show me the product where can I get it"*. Frequency and aesthetics are **multipliers on the message, not substitutes for it** (Lecture 9 slide 22, IMC; Lecture 1 slide 6, needs alignment). All proof imagery and any client-facing shoot stills remain subject to the three-tier confidentiality constraint in companion §8.9.
+**None of the four fixes the offer gap.** A perfectly regular, beautifully colour-coded grid that still never says what is sold, what it costs or how to buy will keep producing comments like *"Okay great marketing. Now show me the product where can I get it"*. Confusing a type target with a topic target is the fastest way to fix neither. Frequency and aesthetics are **multipliers on the message, not substitutes for it** (Lecture 9 slide 22, IMC; Lecture 1 slide 6, needs alignment). All proof imagery and any client-facing shoot stills remain subject to the three-tier confidentiality constraint in companion §8.9.
 
 **Verify in a logged-in session before finalising this section:** full 3-column grid screenshot including Oct/Nov posts; the real brand palette/hex values from the logo file or brand guide; whether custom Reel covers exist; contrast on white-on-image type; 32–40 px thumbnail legibility; the CDN-vs-mirror date offset; and official Insights to replace every mirror like count.
 
@@ -417,4 +482,4 @@ The table below is a **placeholder framework to be replaced by the client's real
 
 ---
 
-*Desk research from publicly accessible sources only. All engagement figures are a mirror sample, not official analytics; visual conclusions are low-confidence inferences. No client-confidential material is included. Recommendations are proposals, not observed changes. Revision 2 (§13) adds decoded CDN media tags, automated asset descriptions and secondary 2026 design/frequency guidance; all of it remains to be verified in a logged-in session.*
+*Desk research from publicly accessible sources only. All engagement figures are a mirror sample, not official analytics; visual conclusions are low-confidence inferences. No client-confidential material is included. Recommendations are proposals, not observed changes. Revision 2 (§13) adds decoded CDN media tags, automated asset descriptions and secondary 2026 design/frequency guidance; Revision 3 separates content type from topic variety and adds a type × topic cross-tab (§13.2). All of it remains to be verified in a logged-in session.*
