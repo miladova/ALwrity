@@ -2,7 +2,7 @@
 
 **Subject:** `@destined.digital` — the profile header (name, bio, profile picture, category, links, counts, Highlights, pinned posts) and its Threads counterpart
 **Prepared:** 7 November 2026 (MYT)
-**Revisions:** 2 — 7 November 2026, client review of the live profile on a phone: avatar centring, name wrapping, bio emoji/capitalisation/content (§7, supersedes §6). **3 — 7 November 2026, geography is conditional, not a requirement (§7.4).** **4 — 7 November 2026, client decision: the bio line "marketing doesn't have to be boring or repetitive" and `(003694655-T)` are LOCKED (§7.6); all bio-replacement drafts are withdrawn.** **5 — 7 November 2026, FINAL BIO ANSWER in §7.7: keep the line word-for-word, add one initial capital, remove 🧸, add nothing else.** **6 — 8 November 2026, HIGHLIGHTS ANSWER in §7.8: architecture, ordering mechanics, cover specs.** **7 — 8 November 2026, client spots two overlaps; §7.9 resolves them and reduces the final set to FIVE Highlights.** **8 — 8 November 2026, why Highlights matter and what they cannot do (§7.10).** **9 — 8 November 2026, EVIDENCE CORRECTION: two real Highlights found (`BTS`, `client feedback`), plus a full Instagram Stories section (§8).** **10 — 8 November 2026, current Story state and the two cover images described (§8.7).** **11 — 8 November 2026, a sustainable recurring Story idea bank and weekly template (§8.8).** **12 — 8 November 2026, CONFIDENTIALITY CONSTRAINT: client material must not be exposed; §8.9 re-tiers the idea bank and rebuilds the weekly rhythm on clearance-free content.** **13 — 8 November 2026, ten source-backed, clearance-free Story ideas that feed the five Highlights (§8.10).** **14 — 8 November 2026, §8.10 expanded from ten to THIRTY ideas at the client's request.** **15 — 8 November 2026, §8.11 adds two banks of twenty: twenty Stories you can just post and twenty designed for audience interaction.** **16 — 8 November 2026, LOW-EFFORT CORRECTION: §8.12 re-cuts both banks into phone-only, ≤5-minute Stories and retires the designed or data-dependent versions in §8.10–§8.11.**
+**Revisions:** 2 — 7 November 2026, client review of the live profile on a phone: avatar centring, name wrapping, bio emoji/capitalisation/content (§7, supersedes §6). **3 — 7 November 2026, geography is conditional, not a requirement (§7.4).** **4 — 7 November 2026, client decision: the bio line "marketing doesn't have to be boring or repetitive" and `(003694655-T)` are LOCKED (§7.6); all bio-replacement drafts are withdrawn.** **5 — 7 November 2026, FINAL BIO ANSWER in §7.7: keep the line word-for-word, add one initial capital, remove 🧸, add nothing else.** **6 — 8 November 2026, HIGHLIGHTS ANSWER in §7.8: architecture, ordering mechanics, cover specs.** **7 — 8 November 2026, client spots two overlaps; §7.9 resolves them and reduces the final set to FIVE Highlights.** **8 — 8 November 2026, why Highlights matter and what they cannot do (§7.10).** **9 — 8 November 2026, EVIDENCE CORRECTION: two real Highlights found (`BTS`, `client feedback`), plus a full Instagram Stories section (§8).** **10 — 8 November 2026, current Story state and the two cover images described (§8.7).** **11 — 8 November 2026, a sustainable recurring Story idea bank and weekly template (§8.8).** **12 — 8 November 2026, CONFIDENTIALITY CONSTRAINT: client material must not be exposed; §8.9 re-tiers the idea bank and rebuilds the weekly rhythm on clearance-free content.** **13 — 8 November 2026, ten source-backed, clearance-free Story ideas that feed the five Highlights (§8.10).** **14 — 8 November 2026, §8.10 expanded from ten to THIRTY ideas at the client's request.** **15 — 8 November 2026, §8.11 adds two banks of twenty: twenty Stories you can just post and twenty designed for audience interaction.** **16 — 8 November 2026, LOW-EFFORT CORRECTION: §8.12 re-cuts both banks into phone-only, ≤5-minute Stories and retires the designed or data-dependent versions in §8.10–§8.11.** **17 — 8 November 2026, §8.13 assesses the client's own four "just post" ideas against the low-effort and confidentiality filters.**
 **Companion to:** [`Destined-Digital-Instagram-Research.md`](Destined-Digital-Instagram-Research.md)
 **Posts teardown:** [`Destined-Digital-Instagram-Posts-Analysis.md`](Destined-Digital-Instagram-Posts-Analysis.md) — feed posts, Reels, captions, cadence and engagement; §13 (Revision 2) covers posting frequency, content variety, aesthetic & colour scheme; Revision 3 separates content type from topic variety (§13.2); Revision 4 expands the corpus to 18 posts and adds the type deep dive (§14); Revision 5 rebuilds topic variety, buyer-journey coverage and the topic target (§15)
 **Theory basis:** MKW1120 Lectures 1–10 (uploaded PDFs), especially L9 (IMC / communication process), L6 (STP & positioning), L7 (services & brand), L5 (buyer decision process)
@@ -1235,6 +1235,87 @@ If any answer is no, convert it or drop it. The workhorse is **Instagram's nativ
 
 ---
 
+### 8.13 The client's own four "just post" ideas, assessed (Revision 17)
+
+The client proposed four ideas for the **just-post / broadcast** bank:
+
+1. **Product poster teaser**
+2. **Time-lapse collage** — a collage of photos timestamped 11 am, 12 pm, 1 pm, 2 pm showing what was happening at each hour
+3. **Regular client reviews** — "just so it actively appears for the audiences, making sure they remember we are good"
+4. **Regular posts showing a member working, or members working together** — "the most aesthetic and casual part"
+
+These are the client's own ideas and should be credited as such. They are assessed below against the two standing filters: **§8.12's low-effort test** (phone-only, ≤5 min, no design, no new asset, no Insights pull) and **§8.9's confidentiality boundary**. Three pass with small conversions; **one needs a genuine rework**.
+
+#### Verdicts at a glance
+
+| # | Idea | Verdict | Reason |
+|---|---|---|---|
+| 1 | Product poster teaser | **Keep, with a hard scope condition** | Fine if the poster is **Destined's own** published package/offer and the asset already exists. A client's product poster is Red tier; designing a teaser breaks the ≤5-min rule. |
+| 2 | Timestamped photo sequence | **Keep — strongest of the four** | Phone snaps + native text, zero design, directly answers "actively operating" and "how the team works". Drop the **collage** (a design task); post four separate frames. |
+| 3 | Regular client reviews | **Rework** | Right goal (the proof gap), wrong mechanism. Reviews are Amber/Red under §8.9; per-post clearance kills the rhythm; "remember we are good" is a claim, not proof. Build a one-time cleared bank or use green substitutes. |
+| 4 | Team at work, casual | **Keep** | Green with staff consent once, lowest effort, and the strongest evidence-backed lever in the account. Drop "aesthetic" as a *production standard* — raw beats polished. |
+
+#### 1. Product poster teaser — keep, but define "product"
+
+**The ambiguity matters.** "Product poster" could mean (a) a poster for **Destined's own** service package — e.g. the RM1,500/month launch package from the 6 Jun 2026 Reel — or (b) a poster for a **client's** product. Only (a) is automatically green. A client product, packaging, logo, unreleased campaign or anything from an un-cleared shoot is **Red tier (§8.9)** and must not appear in a public Story.
+
+**Low-effort version (≤1 min, `Services` or Expires):** F1 reshare an **existing** Destined post/poster for its own offer (tap share → Add to story); F2 one line of native text — "full details Friday" — with an optional countdown or link sticker to `/whydestined`. **Do not design a new poster.** If no own poster exists, use §8.12 A7 (one line copied from an existing own caption) instead. Use "from RM1,500" only if the price is still current; otherwise "DM for the current rate card".
+
+**Only post it when there is an actual own launch or booking window.** A standing teaser with nothing behind it becomes the same inactive-brand signal the client's paragraph criticises.
+
+#### 2. Timestamped sequence — keep; it is the best idea here
+
+This is exactly the "day in the life" format that 2026 guides recommend, including literal timestamps ("9 AM – emails & planning, 11 AM – team meeting") ([SocialPilot](https://www.socialpilot.co/instagram-marketing/instagram-story-ideas), [Webtonic](https://www.webtonic.io/blog/instagram-story-ideas)). It answers three claims in the client's draft paragraph at once — that the business is **actively operating**, **what it does**, and **how the team works** — and it costs almost nothing.
+
+**Low-effort version (≤2 min, `BTS` or Expires):** take one phone snap at 11 am, 12 pm, 1 pm and 2 pm during a normal workday. Post **four separate frames**, each with native text on top: "11am — briefing", "12pm — set-up", "1pm — editing", "2pm — review". No collage app, no timelapse editing, no colour grading, no designed template. Four frames is already the §8.4 target of 3–4 frames per Story day, and a narrative arc across the day is the strongest completion driver ([Webtonic](https://www.webtonic.io/blog/instagram-story-ideas)). Instagram's native layout/photo sticker is optional, not required.
+
+**Confidentiality guardrails:** shoot away from monitors; frame hands, desks, coffee and equipment rather than screens; crop out any client name, product, packaging, dashboard, quote or unreleased work; staff consent captured once; never film identifiable client staff. If in doubt, shoot objects only. This is the same boundary as §8.12 A4/A15 and §8.10 #25/#27.
+
+*Optional, not required:* posting the frames across the day rather than all at once matches the 7–9 am / 12–1 pm / 6–7 pm Story windows reported for 2026 ([PostEverywhere](https://posteverywhere.ai/blog/best-time-to-schedule-instagram-stories), [AdaptlyPost](https://adaptlypost.com/blog/best-time-to-post-instagram)) — but batching them into one evening post is lower effort and still works, so do not let timing become a new task.
+
+#### 3. Regular client reviews — rework, do not post as described
+
+**The goal is exactly right.** The posts teardown found proof to be the weakest topic in the 18-post corpus: **1 of 18 posts, 8 likes, 0 comments, no quantified result anywhere** (§15.3), despite real growth screenshots on `/testimonials`. A recurring proof slot is the single highest-leverage gap to fix.
+
+**But three things break as written:**
+
+1. **Confidentiality.** A client review is **Amber (cleared only)** or **Red** if it carries a name, handle, logo, exact metric or screenshot with identifiers. Written permission should cover the quote, attribution, image, platform, duration and any edits; public posting on a website is **not** blanket consent to lift it into an Instagram Story ([WebPeak](https://www.webpeak.org/blog/how-to-use-client-testimonials-in-social-media-marketing), [SocialHive](https://www.socialhive.com.au/blog/2025/october/publishing-client-stories/), [Sprintlaw](https://www.sprintlaw.com/articles/testimonial-release-checklist-for-us-small-businesses/)). As a marketing provider, Destined can share responsibility for an endorsement it publishes ([NB Technologies](https://nbtechnologies.net/testimonials-online-reviews-business-rules/)). Practical guidance, not legal advice.
+2. **The rhythm.** "Regular" plus a per-post sign-off is precisely the approval loop §8.9 says collapses a 2–3 day/week cadence within a fortnight. Fix it once: a **cleared-client list** and a pre-approved quote bank, captured at onboarding or in one email round — not a fresh approval every Wednesday.
+3. **The framing.** "Making sure they remember we are good" is a self-claim, and self-claims are weaker than evidence. Post **one specific line about one specific part of the work** and let the viewer draw the conclusion. Generic praise ("great team!") reads as advertising; a specific observation ("they sent the shoot schedule two days early") reads as proof.
+
+**Low-effort version A — cleared (≤1 min at post time, `client feedback` → `Results`):** F1 one cropped, anonymised line from the **pre-cleared bank**, typed as native text (no screenshot lifting); F2 a small footer "Shared with permission; data redacted"; optional poll "want to know what we changed?". No name, handle, logo, raw dashboard or exact figure. Add to the existing `client feedback` Highlight or the recommended `Results`.
+
+**Low-effort version B — green, no clearance needed (≤1 min, `Results` / `Services`):** "The 3 questions we ask at every review" (native text), or a rounded aggregate ("12 reviews this quarter"), or a link sticker to the already-public `/testimonials` page — **link only, never a screenshot lifted into the Story**. These are the §8.9 substitutes (own-account experiment, spec work, aggregate counts, method-not-metrics, public owned pages).
+
+**Frequency:** fortnightly, not daily. Proof/promotional frames should stay around **one in seven** (§8.11 80/20 rule). **Also:** the `client feedback` Highlight cover asset is stamped 30 May 2026; adding new frames does **not** change the cover, so the row will still look old. Refresh that cover manually once, or move the cleared bank into a new `Results` Highlight — this is the same saved-cover caveat as §8.7/§8.10.
+
+#### 4. Team at work — keep; this is the strongest performer
+
+A phone snap of one member working, or two working together, is green tier (own team, staff consent once), ≤1 minute, and needs no new asset. It also matches the clearest signal in the whole audit: **founder/people topics are 17% of posts but 38% of likes and 57% of comments** (§15.3). The 20 May team-introduction Reel (37/4) and the 5 Jun account-manager Reel (19/3) are the best-performing BTS posts precisely because they are people-centred.
+
+**Low-effort version (≤1 min, `Why Us` / `BTS`):** one unedited phone snap + one line of native text ("Jo and Aina arguing about a hook"). No ring light, no editing, no grading, no designed frame. Give it a **fixed native-text label** ("At the desk") and a fixed slot so it becomes a recognisable series without any design work.
+
+**One correction to "the most aesthetic and casual part":** casual is right; *aesthetic* is a trap. In 2026 raw, lo-fi and handheld content consistently outperforms produced corporate visuals ([ContentStudio](https://contentstudio.io/blog/instagram-trends), [Sprout Social](https://sproutsocial.com/insights/instagram-for-small-business/), [TikTok — agency day in the life](https://www.tiktok.com/discover/advertising-day-in-the-life)). If "aesthetic" turns into a grading pass, colour-matching or a template, it stops being low-effort and stops being credible. Keep the real moment; the specificity of the caption is where the effort belongs. No client screens, products, logos or identifiable client staff in frame; avoid shooting over shoulders at monitors.
+
+#### Where the four sit in the week
+
+| Slot | Idea | Frames | Effort | Destination |
+|---|---|---|---|---|
+| Mon | **#2** timestamped sequence (11 / 12 / 1 / 2) | 4 | ≤2 min | `BTS` / Expires |
+| Wed | **#4** one member or the team working | 1–2 | ≤1 min | `Why Us` / `BTS` |
+| Fortnightly Wed or Fri | **#3** one cleared review **or** a green substitute | 1–2 | ≤1 min at post time | `client feedback` → `Results` |
+| Only when there is an own launch | **#1** own-offer poster teaser | 2 | ≤1 min | `Services` / Expires |
+
+Total: still inside the **≈23 min/week** budget in §8.12. The four ideas do not replace that bank — they are the client's preferred four drawn from it, with #2 effectively a four-frame version of §8.12 A4/A15/A16 and #4 a version of A4/B20.
+
+#### The one decision still needed
+
+**Idea #3 cannot be published as described.** Before any client review is used, decide: (a) obtain **one-time written clearance** for a small bank of anonymised quotes, with scope covering Instagram Stories and Highlights, or (b) use only the **green substitutes** above. Until that decision is made, default to (b). This is the same boundary the client set when they said the marketing is done for clients and must remain confidential (§8.9). The separate question of whether **this audit itself** should be private rather than on public GitHub also remains unanswered.
+
+*Revision 17 assesses the client's own four proposals against §8.9, §8.12 and §15.3. It does not insert the client's draft paragraph into §8.7. All external links are secondary guidance, not legal advice and not evidence about Destined Digital's own Story behaviour; no official palette, exact visuals or current Story state have been inspected.*
+
+---
+
 ## 9. Verify in a logged-in session before finalising
 
 - The **exact live name field** and whether "Full-Service Marketing Agency" is the name or the business category — plus whether it is inherited from a linked Facebook Page.
@@ -1252,6 +1333,12 @@ If any answer is no, convert it or drop it. The workhorse is **Instagram's nativ
 ---
 
 ## 10. Sources
+
+**Revision 17 (§8.13) — the client's four ideas**
+- Timestamped day-in-the-life sequences: [SocialPilot — "A Day in the Life" with 9 AM / 11 AM timestamps](https://www.socialpilot.co/instagram-marketing/instagram-story-ideas) · [Webtonic — day in the life as a 6–8 card sequence](https://www.webtonic.io/blog/instagram-story-ideas) · [PostEverywhere — best-time windows for Stories](https://posteverywhere.ai/blog/best-time-to-schedule-instagram-stories)
+- Written permission before reusing a client testimonial, plus scope-of-use and anonymisation: [WebPeak — client testimonials on social media](https://www.webpeak.org/blog/how-to-use-client-testimonials-in-social-media-marketing) · [SocialHive — legal do's and don'ts for client stories](https://www.socialhive.com.au/blog/2025/october/publishing-client-stories/) · [Sprintlaw — testimonial release checklist](https://www.sprintlaw.com/articles/testimonial-release-checklist-for-us-small-businesses/) · [Freelancermap — NDA-protected work](https://www.freelancermap.com/blog/can-i-share-nda-protected-work-on-my-portfolio-tips-and-advice/) · [NB Technologies — agencies share endorsement responsibility](https://nbtechnologies.net/testimonials-online-reviews-business-rules/)
+- Raw / lo-fi team content: [ContentStudio — Instagram trends 2026](https://contentstudio.io/blog/instagram-trends) · [Sprout Social — small business guide 2026](https://sproutsocial.com/insights/instagram-for-small-business/) · [TikTok — advertising day in the life](https://www.tiktok.com/discover/advertising-day-in-the-life)
+- Confidentiality tiers and green-tier substitutes remain in §8.9: [Brand Strategy Sarah](https://www.brandstrategysarah.com/blog/how-to-share-brand-strategy-case-studies) · [MOCK, the agency](https://mocktheagency.com/content/are-you-allowed-to-say-who-your-clients-are/) · [Grow With BA](https://growwithba.com/case-studies/)
 
 **Revision 16 (§8.12) — low-effort / phone-only Stories**
 - Stories are the low-effort surface; 3–5 slides per sequence; batch, do not create daily; "do not treat Stories like a second feed": [PostPlanify — Post vs Story vs Reel 2026](https://postplanify.com/blog/instagram-post-vs-story-vs-reel)
