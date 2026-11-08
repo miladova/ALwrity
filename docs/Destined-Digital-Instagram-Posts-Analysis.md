@@ -6,7 +6,7 @@
 **Revision 3 — 8 November 2026:** separates **content type** (the format: single image / carousel / Reel) from **topic variety** (the subject: founder, proof, BTS, offer, education) as two independent axes, adds a type × topic cross-tab, and sets a separate target for each.
 **Revision 4 — 8 November 2026:** on the user's request to discuss type first, widens the observed corpus from 12 to **18 posts** using the Imginn Reels tab, adds a dedicated **§14 content type deep dive**, and corrects several earlier cadence, format and offer claims (list in §14.6).
 **Revision 5 — 8 November 2026:** rebuilds **topic variety** on the full 18-post corpus in **§15** — full topic inventory, type × topic cross-tab, buyer-journey coverage, an operational topic target, and a second correction list (§15.7).
-**Companion to:** [`Destined-Digital-Instagram-Research.md`](Destined-Digital-Instagram-Research.md) (whole-account audit) and [`Destined-Digital-Instagram-Profile-Top-Analysis.md`](Destined-Digital-Instagram-Profile-Top-Analysis.md) (header, Highlights, Stories)
+**Companion to:** [`Destined-Digital-Instagram-Research.md`](Destined-Digital-Instagram-Research.md) (whole-account audit) and [`Destined-Digital-Instagram-Profile-Top-Analysis.md`](Destined-Digital-Instagram-Profile-Top-Analysis.md) (header, Highlights, Stories; **§8.10** has ten sourced, clearance-free Story ideas) 
 **Theory basis:** MKW1120 Lectures 1–10, especially L9 (IMC, communication process, AIDA / 5As, appeals), L7 (services, brand, positioning), L6 (STP), L5 (buyer decision process), L4 (MIS), L2 (relationship marketing)
 
 ---
