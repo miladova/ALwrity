@@ -7,6 +7,7 @@
 **Revision 4 — 8 November 2026:** on the user's request to discuss type first, widens the observed corpus from 12 to **18 posts** using the Imginn Reels tab, adds a dedicated **§14 content type deep dive**, and corrects several earlier cadence, format and offer claims (list in §14.6).
 **Revision 5 — 8 November 2026:** rebuilds **topic variety** on the full 18-post corpus in **§15** — full topic inventory, type × topic cross-tab, buyer-journey coverage, an operational topic target, and a second correction list (§15.7).
 **Revision 6 — 8 November 2026:** at the client's request ("posts, specifically statics"), adds **§16 — twenty golden static / carousel post ideas**, a build-once reuse-many spec, and an explicit list of what is excluded by confidentiality.
+**Revision 7 — 8 November 2026:** records the client's own five-slot **proposal skeleton** in **§17**, separates placement from content series, reads the four listed items against the corpus, and proposes a fifth.
 **Companion to:** [`Destined-Digital-Instagram-Research.md`](Destined-Digital-Instagram-Research.md) (whole-account audit) and [`Destined-Digital-Instagram-Profile-Top-Analysis.md`](Destined-Digital-Instagram-Profile-Top-Analysis.md) (header, Highlights, Stories; **§7.11–§7.13** are the final three-pinned-post answer (About / Services / Proof for now); **§8.10–§8.14** have seventy sourced, clearance-free Story ideas (low-effort re-cut in §8.12) plus twenty chill interactive prompts (§8.14)) 
 **Theory basis:** MKW1120 Lectures 1–10, especially L9 (IMC, communication process, AIDA / 5As, appeals), L7 (services, brand, positioning), L6 (STP), L5 (buyer decision process), L4 (MIS), L2 (relationship marketing)
 
@@ -28,7 +29,7 @@ Instagram's own profile is login-walled. Data comes from two independent mirrors
 | Reach, impressions, saves, shares, profile visits, DMs, conversions | **Unknown** |
 | Posts after 29 Sep 2026 | **Not visible on either mirror**, but the website and Threads show Oct/Nov activity — the mirrors are incomplete, not authoritative |
 
-**Standing caveat:** all engagement figures below are a **mirror sample**, not official analytics. Relative patterns are useful; absolute performance claims are not. See also the client-confidentiality constraint in §8.9 of the profile-top teardown — nothing here uses client-confidential material, and any client result, quote or shoot asset needs written clearance before it appears in a post. **Revision 2** adds §13 below with a second evidence pass; its sources are listed separately in §13.6. **Terminology convention (Revision 3):** *content type* always means the format/container; *topic* always means the subject matter. They are reported separately — see §1 and §13.2. **Revision 4** widens the evidence base to 18 posts and makes §14 the authoritative type analysis; §14.6 lists the claims it supersedes. **Revision 5** makes §15 the authoritative topic analysis; §13.2.2/§13.2.3 remain labelled 12-post sub-samples. **Revision 6** adds a proposal bank of static ideas (§16); it is a menu, not an observed change to the grid.
+**Standing caveat:** all engagement figures below are a **mirror sample**, not official analytics. Relative patterns are useful; absolute performance claims are not. See also the client-confidentiality constraint in §8.9 of the profile-top teardown — nothing here uses client-confidential material, and any client result, quote or shoot asset needs written clearance before it appears in a post. **Revision 2** adds §13 below with a second evidence pass; its sources are listed separately in §13.6. **Terminology convention (Revision 3):** *content type* always means the format/container; *topic* always means the subject matter. They are reported separately — see §1 and §13.2. **Revision 4** widens the evidence base to 18 posts and makes §14 the authoritative type analysis; §14.6 lists the claims it supersedes. **Revision 5** makes §15 the authoritative topic analysis; §13.2.2/§13.2.3 remain labelled 12-post sub-samples. **Revision 6** adds a proposal bank of static ideas (§16); it is a menu, not an observed change to the grid. **Revision 7** records the client's own proposal skeleton (§17); it is a thinking aid, not a recommendation to publish.
 
 ---
 
@@ -242,7 +243,7 @@ The marketing is done **for clients**, so client information must remain confide
 
 ---
 
-## 12. Sources (Revision 1 — additional sources in §13.6, §14.7, §15.8 and §16.6)
+## 12. Sources (Revision 1 — additional sources in §13.6, §14.7, §15.8, §16.6 and §17.6)
 
 **Post surfaces**
 - [Imginn posts](https://imginn.com/destined.digital/) (chunks 0–1) · [Imginn Reels](https://imginn.com/reels/destined.digital/) · [Pixnoy posts](https://www.pixnoy.com/profile/destined.digital/) (chunks 0–2)
@@ -823,4 +824,83 @@ Also excluded: new brand manifestos (§15.6), geography claims (§7.4 makes "who
 
 ---
 
-*Desk research from publicly accessible sources only. All engagement figures are a mirror sample, not official analytics; visual conclusions are low-confidence inferences. No client-confidential material is included. Recommendations are proposals, not observed changes. Revision 2 (§13) adds decoded CDN media tags, automated asset descriptions and secondary 2026 design/frequency guidance; Revision 3 separates content type from topic variety (§13.2); Revision 4 expands the corpus to 18 posts and adds the type deep dive (§14); Revision 5 rebuilds topic variety on the same 18 posts (§15); Revision 6 adds twenty golden static / carousel ideas and a build-once spec (§16). All of it remains to be verified in a logged-in session.*
+## 17. The client's proposal skeleton — five slots (Revision 7)
+
+The client is drafting **their own proposal** and listed:
+
+1. **3 pinned posts**
+2. **before and after; brainstorming to final product**
+3. **gen z lifestyle / advertising memes**
+4. **aesthetic / comfy shoots and work life** *(reading "work like" as work life / what the work looks like)*
+5. **still thinking...**
+
+This section is a **thinking aid**, not a finished proposal and not a recommendation to publish. It records the skeleton, separates two things that are currently mixed, reads #2–4 against the 18-post corpus, and proposes a fifth.
+
+### 17.1 One structural fix before writing it up
+
+**Item 1 is a placement; items 2–4 are content series.** The three pinned posts are a **profile surface** — a fixed first row answered in companion §7.11–§7.13. The other three are **recurring feed/Story series**. Presenting all five as one numbered list of equal "types" will read as if pinning is a content pillar. Split the proposal into two short sections: **profile setup** (name, links, three pins, five Highlights) and **recurring series** (#2–#5).
+
+**Also keep the two axes separate** (Revision 3, §0, §13.2): **type** = the container (`FEED` single, `CAROUSEL_ITEM`, `CLIPS` Reel, Story); **topic** = the subject (founder, BTS, proof, offer, education). Each series can be rendered in more than one type. For example, "brainstorming to final product" is a **topic** (process/method) that could be a carousel, a Reel or a Story sequence. Use two columns in the proposal table; never one blended "content mix" number.
+
+### 17.2 Reading the four against the evidence
+
+| Item | What it actually is | Topic axis | What it does well | Watch out |
+|---|---|---|---|---|
+| **1 — 3 pinned posts** | Placement / conversion layer | — | Answers who / what / why-trust before a scroll; ~10 min, no new assets (companion §7.13) | Not a content series; keep it in a separate section |
+| **2 — before / after, brainstorm → final** | Process reveal / transformation | Method + BTS | Shows **how you work**; the closest thing to the **0 dedicated consideration-stage posts** (§15.5); strong as a save-worthy carousel | If the "final product" is **client work**, it needs written clearance. Use own / spec / fictional-brand work otherwise ([Zolyp](https://www.zolyp.com/social-media-for/marketing-agencies), [Agorapulse](https://www.agorapulse.com/blog/instagram-content-creation/content-tips-for-social-media-agencies-on-instagram/)) |
+| **3 — gen z lifestyle / advertising memes** | Brand voice / culture | Brand + BTS | Matches the locked bio line "marketing doesn't have to be boring or repetitive"; shareable; people-centred posts carry **57% of all comments** (§15.3) | **Awareness only** — the corpus is already **56% awareness** (10/18). Agency memes are often **peer-facing**, not buyer-facing. Don't let casting/model drift follow (§6.6 / Threads topic tags), and don't let this become the dominant series |
+| **4 — aesthetic / comfy shoots & work life** | BTS / culture | BTS | Strongest engagement lever: founder/people **65.7 vs 21.2 mean likes**; green tier with staff consent; phone-only, low effort | "Aesthetic" risks becoming a grading/design pass — 2026 raw lo-fi beats produced (§8.13). BTS is already **5/18 (28%)** against a ~20% hypothesis; no client products, logos, screens or dashboards in frame |
+
+### 17.3 What the four leave out
+
+All four sit at the **top of the funnel**. Three buyer questions have no recurring home:
+
+- **"What do you sell and how do I buy it?"** — decision stage: **1 hard offer**, impermanent, and the *"show me the product where can I get it"* comment still unanswered in the grid (§14.6, §15.5).
+- **"Did it work?"** — proof: **1 numberless proof post**, **0 quantified client results** in 18 posts (§15.3, §15.7).
+- **"Teach me something I'll save."** — education: **2/18 (11%)**, one of them carrying an unverified stat (§15.3).
+
+§15.6's **40% education / 30% proof / 20% BTS / 10% hard offer** is a **hypothesis, not an industry standard** — 2026 B2B guides conflict, though most agree on education + proof + BTS as the three pillars ([BrandRoad](https://brandroad.in/blog/instagram-growth-b2b-brands-2026) 40/25/20/15, [1into2](https://www.1into2.com/instagram-marketing-strategies-for-b2b-brands/) 40/30/20/10, [Komet Media](https://www.kometmedia.com/blogs/instagram-growth-playbook-for-b2b-saas) four pillars, [Chrysales](https://www.chrysales.com/post/instagram-b2b-lead-generation-89181) proof / teaching / personal). In MKW1120 terms (Lecture 9 AIDA / 5As, Lecture 5 high-involvement B2B search), #2–4 cover **Attention / Appeal**; **Ask, Act and Advocate** have no recurring series. Treat that as a gap to fill, not a quota to obey.
+
+### 17.4 A fifth slot — recommendation
+
+**My pick for #5: "Proof / results — clearance-safe".** Reasons: it is the **largest measured gap** (0 quantified results; 30% hypothesis), it is the series that **converts**, it is **distinct from #2** (process shows *how*, proof shows *what it achieved*), and it keeps the pinned proof slot (companion §7.13) supplied with fresh material. Use green-tier versions until written permission exists:
+
+| Green-tier version (no clearance) | Example |
+|---|---|
+| Own-account experiment | "We rewrote our own caption. Here's what changed" (§16 S6) |
+| Spec / fictional-brand work | "How we'd launch a fictional brand in 5 posts" (§16 S9) |
+| Aggregate counts, no identifiers | "12 reviews this quarter: what people mentioned most" (§16 S8) |
+| Method-not-metrics | "The 4 steps of our audit" (§16 S10) |
+| Once cleared | An anonymised case study with **one number** + "Shared with permission; data redacted" (§8.9, §8.13) |
+
+**Runners-up, if you would rather use one of these:**
+
+| Candidate | Fills | Ready-made ideas |
+|---|---|---|
+| **Save-worthy education / checklists** | The 40% education target; saves, shares, search | §16 S1–S3, S11–S13 |
+| **What we do / how to start** (services + offer) | Decision stage; the "show me the product" comment | §16 S4, S5; already pinned slot 2 under §7.13 |
+| **Client-review series** | Advocate stage | §8.13 cleared bank — **needs written clearance first** |
+
+**If the proposal has room for a sixth**, add **save-worthy education/checklists** alongside proof: the two together cover Ask/Act/Advocate without adding more awareness content. That gives the proposal a clean split — **one profile setup + two culture/process series + two buyer-facing series**.
+
+### 17.5 Guardrails for the write-up
+
+- **Confidentiality (§10, companion §8.9):** no client name, logo, handle, quote screenshot, dashboard, packaging or unreleased work in #2 or #4 without written permission; staff consent captured once; no raw client analytics.
+- **Low effort:** #3 and #4 should stay phone-only and unpolished (§8.12–§8.13); "aesthetic" is a *feel*, not a production step.
+- **Don't over-weight BTS/memes:** awareness 10/18 and BTS 5/18 are already the two largest buckets.
+- **Separate axes, menu not calendar:** state the **type** and **topic** of each series in separate columns; the §14.5 rhythm (2 Reels + 1 carousel/week, ≤1 single/fortnight, 2–3 Story days) is where cadence lives — don't turn this list into a 4-week calendar.
+- **Evidence limits:** 18 mirror posts, no official analytics, no exhaustive history, no exact visuals, no observed palette. Every number above is a mirror-derived sample; the 40/30/20/10 split is a hypothesis to validate at four weeks against saves, DMs and consults, not likes.
+
+### 17.6 Sources added in Revision 7
+
+**B2B pillar / buyer-journey guidance (secondary, mutually inconsistent):** [BrandRoad — B2B Instagram growth 2026](https://brandroad.in/blog/instagram-growth-b2b-brands-2026) · [1into2 — B2B Instagram strategies](https://www.1into2.com/instagram-marketing-strategies-for-b2b-brands/) · [Komet Media — B2B SaaS playbook](https://www.kometmedia.com/blogs/instagram-growth-playbook-for-b2b-saas) · [UseVisuals — four-pillar structure](https://usevisuals.com/blog/b2b-saas-instagram-strategy-2026) · [Chrysales — proof / teaching / personal](https://www.chrysales.com/post/instagram-b2b-lead-generation-89181).
+
+**Agency before/after and client permission:** [Zolyp — social media for marketing agencies](https://www.zolyp.com/social-media-for/marketing-agencies) · [Agorapulse — agency content tips and NDA caveat](https://www.agorapulse.com/blog/instagram-content-creation/content-tips-for-social-media-agencies-on-instagram/) · [Crescitaly — rights and consent register 2026](https://blog.crescitaly.com/meta-muse-instagram-creator-rights-opt-out-checklist-2026/).
+
+**Primary evidence:** the 18 post pages in §12 / §14.7; §14 (type), §15 (topic), §16 (static ideas) and companion §7.11–§7.13 (pins), §8.9 (confidentiality), §8.12–§8.14 (Stories). **Course material:** MKW1120 Lectures 9 (AIDA / 5As, IMC), 5 (buyer decision process), 7 (services, positioning).
+
+*All external sources are practitioner guides with conflicting ratios; none is a Meta rule or Destined Digital analytics. Recommendations are proposals, not observed changes. The client-review clearance decision (§8.13), the "product poster" scope question, the saved-Highlight-cover date caveat (§8.7/§8.10) and the public-GitHub privacy question all remain open.*
+
+---
+
+*Desk research from publicly accessible sources only. All engagement figures are a mirror sample, not official analytics; visual conclusions are low-confidence inferences. No client-confidential material is included. Recommendations are proposals, not observed changes. Revision 2 (§13) adds decoded CDN media tags, automated asset descriptions and secondary 2026 design/frequency guidance; Revision 3 separates content type from topic variety (§13.2); Revision 4 expands the corpus to 18 posts and adds the type deep dive (§14); Revision 5 rebuilds topic variety on the same 18 posts (§15); Revision 6 adds twenty golden static / carousel ideas and a build-once spec (§16); Revision 7 records the client's proposal skeleton and a recommended fifth series (§17). All of it remains to be verified in a logged-in session.*
