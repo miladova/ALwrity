@@ -4,6 +4,7 @@
 **Scope:** Instagram as the primary channel; website, Threads, TikTok and LinkedIn used as supporting context
 **Prepared:** 7 November 2026 (MYT)
 **Theory basis:** MKW1120 *Introduction to Marketing*, Lectures 1–10 (Dr. Carol Lim Yee Wen), uploaded by the user
+**Pitch list:** [`Destined-Digital-Instagram-Pitch-List.md`](Destined-Digital-Instagram-Pitch-List.md) — a consolidated list of everything worth pitching, what I added, what not to pitch, and a suggested run of show.
 
 > **Repository note:** the ten lecture PDFs and their extracted text are local working files under `workspace/uploads/MKW1120/` (gitignored). They are not part of this repository; only this report is committed.
 

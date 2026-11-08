@@ -10,6 +10,7 @@
 **Revision 7 — 8 November 2026:** records the client's own five-slot **proposal skeleton** in **§17**, separates placement from content series, reads the four listed items against the corpus, and proposes a fifth.
 **Companion to:** [`Destined-Digital-Instagram-Research.md`](Destined-Digital-Instagram-Research.md) (whole-account audit) and [`Destined-Digital-Instagram-Profile-Top-Analysis.md`](Destined-Digital-Instagram-Profile-Top-Analysis.md) (header, Highlights, Stories; **§7.11–§7.13** are the final three-pinned-post answer (About / Services / Proof for now); **§8.10–§8.14** have seventy sourced, clearance-free Story ideas (low-effort re-cut in §8.12) plus twenty chill interactive prompts (§8.14)) 
 **Theory basis:** MKW1120 Lectures 1–10, especially L9 (IMC, communication process, AIDA / 5As, appeals), L7 (services, brand, positioning), L6 (STP), L5 (buyer decision process), L4 (MIS), L2 (relationship marketing)
+**Pitch list:** [`Destined-Digital-Instagram-Pitch-List.md`](Destined-Digital-Instagram-Pitch-List.md) — a consolidated list of everything worth pitching, what I added, what not to pitch, and a suggested run of show.
 
 ---
 
@@ -834,7 +835,7 @@ The client is drafting **their own proposal** and listed:
 4. **aesthetic / comfy shoots and work life** *(reading "work like" as work life / what the work looks like)*
 5. **still thinking...**
 
-This section is a **thinking aid**, not a finished proposal and not a recommendation to publish. It records the skeleton, separates two things that are currently mixed, reads #2–4 against the 18-post corpus, and proposes a fifth.
+This section is a **thinking aid**, not a finished proposal and not a recommendation to publish. **For the consolidated pitch list see [`Destined-Digital-Instagram-Pitch-List.md`](Destined-Digital-Instagram-Pitch-List.md).** It records the skeleton, separates two things that are currently mixed, reads #2–4 against the 18-post corpus, and proposes a fifth.
 
 ### 17.1 One structural fix before writing it up
 

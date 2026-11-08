@@ -6,6 +6,7 @@
 **Companion to:** [`Destined-Digital-Instagram-Research.md`](Destined-Digital-Instagram-Research.md)
 **Posts teardown:** [`Destined-Digital-Instagram-Posts-Analysis.md`](Destined-Digital-Instagram-Posts-Analysis.md) — feed posts, Reels, captions, cadence and engagement; §13 (Revision 2) covers posting frequency, content variety, aesthetic & colour scheme; Revision 3 separates content type from topic variety (§13.2); Revision 4 expands the corpus to 18 posts and adds the type deep dive (§14); Revision 5 rebuilds topic variety, buyer-journey coverage and the topic target (§15); Revision 6 adds twenty golden static / carousel ideas and a build-once spec (§16); Revision 7 records the client's proposal skeleton (§17)
 **Theory basis:** MKW1120 Lectures 1–10 (uploaded PDFs), especially L9 (IMC / communication process), L6 (STP & positioning), L7 (services & brand), L5 (buyer decision process)
+**Pitch list:** [`Destined-Digital-Instagram-Pitch-List.md`](Destined-Digital-Instagram-Pitch-List.md) — a consolidated list of everything worth pitching, what I added, what not to pitch, and a suggested run of show.
 
 ---
 
