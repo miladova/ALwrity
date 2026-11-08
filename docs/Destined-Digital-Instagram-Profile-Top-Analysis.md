@@ -2,7 +2,7 @@
 
 **Subject:** `@destined.digital` — the profile header (name, bio, profile picture, category, links, counts, Highlights, pinned posts) and its Threads counterpart
 **Prepared:** 7 November 2026 (MYT)
-**Revisions:** 2 — 7 November 2026, client review of the live profile on a phone: avatar centring, name wrapping, bio emoji/capitalisation/content (§7, supersedes §6). **3 — 7 November 2026, geography is conditional, not a requirement (§7.4).** **4 — 7 November 2026, client decision: the bio line "marketing doesn't have to be boring or repetitive" and `(003694655-T)` are LOCKED (§7.6); all bio-replacement drafts are withdrawn.** **5 — 7 November 2026, FINAL BIO ANSWER in §7.7: keep the line word-for-word, add one initial capital, remove 🧸, add nothing else.** **6 — 8 November 2026, HIGHLIGHTS ANSWER in §7.8: architecture, ordering mechanics, cover specs.** **7 — 8 November 2026, client spots two overlaps; §7.9 resolves them and reduces the final set to FIVE Highlights.** **8 — 8 November 2026, why Highlights matter and what they cannot do (§7.10).** **9 — 8 November 2026, EVIDENCE CORRECTION: two real Highlights found (`BTS`, `client feedback`), plus a full Instagram Stories section (§8).** **10 — 8 November 2026, current Story state and the two cover images described (§8.7).** **11 — 8 November 2026, a sustainable recurring Story idea bank and weekly template (§8.8).** **12 — 8 November 2026, CONFIDENTIALITY CONSTRAINT: client material must not be exposed; §8.9 re-tiers the idea bank and rebuilds the weekly rhythm on clearance-free content.** **13 — 8 November 2026, ten source-backed, clearance-free Story ideas that feed the five Highlights (§8.10).** **14 — 8 November 2026, §8.10 expanded from ten to THIRTY ideas at the client's request.** **15 — 8 November 2026, §8.11 adds two banks of twenty: twenty Stories you can just post and twenty designed for audience interaction.** **16 — 8 November 2026, LOW-EFFORT CORRECTION: §8.12 re-cuts both banks into phone-only, ≤5-minute Stories and retires the designed or data-dependent versions in §8.10–§8.11.** **17 — 8 November 2026, §8.13 assesses the client's own four "just post" ideas against the low-effort and confidentiality filters.**
+**Revisions:** 2 — 7 November 2026, client review of the live profile on a phone: avatar centring, name wrapping, bio emoji/capitalisation/content (§7, supersedes §6). **3 — 7 November 2026, geography is conditional, not a requirement (§7.4).** **4 — 7 November 2026, client decision: the bio line "marketing doesn't have to be boring or repetitive" and `(003694655-T)` are LOCKED (§7.6); all bio-replacement drafts are withdrawn.** **5 — 7 November 2026, FINAL BIO ANSWER in §7.7: keep the line word-for-word, add one initial capital, remove 🧸, add nothing else.** **6 — 8 November 2026, HIGHLIGHTS ANSWER in §7.8: architecture, ordering mechanics, cover specs.** **7 — 8 November 2026, client spots two overlaps; §7.9 resolves them and reduces the final set to FIVE Highlights.** **8 — 8 November 2026, why Highlights matter and what they cannot do (§7.10).** **9 — 8 November 2026, EVIDENCE CORRECTION: two real Highlights found (`BTS`, `client feedback`), plus a full Instagram Stories section (§8).** **10 — 8 November 2026, current Story state and the two cover images described (§8.7).** **11 — 8 November 2026, a sustainable recurring Story idea bank and weekly template (§8.8).** **12 — 8 November 2026, CONFIDENTIALITY CONSTRAINT: client material must not be exposed; §8.9 re-tiers the idea bank and rebuilds the weekly rhythm on clearance-free content.** **13 — 8 November 2026, ten source-backed, clearance-free Story ideas that feed the five Highlights (§8.10).** **14 — 8 November 2026, §8.10 expanded from ten to THIRTY ideas at the client's request.** **15 — 8 November 2026, §8.11 adds two banks of twenty: twenty Stories you can just post and twenty designed for audience interaction.** **16 — 8 November 2026, LOW-EFFORT CORRECTION: §8.12 re-cuts both banks into phone-only, ≤5-minute Stories and retires the designed or data-dependent versions in §8.10–§8.11.** **17 — 8 November 2026, §8.13 assesses the client's own four "just post" ideas against the low-effort and confidentiality filters.** **18 — 8 November 2026, §8.14 re-cuts the interactive bank into twenty CHILL, low-stakes interactions: the client wants less audience-decides-the-business for now.**
 **Companion to:** [`Destined-Digital-Instagram-Research.md`](Destined-Digital-Instagram-Research.md)
 **Posts teardown:** [`Destined-Digital-Instagram-Posts-Analysis.md`](Destined-Digital-Instagram-Posts-Analysis.md) — feed posts, Reels, captions, cadence and engagement; §13 (Revision 2) covers posting frequency, content variety, aesthetic & colour scheme; Revision 3 separates content type from topic variety (§13.2); Revision 4 expands the corpus to 18 posts and adds the type deep dive (§14); Revision 5 rebuilds topic variety, buyer-journey coverage and the topic target (§15)
 **Theory basis:** MKW1120 Lectures 1–10 (uploaded PDFs), especially L9 (IMC / communication process), L6 (STP & positioning), L7 (services & brand), L5 (buyer decision process)
@@ -1192,6 +1192,8 @@ If any answer is no, convert it or drop it. The workhorse is **Instagram's nativ
 
 #### Bank B — 20 low-effort Stories that interact with viewers
 
+> **Client preference (Revision 18):** for now, **§8.14's twenty chill ideas are the default interactive bank**. Several Bank B ideas below ask the audience to decide content, covers, services or leads; they stay available but are not the current default.
+
 | # | Idea | Sticker + follow-up | Effort | Saves to |
 |---|---|---|---|---|
 | **B1** | **`Yes/No qualifier`** | Poll "getting enquiries? Yes / Not yet" → F2 one tailored line | ≤2 min | **Expires** / `Start Here` |
@@ -1316,6 +1318,80 @@ Total: still inside the **≈23 min/week** budget in §8.12. The four ideas do n
 
 ---
 
+### 8.14 Chill interactive Stories — no business decisions (Revision 18)
+
+The client's correction, **"for now"**: going back to interactive Stories, but with **less "business-deciding by audience"** and **"something more chill"**. In other words, stop asking followers to pick next week's post, approve a cover, choose a service priority, name a pain point or qualify themselves as a lead. Those are market research and lead-gen wearing a poll sticker. This section is the **interactive default** while that preference holds; §8.12 Bank B and §8.11 Bank B remain available but are not the current default.
+
+**What "chill" means here:** one tap, **no right answer**, **no business consequence**, nothing to implement afterwards, nothing to buy, no customer research, no approval to give. The interaction *is* the point. Every idea is still low-effort under §8.12 — phone only, ≤2 minutes, native text or one phone snap plus **one native sticker**, and a one-line follow-up frame. No designed card, no new asset, no data pull, no clearance.
+
+**Set aside for now** — the audience-decides-the-business ideas in the earlier banks:
+
+| Set aside | Because it asks the audience to… |
+|---|---|
+| §8.12 B3 / §8.11 B4 — "what should we post next?" / vote on next week's carousel | pick the content calendar |
+| §8.12 B15 / §8.11 B3 — "which service would you book first?" | set service priority |
+| §8.12 B8 / §8.11 B9 — "rate our new cover" | approve a design |
+| §8.12 B16 / §8.11 #29 — "what do you want more of?" | run content research |
+| §8.12 B19 / §8.11 #28 — "part 2?" | decide the next post |
+| §8.12 B1 — "getting enquiries? Yes / Not yet" | qualify themselves as a lead |
+| §8.12 B12 / §8.11 B18 — DM keyword | start a sales conversation |
+| §8.12 B5 / §8.11 B5 — "biggest marketing headache?" | supply market research |
+| §8.11 #2 — "pick the hook" · #16 "guess the price" · §8.10 #4 "which would you approve?" | choose creative, pricing or approve work |
+| §8.11 B17 — "how excited for our launch?" | respond to a promotion |
+
+**Why chill still earns its place.** Your draft paragraph already makes the case: polls and questions extend a one-way presence into **two-way interaction**. Stories rank on replies, reactions and relationship closeness, not on decisions ([Catalyst Communications](https://www.catalystcommunications.com.au/blog/how-the-instagram-algorithm-works-in-2026)), and community-building guidance explicitly recommends interactions with **no direct sales incentive** ([Later](https://later.com/blog/instagram-community/)). It also fits the account's own evidence: people-centred topics generate **57% of all comments** from 17% of posts (§15.3). A coffee-or-tea poll is not a strategy session — it is a reason for someone to tap and for the tray to feel human.
+
+#### 20 chill interactive Stories
+
+| # | Idea | Sticker + follow-up | Effort | Saves to |
+|---|---|---|---|---|
+| **C1** | **`Coffee or tea?`** | Poll → F2 "we're a 60/40 split" | ≤1 min | **Expires** |
+| **C2** | **`Early bird or night owl?`** | Poll → F2 "guilty" | ≤1 min | **Expires** |
+| **C3** | **`Text or call?`** | Poll → F2 "our answer: text" | ≤1 min | **Expires** / `Why Us` |
+| **C4** | **`Plan everything or wing it?`** | Poll → F2 one line on the result | ≤1 min | **Expires** |
+| **C5** | **`Rain or sun? (KL edition)`** | Poll → F2 "accurate today" | ≤1 min | **Expires** |
+| **C6** | **`Rate today's coffee`** | Emoji slider on a phone snap → F2 "same" | ≤1 min | **Expires** |
+| **C7** | **`How ready for the weekend are you?`** | Emoji slider → F2 one line | ≤1 min | **Expires** |
+| **C8** | **`How tired is the team on Monday?`** | Emoji slider → F2 reveal | ≤1 min | **Expires** / `BTS` |
+| **C9** | **`Add Yours: your view right now`** | Add Yours sticker → repost 1 response | ≤1 min | **Expires** |
+| **C10** | **`Add Yours: your desk / your coffee`** | Add Yours sticker → repost 1 response | ≤1 min | **Expires** |
+| **C11** | **`Add Yours: your pet coworker`** | Add Yours sticker → repost 1 response | ≤1 min | **Expires** |
+| **C12** | **`Caption this: the office plant`** | Phone snap + questions sticker → repost the winner | ≤2 min | **Expires** |
+| **C13** | **`Friday at 5pm feels like ___`** | Questions sticker → repost 2 answers | ≤1 min | **Expires** |
+| **C14** | **`What are you listening to?`** | Question sticker → F2 "playing this all afternoon" | ≤1 min | **Expires** |
+| **C15** | **`Recommend a lunch spot`** | Question sticker → repost 1 answer | ≤1 min | **Expires** |
+| **C16** | **`Two truths and a lie — about our team`** | Quiz typed into the sticker → reveal (people, not process) | ≤2 min | `Why Us` |
+| **C17** | **`Guess whose desk this is`** | Phone snap + quiz or question → reveal | ≤2 min | `BTS` / `Why Us` |
+| **C18** | **`Guess how many coffees today`** | Quiz typed into the sticker → F2 "too many" — no data needed | ≤2 min | **Expires** |
+| **C19** | **`Always 10 min early or 20 min late?`** | Poll → F2 "we know which one we are" | ≤1 min | **Expires** |
+| **C20** | **`Send us something that made you laugh`** | Question sticker → repost 1 (with permission) | ≤1 min | **Expires** |
+
+*Low-stakes this-or-that, would-you-rather and icebreaker prompts are the most consistently recommended low-friction interactions ([BestieScore](https://bestiescore.com/blog/best-instagram-story-quiz-ideas), [SocialRails](https://socialrails.com/blog/questions-to-ask-on-instagram-story), [Indzu](https://indzu.com/blog/social/how-to-make-an-instagram-story-poll/), [SocialPilot](https://www.socialpilot.co/instagram-marketing/instagram-story-ideas), [MeetEdgar](https://meetedgar.com/blog/20-instagram-story-ideas), [wikiHow](https://www.wikihow.com/Instagram-Story-Games)). Add Yours chains and quiz/slider stickers are native and need no artwork ([Instagram official](https://about.instagram.com/blog/tips-and-tricks/how-to-use-instagram-stories), [pvstory](https://pvstory.co.uk/instagram-story-stickers/)).*
+
+**Every C-idea keeps a follow-up frame** (§8.11 principle: an unanswered poll is a dead end), but the follow-up is one line of native text or one reposted answer — never a designed card, and **never "we'll now do what you voted for"**. That last part is the whole point of this revision: for now, the answer is not a decision.
+
+#### Guardrails
+
+- **Professional-but-human.** Chill, not chaotic. Skip the "juicy confession", dating, politics, religion or oversharing prompts that some poll lists push ([FormFriends](https://formfriends.com/blog/instagram-story-poll-questions)) — this is a B2B agency's client-facing tray. The same professional-but-human judgement that settled the bio in §7.7 applies.
+- **Green tier only (§8.9):** no client names, logos, handles, products, packaging, screens, dashboards, quotes or unreleased work in any snap. Own team only, staff consent captured once. Keep casting and hiring out of this row (§6.6).
+- **No "aesthetic" pass** (§8.13): raw phone snaps, no grading, no template, no collage. Low effort stays low effort.
+- **One interactive sticker per Story day**, not on every frame; rotate sticker type across the week so the tray does not feel repetitive ([Storrito](https://storrito.com/resources/start-posting-instagram-stories-phone-only/)).
+- **Expires by default.** Nineteen of the twenty are deliberately ephemeral — a Highlights row full of coffee polls would age badly. Only the people-centred ones (`Why Us` / `BTS`) are worth saving.
+
+#### Rhythm and measurement
+
+| Day | Broadcast (§8.12 Bank A / §8.13) | Chill interaction (§8.14) | Extra time |
+|---|---|---|---|
+| Mon | Status / timestamped sequence | C2 or C8 | ≤1 min |
+| Wed | Team at work | C1, C6 or C12 | ≤2 min |
+| Fri | FAQ card / one-line method | C7, C13 or C19 | ≤1 min |
+
+Total stays inside the **≈23 min/week** budget in §8.12. **Measure sticker taps and replies, not decisions or leads** — this bank is here for warmth and two-way presence, so do not judge it by enquiries. After four weeks keep the four prompts that actually get replies and drop the rest; do not turn the answers into a content roadmap while this preference holds ([Later](https://later.com/blog/instagram-community/), §8.5).
+
+*Revision 18 is a temporary client preference ("for now"), not a deletion: the business-deciding interactive ideas in §8.11–§8.12 remain available if the brief changes. §8.12 Bank A (broadcast) and §8.13 (the client's four ideas) are unchanged. All external links are illustrative guidance, not evidence about Destined Digital's own Story behaviour. The saved-Highlight-cover date caveat in §8.10, the client-review clearance decision in §8.13, and the public-GitHub privacy question all still stand.*
+
+---
+
 ## 9. Verify in a logged-in session before finalising
 
 - The **exact live name field** and whether "Full-Service Marketing Agency" is the name or the business category — plus whether it is inherited from a linked Facebook Page.
@@ -1333,6 +1409,12 @@ Total: still inside the **≈23 min/week** budget in §8.12. The four ideas do n
 ---
 
 ## 10. Sources
+
+**Revision 18 (§8.14) — chill, low-stakes interaction**
+- Low-stakes this-or-that, would-you-rather and icebreaker questions: [BestieScore — 50 Story quiz ideas](https://bestiescore.com/blog/best-instagram-story-quiz-ideas) · [FormFriends — 100+ poll questions](https://formfriends.com/blog/instagram-story-poll-questions) · [Indzu — keep polls simple and fun](https://indzu.com/blog/social/how-to-make-an-instagram-story-poll/) · [SocialRails — 200+ questions to ask on a Story](https://socialrails.com/blog/questions-to-ask-on-instagram-story) · [Ainfluencer — 40 Story ideas incl. Add Yours and games](https://influencermarketing.ainfluencer.com/instagram-story-ideas/)
+- Icebreakers, two truths and a lie, would-you-rather: [SocialPilot — "Would You Rather?" keep it lighthearted](https://www.socialpilot.co/instagram-marketing/instagram-story-ideas) · [MeetEdgar — icebreaker games](https://meetedgar.com/blog/20-instagram-story-ideas) · [wikiHow — Instagram Story games](https://www.wikihow.com/Instagram-Story-Games)
+- Community building with no direct sales incentive: [Later — how to build an Instagram community in 2026](https://later.com/blog/instagram-community/)
+- Platform sticker mechanics: [Instagram official 2026 Stories guide](https://about.instagram.com/blog/tips-and-tricks/how-to-use-instagram-stories) · [pvstory — every Story sticker explained](https://pvstory.co.uk/instagram-story-stickers/)
 
 **Revision 17 (§8.13) — the client's four ideas**
 - Timestamped day-in-the-life sequences: [SocialPilot — "A Day in the Life" with 9 AM / 11 AM timestamps](https://www.socialpilot.co/instagram-marketing/instagram-story-ideas) · [Webtonic — day in the life as a 6–8 card sequence](https://www.webtonic.io/blog/instagram-story-ideas) · [PostEverywhere — best-time windows for Stories](https://posteverywhere.ai/blog/best-time-to-schedule-instagram-stories)
