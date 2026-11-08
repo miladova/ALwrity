@@ -2,7 +2,7 @@
 
 **Subject:** `@destined.digital` — the profile header (name, bio, profile picture, category, links, counts, Highlights, pinned posts) and its Threads counterpart
 **Prepared:** 7 November 2026 (MYT)
-**Revisions:** 2 — 7 November 2026, client review of the live profile on a phone: avatar centring, name wrapping, bio emoji/capitalisation/content (§7, supersedes §6). **3 — 7 November 2026, geography is conditional, not a requirement (§7.4).** **4 — 7 November 2026, client decision: the bio line "marketing doesn't have to be boring or repetitive" and `(003694655-T)` are LOCKED (§7.6); all bio-replacement drafts are withdrawn.** **5 — 7 November 2026, FINAL BIO ANSWER in §7.7: keep the line word-for-word, add one initial capital, remove 🧸, add nothing else.** **6 — 8 November 2026, HIGHLIGHTS ANSWER in §7.8: architecture, ordering mechanics, cover specs.** **7 — 8 November 2026, client spots two overlaps; §7.9 resolves them and reduces the final set to FIVE Highlights.** **8 — 8 November 2026, why Highlights matter and what they cannot do (§7.10).** **9 — 8 November 2026, EVIDENCE CORRECTION: two real Highlights found (`BTS`, `client feedback`), plus a full Instagram Stories section (§8).** **10 — 8 November 2026, current Story state and the two cover images described (§8.7).** **11 — 8 November 2026, a sustainable recurring Story idea bank and weekly template (§8.8).** **12 — 8 November 2026, CONFIDENTIALITY CONSTRAINT: client material must not be exposed; §8.9 re-tiers the idea bank and rebuilds the weekly rhythm on clearance-free content.** **13 — 8 November 2026, ten source-backed, clearance-free Story ideas that feed the five Highlights (§8.10).** **14 — 8 November 2026, §8.10 expanded from ten to THIRTY ideas at the client's request.**
+**Revisions:** 2 — 7 November 2026, client review of the live profile on a phone: avatar centring, name wrapping, bio emoji/capitalisation/content (§7, supersedes §6). **3 — 7 November 2026, geography is conditional, not a requirement (§7.4).** **4 — 7 November 2026, client decision: the bio line "marketing doesn't have to be boring or repetitive" and `(003694655-T)` are LOCKED (§7.6); all bio-replacement drafts are withdrawn.** **5 — 7 November 2026, FINAL BIO ANSWER in §7.7: keep the line word-for-word, add one initial capital, remove 🧸, add nothing else.** **6 — 8 November 2026, HIGHLIGHTS ANSWER in §7.8: architecture, ordering mechanics, cover specs.** **7 — 8 November 2026, client spots two overlaps; §7.9 resolves them and reduces the final set to FIVE Highlights.** **8 — 8 November 2026, why Highlights matter and what they cannot do (§7.10).** **9 — 8 November 2026, EVIDENCE CORRECTION: two real Highlights found (`BTS`, `client feedback`), plus a full Instagram Stories section (§8).** **10 — 8 November 2026, current Story state and the two cover images described (§8.7).** **11 — 8 November 2026, a sustainable recurring Story idea bank and weekly template (§8.8).** **12 — 8 November 2026, CONFIDENTIALITY CONSTRAINT: client material must not be exposed; §8.9 re-tiers the idea bank and rebuilds the weekly rhythm on clearance-free content.** **13 — 8 November 2026, ten source-backed, clearance-free Story ideas that feed the five Highlights (§8.10).** **14 — 8 November 2026, §8.10 expanded from ten to THIRTY ideas at the client's request.** **15 — 8 November 2026, §8.11 adds two banks of twenty: twenty Stories you can just post and twenty designed for audience interaction.**
 **Companion to:** [`Destined-Digital-Instagram-Research.md`](Destined-Digital-Instagram-Research.md)
 **Posts teardown:** [`Destined-Digital-Instagram-Posts-Analysis.md`](Destined-Digital-Instagram-Posts-Analysis.md) — feed posts, Reels, captions, cadence and engagement; §13 (Revision 2) covers posting frequency, content variety, aesthetic & colour scheme; Revision 3 separates content type from topic variety (§13.2); Revision 4 expands the corpus to 18 posts and adds the type deep dive (§14); Revision 5 rebuilds topic variety, buyer-journey coverage and the topic target (§15)
 **Theory basis:** MKW1120 Lectures 1–10 (uploaded PDFs), especially L9 (IMC / communication process), L6 (STP & positioning), L7 (services & brand), L5 (buyer decision process)
@@ -1041,6 +1041,94 @@ The client's draft paragraph argues that a neglected Story field signals inactiv
 
 ---
 
+### 8.11 Two banks of twenty — "just post" vs interactive Stories (Revision 15)
+
+The client asked for **twenty Stories we can just post** and **twenty that allow interaction with the audience**. These are **40 additional ideas**, not a re-sort of the thirty in §8.10 — the two sections together give a 70-idea library. All 40 follow §8.9 and §8.10: **green-tier / clearance-free**, no client names, logos, handles, metrics, dashboards, packaging, unreleased work or live client-product footage; own staff only with consent captured once; proof from own-account experiments, spec work, aggregate counts, method-not-metrics and links to already-public owned pages.
+
+**The split is about whether the Story needs a reply:**
+
+| | **Bank A — just post (broadcast)** | **Bank B — interactive** |
+|---|---|---|
+| Works if… | nobody taps anything | the viewer votes, answers, guesses, slides or DMs |
+| Required sticker | **None** (a link or countdown sticker is optional) | **One named sticker**, plus a follow-up frame that uses the response |
+| Main job | Presence, clarity, proof, navigation, traffic | Conversation, research, DMs, community |
+| Main metric | Completion rate, link taps, profile visits, shares | Sticker responses ÷ reach, replies, `DM AUDIT` consults |
+| Risk | Becomes a one-way noticeboard | Every frame asks something and viewers tune out |
+
+**Specs recap (§8.4):** 1080×1920, key text/faces in the centre safe zone, 3–4 frames per Story day, 2–3 Story days/week, 15-minute Monday batch, 2-frame fallback, tag the Highlight destination at capture. Only evergreen frames get saved; rows marked **Expires** deliberately stay in the 24-hour window so the Highlight row never goes stale.
+
+#### Bank A — 20 Stories you can just post (no reply required)
+
+| # | Idea | What to post (2–4 frames) | Saves to | Reference |
+|---|---|---|---|---|
+| **A1** | **`We're in the studio today`** | Plain brand-colour status card with opening hours; F2 one line on the day's work using aggregate counts only | **Expires** | [Birdeye — introduce your brand / business Story ideas](https://birdeye.com/blog/instagram-story-ideas/) |
+| **A2** | **`Service tile of the week`** | One service from the public `/services` page: F1 what it is; F2 what it includes; F3 who it is for | `Services` | [Brandwatch — educational content and time-sensitive announcements](https://www.brandwatch.com/blog/instagram-stories/) |
+| **A3** | **`10-second edit timeline`** | Own screen recording of a caption being rewritten, no client names or dashboards | `Why Us` | [Webtonic — behind the scenes of one task](https://www.webtonic.io/blog/instagram-story-ideas) |
+| **A4** | **`Spec asset reveal`** | One self-authored mock-up for a fictional brand, F1 brief → F2 asset → F3 one design decision | `Results` | [Pinterest — Story templates for content creators](https://in.pinterest.com/thelittlelilystudio/instagram-story-templates-for-content-creators/) |
+| **A5** | **`Own-account mini report`** | "3 Reels posted this month; the carousel got the most saves" — rounded own Insights only | `Results` | [Webtonic — one number from your data](https://www.webtonic.io/blog/instagram-story-ideas) |
+| **A6** | **`Our 3-step hook check`** | Text card, three lines: the method, no client example | `Why Us` | [Brandwatch — tips, tricks and industry concepts](https://www.brandwatch.com/blog/instagram-stories/) |
+| **A7** | **`FAQ card`** | "Do you work with businesses outside KL?" → 2-line answer → "more in `FAQ`" | `FAQ` | [Webtonic — answer one FAQ](https://www.webtonic.io/blog/instagram-story-ideas) |
+| **A8** | **`Buyer-myth card`** | "Myth: more posts = more sales" → the truth in one line → one action | `FAQ` | [Webtonic — myth versus fact](https://www.webtonic.io/blog/instagram-story-ideas) |
+| **A9** | **`Pre-boost checklist`** | 5 things to check before boosting a post, split over 2 cards, progress dots | `FAQ` / `Services` | [Zeely — numbered Story templates and microcopy](https://zeely.ai/blog/instagram-stories-ideas-templates-a-practical-2026-guide/) |
+| **A10** | **`Own-caption quote card`** | Their published line "posting more is not the same as selling better" on a brand card | `Why Us` | [Webtonic — quote from your own post](https://www.webtonic.io/blog/instagram-story-ideas) |
+| **A11** | **`Workspace still`** | One clean photo of own desk, no screens, packaging or logos | `BTS` | [Pinterest — 350 Story ideas / shoot day](https://in.pinterest.com/shoto1465/insta-story-ideas/) |
+| **A12** | **`Tool-kit flat-lay`** | Own camera, notebook and light; F2 one line on what each is for | `BTS` | [TikTok — a content filming day](https://www.tiktok.com/@priscillascreativecorner/video/7409970984582761761) |
+| **A13** | **`Team milestone (own)`** | "One year of our Friday review habit" — no client names or campaigns | `Why Us` | [Webtonic — birthday or anniversary card](https://www.webtonic.io/blog/instagram-story-ideas) |
+| **A14** | **`New post teaser`** | "New carousel is live" → reshare own post to Story using the new-post sticker | **Expires** | [Birdeye — repost Reels with the new-post sticker](https://birdeye.com/blog/instagram-story-ideas/) |
+| **A15** | **`Link to a public owned page`** | One card + link sticker to `/testimonials` or `/whydestined`, custom CTA text and UTM. **Link only — do not lift the screenshot** | `Results` / `Services` | [Brandwatch — Story links](https://www.brandwatch.com/blog/instagram-stories/) · [PostPlanify — link sticker and UTM](https://postplanify.com/blog/how-to-add-link-on-instagram-story) |
+| **A16** | **`Countdown card`** | "Consult slots open Monday" + countdown sticker; no reply needed, viewers can opt into a reminder | **Expires** | [pvstory — countdown sticker](https://pvstory.co.uk/instagram-story-stickers/) · [Birdeye — launch countdowns](https://birdeye.com/blog/instagram-story-ideas/) |
+| **A17** | **`Out-of-office / holiday hours`** | Plain text card with dates and the emergency contact route | **Expires** | [Brandwatch — time-sensitive announcements](https://www.brandwatch.com/blog/instagram-stories/) |
+| **A18** | **`Cover-template reveal`** | "New cover system, now on every Reel" → F1 before; F2 after; F3 one-line rule | `Why Us` | [Pinterest — free Story templates](https://www.pinterest.com/lifestylewithleah/free-instagram-story-templates/) |
+| **A19** | **`On-this-day recap`** | "One year ago we published our first manifesto" — own post only, no client work | `Why Us` / **Expires** | [Webtonic — weekly recap](https://www.webtonic.io/blog/instagram-story-ideas) |
+| **A20** | **`Highlight frame top-up`** | One evergreen card designed specifically to be added to an existing Highlight (e.g. an updated `Start Here` intro) | All five (maintenance) | [Instagram — Introducing Stories Highlights & Archive](https://about.instagram.com/blog/announcements/introducing-stories-highlights-and-stories-archive) · [SocialRails — cover consistency](https://socialrails.com/blog/instagram-stories-best-practices) |
+
+*Bank A is deliberately low-effort: these are the frames that keep the tray alive on a chaotic week. A link or countdown sticker is an optional add-on, not a requirement — the Story still works with zero taps.*
+
+#### Bank B — 20 Stories built for audience interaction
+
+| # | Idea | Sticker / what the viewer does | Follow-up frame that uses it | Saves to | Reference |
+|---|---|---|---|---|---|
+| **B1** | **`Yes/No qualifier`** | Poll: "Getting enquiries from Instagram? Yes / Not yet" | Two tailored lines, one for each answer | **Expires** / `Start Here` | [CreatorFlow — yes/no decision polls](https://creatorflow.so/blog/instagram-story-ideas-templates/) |
+| **B2** | **`This or That: two buyer problems`** | Poll: "Too few views or too few DMs?" | Explain both problems in one line each | `FAQ` | [QuillBot — this or that polls](https://quillbot.com/blog/social-media/instagram-story-ideas/) |
+| **B3** | **`Which service would you book first?`** | Poll with 2–4 own service options | "Who each one is for" + link to `/services` | `Services` | [SocialPilot — preference polls](https://www.socialpilot.co/instagram-marketing/instagram-story-ideas) |
+| **B4** | **`Vote on next week's carousel`** | Poll with 3–4 topics | "You picked X — it's live tomorrow", tag voters | **Expires** (feeds calendar) | [SocialPilot — "what should we post next?" #5](https://www.socialpilot.co/instagram-marketing/instagram-story-ideas) |
+| **B5** | **`What's your biggest marketing headache?`** | Question sticker (reverse AMA) | Repost 2 answers anonymously → next week's FAQ frames | `FAQ` | [IG Viewer — reverse AMA](https://ig-viewer.org/blog/instagram-story-ideas/) |
+| **B6** | **`AMA with the founder`** | Questions sticker, open for 24 h | Answer the 3 best questions as text cards | `FAQ` / `Why Us` | [Instagram official — questions sticker](https://about.instagram.com/blog/tips-and-tricks/how-to-use-instagram-stories) |
+| **B7** | **`Which is a real Instagram rule?`** | Quiz, 4 options | Reveal the answer + correct the myth | `FAQ` | [IG Viewer — the pop quiz](https://ig-viewer.org/blog/instagram-story-ideas/) |
+| **B8** | **`Two truths and a lie (our process)`** | Quiz: "which is the lie?" | Reveal + the real method | `Why Us` | [VEED — two truths and a lie with the quiz sticker](https://www.veed.io/learn/instagram-story-ideas) |
+| **B9** | **`Rate our new cover`** | Emoji slider | Reveal the winning cover and add it to the template library | `Why Us` | [SocialPilot — "rate this 1–10"](https://www.socialpilot.co/instagram-marketing/instagram-story-ideas) |
+| **B10** | **`How excited for [own launch]?`** | Emoji slider | Show exactly what is coming (own work only) | `Start Here` / **Expires** | [pvstory — emoji slider](https://pvstory.co.uk/instagram-story-stickers/) |
+| **B11** | **`Add Yours: show us your workspace`** | Add Yours sticker | Repost 1–2 responses with permission | **Expires** | [Instagram official — Add Yours sticker](https://about.instagram.com/blog/tips-and-tricks/how-to-use-instagram-stories) |
+| **B12** | **`Add Yours: show us your brief template`** | Add Yours sticker with Destined's own **blank** template as the prompt — never a real client brief | Repost the best blank-template variation | **Expires** | [QuillBot — start an Add Yours chain](https://quillbot.com/blog/social-media/instagram-story-ideas/) |
+| **B13** | **`Caption this`** | Questions sticker under a candid own-desk photo | Repost the winning caption | **Expires** | [SocialMon — caption-this](https://www.socialmon.ai/blog/75-instagram-story-ideas-with-examples-that-get-replies) |
+| **B14** | **`Fill in the blank`** | Questions sticker: "the one tool I cannot work without is ___" | Repost 2 answers + our own answer | `Why Us` / **Expires** | [IG Viewer — fill-in-the-blank](https://ig-viewer.org/blog/instagram-story-ideas/) |
+| **B15** | **`Hot take: agree or nah?`** | Poll: agree / disagree on their own published opinion | Three lines of reasoning | `Why Us` | [QuillBot — marketing-agency hot take poll](https://quillbot.com/blog/social-media/instagram-story-ideas/) |
+| **B16** | **`Guess the price`** | Quiz or slider on what a full-service retainer costs | Reveal **their own published** package only if still current; otherwise "DM for the current rate card" | `Services` / **Expires** | [Webtonic — guess the price](https://www.webtonic.io/blog/instagram-story-ideas) |
+| **B17** | **`Marketing-mistakes bingo`** | Own bingo card: "which of these 6 are you guilty of?" — screenshot and mark | Repost 1–2 marked cards (with permission) | **Expires** | [SocialMon — bingo board](https://www.socialmon.ai/blog/75-instagram-story-ideas-with-examples-that-get-replies) |
+| **B18** | **`DM keyword`** | "DM `AUDIT` for our 1-page checklist" — no sticker needed, the DM *is* the interaction | Reply with the checklist; log the DMs | `Start Here` / `Services` | [Sol Social — "DM us BOOK" CTA](https://www.solsocialmedia.com/post/instagram-stories-ideas) |
+| **B19** | **`Poll-results reveal`** | Re-post yesterday's poll result | "You picked X, so here's what we did" — closes the loop | `Why Us` / `Results` | [GrowthViral — pair a poll with "why?" on the following frame](https://growthviral.co/instagram-growth-hub/engagement/instagram-story-ideas/) |
+| **B20** | **`What would you want to know before hiring an agency?`** | Question sticker | Turn the answers into the `FAQ` Highlight, one question per frame | `FAQ` | [GrowthViral — ask which problem they want solved next](https://growthviral.co/instagram-growth-hub/engagement/instagram-story-ideas/) |
+
+*Every Bank B idea has a **follow-up frame**: an unanswered poll is a dead end, whereas "you picked X, here's what we did" is what turns a tap into a relationship ([GrowthViral](https://growthviral.co/instagram-growth-hub/engagement/instagram-story-ideas/)). Sticker-availability claims in secondary guides (e.g. the "Reveal sticker" as a DM driver, [PostEverywhere](https://posteverywhere.ai/blog/instagram-story-ideas)) should be verified in-app before use.*
+
+#### How to combine the two banks
+
+| Day | Broadcast (Bank A) | Interactive (Bank B) | Destination |
+|---|---|---|---|
+| Mon | A1 status + A2 service tile | B4 vote on next week's topic | Expires / `Services` |
+| Wed | A5 own-account report **or** A3 process clip | B1 qualifier → B19 results reveal | `Results` / `Why Us` |
+| Fri | A9 checklist + A7 FAQ card | B5 question box **or** B13 caption-this | `FAQ` / expires |
+| Any | A11 workspace, A14 new-post teaser | B11 Add Yours, B18 DM keyword | `BTS` / `Start Here` |
+| Monthly | A20 Highlight frame top-up | B20 answers → `FAQ` rebuild | All five |
+
+**Three rules.** (1) **One interactive sticker per Story day**, not every frame — a tray where everything asks a question becomes a survey, not a presence ([Postlink](https://postlinkapp.com/blog/instagram-story-ideas), [Brandwatch](https://www.brandwatch.com/blog/instagram-stories/)). (2) **Broadcast earns completion and reach; interactive earns replies and DMs — measure them separately**, since a poll response ÷ reach and a reply require different effort ([GrowthViral](https://growthviral.co/instagram-growth-hub/engagement/instagram-story-ideas/)). (3) **Keep the 80/20 shape**: mostly value and presence, at most one promotional frame in seven ([Brandwatch](https://www.brandwatch.com/blog/instagram-stories/), [Postlink](https://postlinkapp.com/blog/instagram-story-ideas)). §8.5 has the full measurement list.
+
+**What all 40 deliberately avoid:** client names, logos, handles, metrics, dashboards, quotes, packaging, unreleased campaigns, pricing proposals, live client-product footage and casting/hiring in the client-facing tray (§6.6); the unverified "Meta 56–70%" stat; and any link to `/personal-branding` until its template filler is cleaned. If a real client quote or result is wanted, use the §8.9 amber route — one-time written clearance, anonymisation checklist, "Shared with permission; data redacted" footer — rather than weakening the green default.
+
+*Revision 15 is a proposal synthesised from §8, §8.10 and the external references listed in §10. These 40 are additional to, not replacements for, the thirty ideas in §8.10. The client's draft paragraph has still not been inserted into §8.7; that insertion has not been authorised. All external links are illustrative references, not evidence about Destined Digital's own Story behaviour. The saved-Highlight-cover date caveat in §8.10 still applies.*
+
+---
+
 ## 9. Verify in a logged-in session before finalising
 
 - The **exact live name field** and whether "Full-Service Marketing Agency" is the name or the business category — plus whether it is inherited from a linked Facebook Page.
@@ -1058,6 +1146,10 @@ The client's draft paragraph argues that a neglected Story field signals inactiv
 ---
 
 ## 10. Sources
+
+**Revision 15 (§8.11) — broadcast vs interactive split**
+- Broadcast / announcement / link and countdown mechanics: [Birdeye — 34 Story ideas for business](https://birdeye.com/blog/instagram-story-ideas/) · [Brandwatch — content ideas, Story links, time-sensitive announcements](https://www.brandwatch.com/blog/instagram-stories/) · [Webtonic — 28 Story ideas grouped by goal](https://www.webtonic.io/blog/instagram-story-ideas) · [InstaPV — 20 business Story ideas](https://instapviewer.com/blog/instagram-stories-for-business-in-2026-20-ideas-that-actually-drive-sales) · [Zeely — Story templates and microcopy](https://zeely.ai/blog/instagram-stories-ideas-templates-a-practical-2026-guide/)
+- Interactive stickers and measuring them: [IG Viewer — 100+ ideas incl. reverse AMA and pop quiz](https://ig-viewer.org/blog/instagram-story-ideas/) · [PostEverywhere — sticker-by-sticker engagement impact](https://posteverywhere.ai/blog/instagram-story-ideas) · [Postlink — interactive benchmarks and repurposing](https://postlinkapp.com/blog/instagram-story-ideas) · [GrowthViral — sticker intent, sequencing, replies vs taps](https://growthviral.co/instagram-growth-hub/engagement/instagram-story-ideas/) · [Sol Social — weekly Story calendar and DM-keyword CTAs](https://www.solsocialmedia.com/post/instagram-stories-ideas)
 
 **Revision 14 (§8.10, ideas 11–30) — additional sticker, template and example references**
 - Sticker mechanics: [pvstory — every Story sticker explained (countdown, quiz, slider)](https://pvstory.co.uk/instagram-story-stickers/) · [Canva — poll, quiz and countdown how-to](https://www.canva.com/learn/a-complete-guide-to-creating-an-instagram-story/) · [MediaMister — complete 2026 Stories guide](https://www.mediamister.com/blog/instagram-stories/) · [eClincher — repost a Reel to a Story](https://www.eclincher.com/articles/how-to-repost-any-instagram-story-in-2026-step-by-step)
