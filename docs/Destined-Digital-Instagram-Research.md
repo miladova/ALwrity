@@ -7,7 +7,7 @@
 
 > **Repository note:** the ten lecture PDFs and their extracted text are local working files under `workspace/uploads/MKW1120/` (gitignored). They are not part of this repository; only this report is committed.
 
-**Companion deep-dive:** [`Destined-Digital-Instagram-Profile-Top-Analysis.md`](Destined-Digital-Instagram-Profile-Top-Analysis.md) — a focused teardown of the profile header (name, bio, avatar, links, Highlights, pinned posts). **Revisions 2–8** (§7 of that document) add a client-reviewed answer on avatar centring, a ≤24-character name shortlist, a conditional geography analysis, the client's decision to **keep the original bio line and SSM number**, the **final bio** (§7.7: one initial capital, 🧸 removed, nothing added), the **final five-Highlight architecture** (§7.9, after the client spotted two overlaps in the earlier six-label set), and **why Highlights matter and their limits** (§7.10) — so the bio-rewrite recommendation below is retired.
+**Companion deep-dive:** [`Destined-Digital-Instagram-Profile-Top-Analysis.md`](Destined-Digital-Instagram-Profile-Top-Analysis.md) — a focused teardown of the profile header (name, bio, avatar, links, Highlights, pinned posts). **Revisions 2–9** (§7–8 of that document) add a client-reviewed answer on avatar centring, a ≤24-character name shortlist, a conditional geography analysis, the client's decision to **keep the original bio line and SSM number**, the **final bio** (§7.7: one initial capital, 🧸 removed, nothing added), the **final five-Highlight architecture** (§7.9, after the client spotted two overlaps in the earlier six-label set), **why Highlights matter and their limits** (§7.10), an **evidence correction** — two real Highlights, `BTS` and `client feedback` (§8.0) — and a full **Instagram Stories** analysis (§8) — so the bio-rewrite recommendation below is retired.
 
 ---
 
@@ -18,7 +18,7 @@ Instagram's own profile page is behind a login wall for anonymous requests ([log
 **Limitations to keep in mind:**
 - Follower/like/comment figures are third-party mirror snapshots captured 7 Nov 2026; mirrors can lag by days or weeks. Search-engine snippets show older cached values (Threads 199 → 204 → 226 followers), which is evidence of growth but also of caching.
 - The newest post visible on the mirrors is 29 Sep 2026, while the website's embedded Instagram feed and Threads show October/November activity — so the mirror grid is probably slightly stale.
-- Instagram Stories, Highlights, link-in-bio, paid ads, and the actual visual grid could **not** be inspected directly. Colour palette / typography conclusions below are therefore low-confidence inferences from captions, emoji use, site assets and automated image descriptions — not a substitute for a logged-in visual review. Section 9 lists what to verify manually.
+- Instagram Stories, link-in-bio, paid ads, and the actual visual grid could **not** be inspected directly. **Correction (8 Nov 2026):** two Highlight labels — `BTS` and `client feedback` — were later recovered from the Pixnoy Stories route; see §8.0 of the companion teardown. Highlight covers and Story contents remain uninspected. Colour palette / typography conclusions below are therefore low-confidence inferences from captions, emoji use, site assets and automated image descriptions — not a substitute for a logged-in visual review. Section 9 lists what to verify manually.
 - A second, unrelated US agency trades as "Destined Digital" ([destineddigital.com](https://www.destineddigital.com/), Casper WY). It is **not** the subject of this report. The subject is the Malaysian entity with company registration `(003694655-T)` and domain `destined-digital.com`.
 
 ---
@@ -181,7 +181,7 @@ Lectures 8 (pricing) and 10 (distribution) are only tangentially relevant: the R
 5. **Surface the price and the offer.** Turn the RM1,500 podcast clip into a short Reel + pinned tile; it is their clearest differentiation and currently almost invisible.
 
 ### P1 — next 30–60 days
-6. **Rebalance the content mix** to roughly: 40% buyer-problem education (reuse their own excellent TikTok scripts), 30% proof/case studies, 20% BTS/culture, 10% offers. Target **2–3 feed posts + weekly Stories per week**, using a fixed weekly slot system — matching their own published advice.
+6. **Rebalance the content mix** to roughly: 40% buyer-problem education (reuse their own excellent TikTok scripts), 30% proof/case studies, 20% BTS/culture, 10% offers. Target **2–3 feed posts per week**; for Stories see the more realistic **2–3 Story days/week, 3–4 frames each** rhythm and the Stories→Highlights pipeline in §8.2–8.3 of the companion teardown.
 7. **Systematise the winner:** a weekly founder-led Reel series (e.g. 60-second "Cozy Conversions" teardowns of a real brand problem), published as an Instagram **collaboration** with the founder's account. This is the format with 55–81 likes and 5–9 comments.
 8. **Write one master message** and adapt tone, not promise: e.g. *"Strategy-led, human content that turns attention into enquiries for Malaysian SMEs."* Audit website, IG bio, Threads bio, LinkedIn tagline and services page against it (L9 slide 22).
 9. **Move casting calls and hiring off the client-facing grid** — a separate `@destined.digital.casting` handle, a dedicated Highlight, or Threads/LinkedIn-only — so the IG grid serves buyers.
@@ -199,9 +199,9 @@ Lectures 8 (pricing) and 10 (distribution) are only tangentially relevant: the R
 The following could not be confirmed from public mirrors and should be checked before presenting these findings as final:
 
 - Exact live follower count, and whether the first three posts are actually **pinned**.
-- Presence/absence of **Highlights**, their covers and labels; the **link in bio** destination.
+- **Highlights**: confirm `BTS` and `client feedback`, whether more exist, their order and covers; the **link in bio** destination.
 - Actual grid **colour palette, typography, logo lockups and template consistency** (the visual section above is low-confidence).
-- **Stories** frequency and content (likely where day-to-day client work actually lives).
+- **Stories** frequency over two weeks, content, sticker/link usage, and which frames are saved to Highlights (§8).
 - Whether any **paid promotion / Meta Ad Library** activity exists, and whether Reels views substantially exceed likes (view counts were not available on the mirrors).
 - Posts published **after 29 Sep 2026**, including the "October dump", skincare shoot and Fupi.co content indexed on the website.
 - Whether casting calls are being cross-posted to the Instagram feed or confined to Threads/Stories.

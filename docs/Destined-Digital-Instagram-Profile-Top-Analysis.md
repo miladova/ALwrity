@@ -2,7 +2,7 @@
 
 **Subject:** `@destined.digital` — the profile header (name, bio, profile picture, category, links, counts, Highlights, pinned posts) and its Threads counterpart
 **Prepared:** 7 November 2026 (MYT)
-**Revisions:** 2 — 7 November 2026, client review of the live profile on a phone: avatar centring, name wrapping, bio emoji/capitalisation/content (§7, supersedes §6). **3 — 7 November 2026, geography is conditional, not a requirement (§7.4).** **4 — 7 November 2026, client decision: the bio line "marketing doesn't have to be boring or repetitive" and `(003694655-T)` are LOCKED (§7.6); all bio-replacement drafts are withdrawn.** **5 — 7 November 2026, FINAL BIO ANSWER in §7.7: keep the line word-for-word, add one initial capital, remove 🧸, add nothing else.** **6 — 8 November 2026, HIGHLIGHTS ANSWER in §7.8: architecture, ordering mechanics, cover specs.** **7 — 8 November 2026, client spots two overlaps; §7.9 resolves them and reduces the final set to FIVE Highlights.** **8 — 8 November 2026, why Highlights matter and what they cannot do (§7.10).**
+**Revisions:** 2 — 7 November 2026, client review of the live profile on a phone: avatar centring, name wrapping, bio emoji/capitalisation/content (§7, supersedes §6). **3 — 7 November 2026, geography is conditional, not a requirement (§7.4).** **4 — 7 November 2026, client decision: the bio line "marketing doesn't have to be boring or repetitive" and `(003694655-T)` are LOCKED (§7.6); all bio-replacement drafts are withdrawn.** **5 — 7 November 2026, FINAL BIO ANSWER in §7.7: keep the line word-for-word, add one initial capital, remove 🧸, add nothing else.** **6 — 8 November 2026, HIGHLIGHTS ANSWER in §7.8: architecture, ordering mechanics, cover specs.** **7 — 8 November 2026, client spots two overlaps; §7.9 resolves them and reduces the final set to FIVE Highlights.** **8 — 8 November 2026, why Highlights matter and what they cannot do (§7.10).** **9 — 8 November 2026, EVIDENCE CORRECTION: two real Highlights found (`BTS`, `client feedback`), plus a full Instagram Stories section (§8).**
 **Companion to:** [`Destined-Digital-Instagram-Research.md`](Destined-Digital-Instagram-Research.md)
 **Theory basis:** MKW1120 Lectures 1–10 (uploaded PDFs), especially L9 (IMC / communication process), L6 (STP & positioning), L7 (services & brand), L5 (buyer decision process)
 
@@ -20,8 +20,8 @@ This is a narrow, deep pass on the **first screen** a visitor sees. Instagram's 
 | Follower / following counts | Yes (396 / 14) | Medium |
 | Business category, contact buttons, post count | **No** | Unverifiable publicly |
 | Bio link(s) | **No** (no aggregator found, no link rendered) | Unverifiable publicly |
-| Highlights | **No** — mirrors expose no highlight data | Unverifiable publicly |
-| Active Stories | imginn reports "No Stories" at capture | Low |
+| Highlights | **Yes (new)** — at least two: `BTS`, `client feedback` (§8.0) | Medium |
+| Active Stories | No active 24-hour Story at capture; Highlights prove historical Story use | Low / inferred |
 | Pinned posts | Inferred from grid order only | Low |
 | Threads header (name, bio, topic tags, follower count) | Yes, live | High |
 
@@ -58,7 +58,7 @@ That string is **48 characters**. Most published 2026 references put the Instagr
 `@destined.digital` — short, clean, brand-matched, and consistent across Instagram, Threads, TikTok and the website. This is the strongest element of the header. It also means the brand owns the `.digital` qualifier, which reads as a category cue. **Keep.**
 
 ### 1.4 Category label and contact buttons
-Not visible in any public mirror. If this is a Professional/Business account (the SSM number and consultation funnel suggest it is), Instagram would show a grey category line under the name and action buttons such as *Email / Call / WhatsApp / Book*. These are free, always-visible conversion real estate at the very top of the profile — and they are unaccounted for in the public record. **Verify in-app** (§8).
+Not visible in any public mirror. If this is a Professional/Business account (the SSM number and consultation funnel suggest it is), Instagram would show a grey category line under the name and action buttons such as *Email / Call / WhatsApp / Book*. These are free, always-visible conversion real estate at the very top of the profile — and they are unaccounted for in the public record. **Verify in-app** (§9).
 
 ### 1.5 Bio — two different versions, and 57% of the space unused
 
@@ -111,8 +111,9 @@ Instagram currently permits **up to 5 links** directly in the profile ([1](https
 ### 1.8 Highlights and Stories
 - [Imginn Stories](https://imginn.com/stories/destined.digital/) returns **"No Stories"** at capture.
 - The [Imginn highlights route](https://imginn.com/highlights/destined.digital/) and the [Imgsed highlights route](https://imgsed.com/highlights/destined.digital/) both fall back to the posts page; the [Pixnoy highlights route](https://www.pixnoy.com/profile/destined.digital/highlights/) is empty; two further story viewers were blocked or unavailable. [Imgsed Stories](https://imgsed.com/stories/destined.digital/) also returns "No Stories" — but that refers to **active 24-hour Stories**, not saved Highlights.
+- **Correction (8 Nov 2026):** the **direct** [Pixnoy Stories route](https://www.pixnoy.com/profile/destined.digital/stories/) — not its CAPTCHA-blocked reader-proxied version — returned two labelled Highlight covers: **`BTS`** and **`client feedback`**. See §8.0.
 
-**Conclusion:** Highlights are **genuinely unverifiable** from public sources — absence of data here is not evidence of absence on the profile. But note the strategic asymmetry: Highlights are the *only* permanent, buyer-facing navigation an Instagram profile has, and Destined has a `/testimonials` page, a services page, a founder story, a blog and a podcast — i.e. more than enough raw material to fill 5–6 well-labelled Highlights. If those Highlights do not exist, that is the single largest missed opportunity in the header. If they do exist, they are invisible to search and to anyone doing desk research.
+**Conclusion (corrected):** Highlights are **partially observable** — two labels are confirmed, though the mirror may be incomplete and cover artwork could not be retrieved. Absence of mirror data was never evidence of absence on the profile. But note the strategic asymmetry: Highlights are the *only* permanent, buyer-facing navigation an Instagram profile has, and Destined has a `/testimonials` page, a services page, a founder story, a blog and a podcast — i.e. more than enough raw material to fill 5–6 well-labelled Highlights. If those Highlights do not exist, that is the single largest missed opportunity in the header. If they do exist, they are invisible to search and to anyone doing desk research.
 
 ### 1.9 Pinned posts
 The first three grid items on the mirrors are older than the fourth (May 2026 posts ahead of a 29 Sep 2026 post), which is consistent with Instagram's three pinned slots — but unconfirmed. If pinned, they are:
@@ -179,7 +180,7 @@ Lecture 9 slide 22 defines IMC as integrating channels to deliver a **"clear, co
 1. **No value proposition and no CTA in the bio.** 85 of 150 characters unused; zero statement of who they help, what they deliver, or what to do next.
 2. **Proof exists but is unreachable.** `/testimonials` holds quantified growth screenshots; nothing in the observed header points to it. For a high-involvement B2B service (L5 s35), this is the costliest gap.
 3. **Link slots apparently unused** despite five owned destinations and platform support for 5 links.
-4. **Highlights unverifiable / likely underused** — the only permanent navigation on the profile, with ample material to populate it.
+4. **Only two Highlights, neither buyer-facing** — `BTS` is internal jargon and `client feedback` is a 15-character quote label at the truncation limit, not an outcomes label; the only permanent navigation on the profile is sparse and mis-labelled (§8.0).
 5. **Pinned trio is identity-only** (if pinned) — manifesto, founder culture, values, with no offer or results.
 6. **Name field fails Instagram SEO** whichever interpretation of the 48-char anomaly is correct: either an over-long generic phrase, or a bare brand name with no keyword; no "KL", "Malaysia", "SME" or "social media".
 7. **Header-level IMC drift** — four different promises across four profiles.
@@ -266,6 +267,8 @@ Replace the three topic tags with buyer-relevant ones (`Marketing Agency`, `Digi
 ---
 
 ## 7. Revisions 2–8 — client review of the header (avatar, name, bio, geography, final bio, Highlights)
+
+> **EVIDENCE CORRECTION (8 Nov 2026, §8.0):** the direct Pixnoy Stories route returned two labelled Highlights, `BTS` and `client feedback`. Sections 7.8–7.10 were written when Highlight data was unavailable; their architecture and mechanics still stand, but the task is now **rename-and-expand**, not build-from-zero.
 
 Raised by the client on 7 November 2026 after looking at the **live profile on a phone**. Where the live observation conflicts with the mirror-derived caveats above, the live observation wins. Three questions, three answers.
 
@@ -387,7 +390,7 @@ Real client results ↓ · Free consult
 (003694655-T)
 ```
 
-Variant D preserves the personality but its two 36-character lines may wrap at larger text sizes. All four deliberately retain a Malaysia/MY cue: most 2026 references say Instagram and Threads **share** one bio (one says they are separate — §9), so if it does sync, Threads must not lose its only category + geography cue. Apply the same copy and the same emoji rule to both, then verify each in-app.
+Variant D preserves the personality but its two 36-character lines may wrap at larger text sizes. All four deliberately retain a Malaysia/MY cue: most 2026 references say Instagram and Threads **share** one bio (one says they are separate — §10), so if it does sync, Threads must not lose its only category + geography cue. Apply the same copy and the same emoji rule to both, then verify each in-app.
 
 ### 7.4 Is geography actually required? (Revision 3)
 
@@ -579,11 +582,11 @@ Everything else in the header analysis is unchanged.
 
 ### 7.8 Highlights architecture (Revision 6) — superseded in part by §7.9
 
-**Honest starting point: I still cannot see them.** Four independent mirror routes were tried for this account (Imginn, Imgsed, Pixnoy, plus blocked story viewers). Every Highlights route falls back to the posts page or returns empty, and "No Stories" refers to active 24-hour Stories, not saved Highlights. **Absence of mirror data is not evidence of absence on the profile.** So what follows is a recommendation, not an audit of what is currently live — see the last paragraph for what I need from you.
+**Written when no Highlight data was available — now partly superseded by §8.0.** On 8 Nov 2026 the **direct** Pixnoy Stories route returned two labelled Highlights: `BTS` and `client feedback`. So the architecture below is now a **rename-and-expand** job rather than a from-scratch build; the ordering mechanics, cover specs and content rules still stand. **Absence of mirror data was never evidence of absence on the profile.**
 
 **But the stakes just went up.** With the bio locked as a pure brand statement (§7.7), Highlights are now — alongside the 5 native links and the pinned trio — the **only permanent, buyer-facing surface on the profile that can carry proof, services and a CTA without consuming bio characters**. Two caveats worth stating plainly: Highlights are **invisible to search and to desk research**, so they do nothing for discovery; and they only help visitors who have *already* landed. They are the **conversion layer**, not decoration and not a reach tactic.
 
-**Three mechanical constraints that shape the design** (2026 platform references in §9):
+**Three mechanical constraints that shape the design** (2026 platform references in §10):
 
 | Constraint | Consequence |
 |---|---|
@@ -620,11 +623,13 @@ This is a funnel, not a category list: awareness → proof → offer → quality
 
 **What I would avoid:** 8+ Highlights (decision paralysis), vague labels (`Vibes`, `Stuff`, `More`), unlabelled or mismatched covers, a podcast Highlight outranking `Results`, and an empty row. Given how much owned material already exists — testimonials, five services, a founder story, a blog, a podcast, shoot archives — an empty or random row is the **single largest missed opportunity in the header**.
 
-**To turn this into an actual audit:** tell me the live labels and their left-to-right order (or share a screenshot). Then I can say exactly what to keep, rename, merge, delete and move, instead of designing from the outside.
+**Now partly answered (§8.0):** two labels are confirmed. Still needed: whether more Highlights exist, their left-to-right order, and what is inside each (or a screenshot) — then I can say exactly what to keep, rename, merge and move.
 
 ---
 
 ### 7.9 Revision 7 — the two overlaps in §7.8, resolved
+
+> **Evidence note (§8.0):** two Highlights now confirmed (`BTS`, `client feedback`). The five-label plan below is a rename/expansion of what exists, not a build from zero.
 
 The client asked: (1) what is the difference between the "5 services" in `Start Here` and the whole `Services` Highlight, and (2) what is the difference between `Results` and `Our Work`. **Both overlaps are real.** They come from one design error in §7.8: Highlights were treated as **content buckets** ("here is all the material we own") instead of **one buyer question each** ("here is the one thing this visitor needs to decide"). A bucket invites duplication; a question forbids it.
 
@@ -675,6 +680,8 @@ Maintaining that distinction takes ongoing discipline, and the **grid already fu
 
 ### 7.10 Why Highlights matter at all — and what they cannot do (Revision 8)
 
+> **Evidence note (§8.0):** the row is not empty — it has `BTS` and `client feedback`. The argument below is unchanged, but the job is smaller than it first appeared.
+
 Short answer: **they are the only permanent, structured navigation an Instagram profile has, so they decide whether a high-intent visitor converts — but they generate no reach of their own.** They are a **conversion layer, not a growth lever**.
 
 **Five reasons they matter**
@@ -707,25 +714,102 @@ Short answer: **they are the only permanent, structured navigation an Instagram 
 
 ---
 
-## 8. Verify in a logged-in session before finalising
+## 8. Instagram Stories (beyond the static header)
+
+Stories are not part of the static header, but they belong in this teardown for one reason: **they are the supply chain for Highlights**. Everything saved into a Highlight began as a Story, so the two confirmed Highlights (§8.0) prove Stories have been used — and any Story plan has to be designed backwards from the five Highlight buckets in §7.9.
+
+### 8.0 Evidence correction — the Highlights are no longer unverifiable
+
+On 8 November 2026 the **direct** [Pixnoy Stories route](https://www.pixnoy.com/profile/destined.digital/stories/) returned the account's Highlight list with two labelled covers:
+
+> **`BTS`** · **`client feedback`**
+
+Both image alt-texts read "@destined.digital Highlights: …". The mirror lists exactly two (`hl_destined.digital_0_…`, `_1_…`), though mirrors can be incomplete; cover artwork itself returned 403 and could not be inspected. This **supersedes** the "Highlights unverifiable" wording in §1.8 and §7.8.
+
+Three consequences:
+
+1. **Stories have been posted.** Highlights can only be built from Stories, so someone has published and deliberately saved Story frames. "No Stories" on Imginn/Imgsed means **no active 24-hour Story at the moment of capture** — not "this account never posts Stories". Current frequency remains unknown.
+2. **The row is sparse and mis-labelled for buyers.** `BTS` is internal jargon. `client feedback` is 15 characters — at the truncation limit documented in §7.8 — and describes *quotes*, not outcomes. Neither answers any of the five buyer questions in §7.9 (`Is this for me?`, `Does it work?`, `What do I buy?`, `Why trust you?`, `What happens next?`). There is no `Results`, `Services`, `Start Here` or `FAQ` label.
+3. **§7.9 becomes a rename-and-expand job.** Keep the content, change the architecture:
+   - `client feedback` → rename to **`Results`**, and add the four anonymised [`/testimonials`](https://www.destined-digital.com/testimonials) growth screenshots plus numbers (quotes + metrics, not quotes alone).
+   - `BTS` → do **not** delete. Redistribute its frames into `Results` as "here's the work / here's what it did" pairs (§7.9) and into `Why Us` for team/human material. If the team wants to keep a BTS set, it sits at position 6, outside the visible first four.
+
+### 8.1 What Stories are actually for
+
+| Surface | Primary job | Lifespan | Audience | Discoverability |
+|---|---|---|---|---|
+| Reels / feed posts | Discovery + credibility | Permanent | New + existing | High (Explore, Search, Google) |
+| **Stories** | **Relationship / retention / frequent contact** | 24 hours | Mostly existing followers | Very low |
+| Highlights | Conversion / decision aid | Permanent | Profile visitors | None |
+| Bio, links, pinned trio | Positioning + routing | Permanent | Profile visitors | Name field only |
+
+Stories are the **conversation layer**: they are shown mainly to people who already follow you, and their engagement is private — replies, poll taps, link taps — rather than public likes and comments ([1](https://postoria.io/blog/how-the-instagram-algorithm-works), [3](https://contentstudio.io/blog/instagram-features-for-marketers)). They are not indexed, do not appear in Explore or feed, and won't produce new followers ([2](https://viewprivateinstagram.substack.com/p/instagram-stories-vs-highlights-vs-reels), [4](https://postplanify.com/blog/instagram-post-vs-story-vs-reel)).
+
+For a **396-follower** agency whose feed has a 43-day gap in the mirror sample, that makes Stories valuable for exactly one thing: **staying visible between posts at almost zero production cost**. They also fit the strongest content signal in the whole audit — founder-led / human posts draw 55–81 likes versus 8–20 for corporate posts — because Stories are the cheapest place to put a face. Lecture 2 (relationship marketing), Lecture 7 slides 23–24 (services are inseparable from their providers, so people are physical evidence) and Lecture 9's 5As (repeated low-risk contact before an enquiry) all point the same way.
+
+**What they cannot do:** fix the `/testimonials` discoverability gap by themselves — that needs the link stack and the `Results` Highlight. And a perfect Story rhythm on a dormant feed still converts nobody.
+
+### 8.2 Minimum viable rhythm (realistic for a small team)
+
+Published advice ranges from "daily" to 3–7 frames per day ([3](https://heropost.io/instagram-stories-for-business-2026/), [4](https://postplanify.com/blog/instagram-post-vs-story-vs-reel)), with 3–5 frames/day commonly cited for retention ([2](https://viewprivateinstagram.substack.com/p/instagram-stories-vs-highlights-vs-reels)). For a boutique agency posting 1–2 feed posts a month, that is neither realistic nor necessary. **Recommendation: 2–3 Story days per week, 3–4 frames each, one coherent thread per day.** Consistency is measured in *days*, not production value ([3](https://heropost.io/instagram-stories-for-business-2026/)).
+
+| Day | Thread | Frames | Interactive element | Saves to |
+|---|---|---|---|---|
+| Mon | "This week at Destined" — what is being shot / one client problem being solved | 3 | Poll or question sticker | `Why Us`, or expires |
+| Wed | "Behind the shoot" — BTS from work already being produced | 3–4 | Question box: "what would you like to see?" | `Results` (the work half of a work+result pair) |
+| Fri | "Proof or answer" — one anonymised client result **or** one buyer FAQ | 3 | Link sticker → `/testimonials` or `/services`; `DM "AUDIT"` | `Results` / `FAQ` |
+
+Rules for every Story day: at least **one frame with a person**; at least **one interactive sticker**; at least **one frame worth saving** to a Highlight. If a frame is neither worth a reply nor worth saving, don't post it. Prefer 2 days/week sustained over 7 days/week abandoned after a fortnight.
+
+### 8.3 The Stories → Highlights pipeline
+
+1. Fix the five bucket names first (§7.9): `Start Here`, `Results`, `Services`, `Why Us`, `FAQ`.
+2. When creating a frame, decide which bucket it would be saved to. Only **evergreen** frames get saved.
+3. Time-bound material — casting calls, hiring, event countdowns, "this week only" — stays as a 24-hour Story and expires. This solves the maintenance problem in §7.10 and keeps recruiting content off client-facing surfaces (§6.6).
+4. Quarterly, prune stale frames from each Highlight.
+
+This makes Highlights an **output of the Story rhythm** rather than a separate project — and it is why the two existing Highlights should be reorganised, not deleted.
+
+### 8.4 Specs and guardrails (2026)
+
+- Canvas **1080×1920 (9:16)**. Keep key text between roughly y=250 and y=1580 — about 250 px clear at the top and 340 px at the bottom, away from the progress bar and reply box ([1](https://www.socialecho.net/en/blog/docs/instagram-stories-complete-guide/?read=1), [2](https://www.outfy.com/blog/instagram-safe-zone/), [5](https://www.moonb.io/blog/instagram-story-specs)). Sources disagree on the bottom buffer (250–670 px); 250/340 is a safe working rule.
+- Images show ~5 s by default; video segments up to 60 s; keep clips 5–15 s where possible ([4](https://postfa.st/sizes/instagram/stories), [5](https://www.moonb.io/blog/instagram-story-specs)).
+- The **link sticker** is available to all accounts regardless of follower count ([3](https://heropost.io/instagram-stories-for-business-2026/)) — the cheapest route from a Story to `/testimonials`.
+- Use polls / questions / link stickers at least every other Story; taps lift retention and strengthen relationship signals ([2](https://viewprivateinstagram.substack.com/p/instagram-stories-vs-highlights-vs-reels), [3](https://contentstudio.io/blog/instagram-features-for-marketers)).
+- Add captions to video (most mobile video is watched muted), don't put critical information in text-only frames, and keep emoji sparing per §7.3(a).
+- **Don't over-produce.** Stories' advantage is authenticity and low cost; a fully designed Story is just another feed post ([1](https://postoria.io/blog/how-the-instagram-algorithm-works), [2](https://viewprivateinstagram.substack.com/p/instagram-stories-vs-highlights-vs-reels)).
+
+**Guardrails specific to this account:** keep casting/hiring out of client-facing Stories (Threads already carries them); don't repeat the unverified "Meta 56–70%" stat; clean the `/personal-branding` template filler before linking to it; and treat founder faith content as the founder's judgement call — it is authentic and high-engagement, but in multi-faith Malaysia it carries decoding risk (Lecture 9, communication process / noise).
+
+### 8.5 Measurement — close the feedback loop
+
+Per Story day track **replies, sticker taps, link taps (UTM-tagged), profile visits, DMs containing `AUDIT`, and booked consults**. Monthly, compare by thread type and drop formats that produce nothing. Use question stickers as cheap customer research ("what's your biggest content headache?") and let the answers set the next feed post — Lecture 9 slide 8 (feedback), Lecture 4 slides 10–12 (MIS), Lecture 1 slide 6 (needs alignment / marketing myopia). Do not treat mirror-derived counts as official analytics.
+
+### 8.6 Where Stories rank
+
+Consistent with §7.10: **(1)** name + category + 5 native links (minutes) → **(2)** pinned trio plus renaming/expanding the two existing Highlights into the five-bucket set (one session) → **(3)** the 2–3 day/week Story rhythm (ongoing habit) → **(4)** covers and visual polish. Stories are a **habit, not a build**; their value compounds only if the rhythm holds for 4–6 weeks, which is also the minimum window before judging them.
+
+---
+
+## 9. Verify in a logged-in session before finalising
 
 - The **exact live name field** and whether "Full-Service Marketing Agency" is the name or the business category — plus whether it is inherited from a linked Facebook Page.
 - **Avatar optical centring** in the circular crop at default and enlarged text sizes, and legibility at thumbnail size.
 - The **exact live bio** — and whether Instagram and Threads really differ (this determines whether the mirrors are stale).
 - **Business category line** and which **contact/action buttons** are enabled.
 - **All bio links** and their destinations; whether any link aggregator is used.
-- **Highlight count, labels, order and covers**; whether any Highlight is a "Results" or "Start Here" set; whether any contains casting/hiring or expired promos (§7.8, §7.9).
+- **Highlight count, labels, order and covers** — confirm `BTS` and `client feedback` and whether more exist; whether any contains casting/hiring or expired promos (§8.0, §7.9).
 - Whether the first three grid posts are **pinned**.
-- **Post count** and any active Stories.
+- **Post count**, any active Stories, and **Story frequency over a two-week window**; which stickers / link stickers are used; which frames are saved to Highlights (§8).
 - Profile picture legibility at thumbnail size.
 - Whether a WhatsApp/Email button exists (the site uses `0128310988` and `joanna@destined-digital.com`).
 
 ---
 
-## 9. Sources
+## 10. Sources
 
 **Profile surfaces**
-- [Imginn profile](https://imginn.com/destined.digital/) · [Pixnoy profile](https://www.pixnoy.com/profile/destined.digital/) · [Pixnoy DP](https://www.pixnoy.com/dp/destined.digital/) · [Imginn Stories](https://imginn.com/stories/destined.digital/) · [Imginn highlights route](https://imginn.com/highlights/destined.digital/) · [Pixnoy highlights route](https://www.pixnoy.com/profile/destined.digital/highlights/) · [Instagram login wall](https://r.jina.ai/https://www.instagram.com/destined.digital/) · [Threads profile (live)](https://r.jina.ai/https://www.threads.com/@destined.digital) · [Threads (indexed)](https://www.threads.com/@destined.digital) · [LinkedIn](https://r.jina.ai/https://www.linkedin.com/company/destined-digital)
+- [Imginn profile](https://imginn.com/destined.digital/) · [Pixnoy profile](https://www.pixnoy.com/profile/destined.digital/) · [Pixnoy DP](https://www.pixnoy.com/dp/destined.digital/) · [Imginn Stories](https://imginn.com/stories/destined.digital/) · **[Pixnoy Stories (Highlight labels: `BTS`, `client feedback`)](https://www.pixnoy.com/profile/destined.digital/stories/)** · [Imginn highlights route](https://imginn.com/highlights/destined.digital/) · [Pixnoy highlights route](https://www.pixnoy.com/profile/destined.digital/highlights/) · [Instagram login wall](https://r.jina.ai/https://www.instagram.com/destined.digital/) · [Threads profile (live)](https://r.jina.ai/https://www.threads.com/@destined.digital) · [Threads (indexed)](https://www.threads.com/@destined.digital) · [LinkedIn](https://r.jina.ai/https://www.linkedin.com/company/destined-digital)
 
 **Owned website (sitemap + newly found pages)**
 - [sitemap.xml](https://www.destined-digital.com/sitemap.xml) · [testimonials](https://www.destined-digital.com/testimonials) · [whydestined](https://www.destined-digital.com/whydestined) · [personal-branding](https://www.destined-digital.com/personal-branding) · [services](https://www.destined-digital.com/services) · [home](https://www.destined-digital.com/) · [site JSON](https://www.destined-digital.com/?format=json-pretty) · [TikTok viewer](https://www.tikvib.com/profile/destined.digital)
@@ -734,6 +818,12 @@ Short answer: **they are the only permanent, structured navigation an Instagram 
 - Name 30, bio 150, up to 5 native links, name field is searchable: [1](https://replug.io/blog/instagram-bio-character-limit) · [2](https://wordscalculator.net/blog/instagram-character-limits) · [3](https://taskant.com/instagram-character-limit/) · [5](https://boldlytype.com/blog/instagram-bio-character-limit) · [4](https://postlen.app/en/blog/instagram-character-limits)
 - Threads name/bio limits and topic tags/links: [1](https://postory.io/blog/threads-bio-ideas) · [3](https://momentumhive.app/blog/threads-character-limit-2026) · [4](https://growthscribe.com/instagram-caption-character-limit/)
 - Bio shared between Instagram and Threads: [1](https://postory.io/blog/threads-bio-ideas) · [2](https://thetextgenerators.com/social-media-character-limits/) · [4](https://www.sendcove.app/integrations/threads/character-limits); dissenting view (separate bios): [3](https://omnisocials.com/guides/threads-character-limits)
+
+**Revision 9 (§8) — Instagram Stories**
+- Stories as relationship/retention layer, mainly shown to existing followers, private engagement signals: [Postoria](https://postoria.io/blog/how-the-instagram-algorithm-works) · [ContentStudio](https://contentstudio.io/blog/instagram-features-for-marketers) · [PostPlanify](https://postplanify.com/blog/instagram-post-vs-story-vs-reel) · [Stories vs Highlights vs Reels](https://viewprivateinstagram.substack.com/p/instagram-stories-vs-highlights-vs-reels)
+- Cadence (daily / 3–7 frames / 3–5 sweet spot), link sticker available to all accounts, interactive stickers: [Heropost](https://heropost.io/instagram-stories-for-business-2026/) · [Stories vs Highlights vs Reels](https://viewprivateinstagram.substack.com/p/instagram-stories-vs-highlights-vs-reels)
+- Specs 1080×1920, safe zones, display time, video length: [SocialEcho](https://www.socialecho.net/en/blog/docs/instagram-stories-complete-guide/?read=1) · [Outfy](https://www.outfy.com/blog/instagram-safe-zone/) · [PostFast](https://postfa.st/sizes/instagram/stories) · [Moonb](https://www.moonb.io/blog/instagram-story-specs)
+- Highlight labels found via the **direct** Pixnoy Stories route (the Jina-proxied version CAPTCHAs; the direct highlights route is empty): [Pixnoy Stories](https://www.pixnoy.com/profile/destined.digital/stories/)
 
 **Revision 8 (§7.10) — Highlights and search indexing**
 - Stories and Highlights excluded from Google/Bing indexing of professional Instagram content: [Lyfe Marketing](https://www.lyfemarketing.com/blog/instagram-google-indexing/) · [Flatline Agency](https://www.flatlineagency.com/blog/instagram-index-update) · [Torro](https://torro.io/blog/instagram-google-searchable) · [Vi Marketing](https://vimarketingandbranding.com/instagram-now-shows-in-google-search-what-it-means-for-you). One dissenting/ambiguous FAQ: [Birdeye](https://birdeye.com/blog/instagram-search-indexing-update/)
@@ -761,4 +851,4 @@ Short answer: **they are the only permanent, structured navigation an Instagram 
 
 ---
 
-*Desk research from publicly accessible sources, plus the client's own observation of the live profile on a phone and their editorial decisions (§7, Revisions 2–8). Character counts were computed against the exact strings shown. All header rewrites are proposals, not observed changes; the locked bio in §7.6 is a client decision.*
+*Desk research from publicly accessible sources, plus the client's own observation of the live profile on a phone and their editorial decisions (§7, Revisions 2–9). Character counts were computed against the exact strings shown. All header rewrites are proposals, not observed changes; the locked bio in §7.6 is a client decision.*
