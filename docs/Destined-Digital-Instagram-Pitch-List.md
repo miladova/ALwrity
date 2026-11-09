@@ -6,6 +6,7 @@
 **Revision 2:** redirected to the client's own five ideas. Revision 1's audit-wide 43-item checklist was off-target and has been removed from this document.
 **Revision 3 — 8 November 2026:** adds **§2 — twenty NEW Reel ideas** (four per idea), checked against the observed 18-post corpus so none repeats an existing post.
 **Revision 4 — 8 November 2026:** adds **§5 — three TikTok exemplars each** for the five Reels the client is making (**R4, R6, R9, R13, R19**).
+**Revision 5 — 8 November 2026:** recuts **R9** per the client's note — it is now **"client asks us to make it good, and we do"** (a competence flex), not the designer-frustration "make it pop" joke. §1, §2, §3 and §5 updated.
 
 ---
 
@@ -64,7 +65,7 @@ The **voice** series. It is the clearest expression of the locked bio line — *
 
 | Execution | Format | Effort |
 |---|---|---|
-| "POV: the client says 'make it pop'" | Meme card / short Reel | 1 card |
+| "Client: 'just make it good' → us: say less" | Meme card / short Reel | 1 card |
 | Marketing jargon translated into plain English | Carousel, 5 slides | One build |
 | "Types of people on a shoot day" | Meme card | 1 card |
 | Expectation vs reality: "one small revision" | 2-panel single image | 1 card |
@@ -127,7 +128,7 @@ The client asked for **"20 ideas for reels ... new ideas, not something they hav
 | **R6** | **"Moodboard → finished set"** — three phone snaps stitched in-app: messy table → halfway → final | 2 · Before/after | ≤10 min |
 | **R7** | **"The idea we killed"** — show the discarded route, then one line on why it didn't ship | 2 · Before/after | ≤5 min |
 | **R8** | **"Same caption, three hooks"** — three text cards, identical body, different opening lines. No results claimed | 2 · Before/after | ≤5 min |
-| **R9** | **"POV: the client says 'make it pop'"** — 5-second deadpan acted reaction | 3 · Memes | ≤5 min |
+| **R9** | **"Client: 'just make it good' → us: say less"** — vague brief as a text card, one cut, then the finished own/spec work. No process steps, no real client quote | 3 · Memes | ≤5 min |
 | **R10** | **"Marketing jargon → plain English"** — four quick cuts ("synergy" → "we talked") | 3 · Memes | ≤5 min |
 | **R11** | **"Expectation vs reality: one small revision"** — two-panel acted split | 3 · Memes | ≤5 min |
 | **R12** | **"Types of people on a shoot day"** — three characters played by your own team, no client staff | 3 · Memes | ≤10 min |
@@ -142,13 +143,13 @@ The client asked for **"20 ideas for reels ... new ideas, not something they hav
 
 **Format notes (secondary guidance, not Meta rules):** keep them **9–25 s**, matching the account's own observed cluster, with the **hook in the first 1–2 seconds**, captions on, one clear idea and an uploaded 1080×1920 cover ([Hootsuite — Reels for business 2026](https://blog.hootsuite.com/instagram-reels/), [RapidTool — hook earns the first two seconds](https://rapidtoolplus.com/blog/instagram-reels-upload-best-practices-2026/)). Recurring BTS series with a **name** build familiarity and reduce production pressure, and passive capture during a normal workday is the lowest-effort filming method ([Klap — 2026 Reel trends](https://klap.app/blog/instagram-reels-trends), [Postful — Reel trends for business](https://blog.postful.ai/instagram-reel-trends/)). November 2026 trend round-ups still put **raw, unpolished 7–15 s clips** ahead of produced ones ([New Engen](https://newengen.com/insights/instagram-trends/)) — so "aesthetic" stays a feel, not a grading pass. Niche-specific humour works when it exaggerates a truth the audience already lives with ([Gainsty](https://www.gainsty.com/blog/instagram-reel-trends)).
 
-**Guardrails:** green tier only — no client name, logo, handle, quote, dashboard, packaging or unreleased work; own team with consent captured once; own / spec / fictional-brand work in R5–R8 and R19; no unverified statistics (the "Meta 56–70%" claim stays out); one CTA at most; no new design system or editing suite. These are a **menu, not a calendar** — the cadence target lives in posts §14.5.
+**Guardrails:** green tier only — no client name, logo, handle, quote, dashboard, packaging or unreleased work; own team with consent captured once; own / spec / fictional-brand work in R5–R9 and R19; no unverified statistics (the "Meta 56–70%" claim stays out); one CTA at most; no new design system or editing suite. These are a **menu, not a calendar** — the cadence target lives in posts §14.5.
 
 ---
 
 ## 3. Three guardrails (keep these short in the pitch)
 
-1. **Confidentiality** — no client names, logos, handles, quotes, screenshots, dashboards, packaging or unreleased work without written permission. Ideas 2 and 4 are the ones most likely to touch client material; use own/spec work by default.
+1. **Confidentiality** — no client names, logos, handles, quotes, screenshots, dashboards, packaging or unreleased work without written permission. Ideas 2 and 4 are the ones most likely to touch client material; use own/spec work by default. R9's "client" line must be **invented**, not a real quote, DM or screenshot.
 2. **Low effort** — ideas 3 and 4 should stay phone-only, unpolished, native text and one sticker; a 15-minute Monday batch can cover the week. No new design system, no shoot setup, no editing pass.
 3. **Keep it buyer-facing** — memes and BTS are the fun part, but the pinned trio and idea 5 are what make a visitor act.
 
@@ -194,15 +195,19 @@ The client is making **R4, R6, R9, R13, R19** and asked for **three TikToks each
 
 *More:* [mood-board-to-design hub](https://www.tiktok.com/discover/mood-board-website-design) · [@thecollectiveco_agency](https://www.tiktok.com/@thecollectiveco_agency) runs a "The Moodboard vs The Outcome" agency series. ⚠️ These show **real client work**; for R6 use **own / spec / fictional-brand** material only (§3 guardrails).
 
-### R9 — "POV: the client says 'make it pop'"
+### R9 — "Client: 'just make it good' → us: say less"
+
+**Recut 8 November 2026:** you meant a **competence flex**, not the designer-frustration "make it pop" joke. The old version laughed *at* the vague brief; this one thanks the client for trusting you, then shows the work. That is more buyer-facing, and it fits the locked bio line better — so the three earlier "make it pop" exemplars are **retired**.
 
 | Exemplar | Creator / indexed title | What to borrow |
 |---|---|---|
-| [TikTok 1](https://www.tiktok.com/@fiverr/video/7296217997557910826) | @fiverr — "POV: you're a freelance graphic designer waiting for someone to explain what 'make it pop' means" | The **deadpan POV + on-screen text** — almost no production |
-| [TikTok 2](https://www.tiktok.com/@boringfriendsdesign/video/6981459471310605574?lang=en) | @boringfriendsdesign — "Asking a graphic designer to 'make it pop'" | A **5-second reaction**, not a skit with setup |
-| [TikTok 3](https://www.tiktok.com/@foxrockettstudio/video/7247435957035715867) | @foxrockettstudio — "Make it pop!!!!!!!!! #designmeme" | A **studio's own version** of the joke — proof an agency can post it too |
+| [TikTok 1](https://www.tiktok.com/@knotlessbycharlynnrae/video/7610368388635938062) | @knotlessbycharlynnrae — "My client told me what she wanted and gave me the freedom to figure out the rest. Say less." | The **"say less" reply as the whole hook** — no explanation, straight to the result |
+| [TikTok 2](https://www.tiktok.com/@lluxuryanddesign/video/7506548069689838879) | @lluxuryanddesign — "You wanted us to make your home more modern and that is actually what we did……" | The **literal "you asked, we did" sentence** as the payoff — no bragging adjectives |
+| [TikTok 3](https://www.tiktok.com/@coma.salon/video/7385937068209360159) | @coma.salon — "Expectation vs Reality. We took her inspo photo and made it a reality x 💯!" | A **two-beat reveal**: the brief / inspo, then what you actually made |
 
-*More:* [make-it-pop-meme hub](https://www.tiktok.com/discover/make-it-pop-meme). Keep it **buyer-facing** — the joke should land for a small-business owner, not only for designers.
+*More:* [#sayless](https://www.tiktok.com/tag/sayless?lang=en) · [@thehavenly](https://www.tiktok.com/@thehavenly?lang=en) posts "Say less. We'll design more." · [before/after room hub](https://www.tiktok.com/discover/before-and-after-room-transformation-apartment) carries the "She said she wanted a pop of green… I said, say less" format.
+
+**Keep it green-tier:** "client" is an **invented** one-line brief (*"just make it good"*), not a real quote, DM or screenshot; the reveal is **own / spec / fictional-brand** work (§3 guardrails). No results or numbers claimed — it is a joke about confidence, not a case study. It stays a **meme / voice** Reel under idea 3, so keep it to **text card → cut → reveal**, with **no process steps**: R6 already owns the messy-table-to-final process. If "say less" reads too US-slang for the MY audience, swap the reply for "on it" / "done" — the structure is unchanged.
 
 ### R13 — "What a shoot day sounds like" (ASMR)
 
