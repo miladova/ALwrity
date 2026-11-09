@@ -10,7 +10,7 @@
 **Revision 7 — 8 November 2026:** records the client's own five-slot **proposal skeleton** in **§17**, separates placement from content series, reads the four listed items against the corpus, and proposes a fifth.
 **Companion to:** [`Destined-Digital-Instagram-Research.md`](Destined-Digital-Instagram-Research.md) (whole-account audit) and [`Destined-Digital-Instagram-Profile-Top-Analysis.md`](Destined-Digital-Instagram-Profile-Top-Analysis.md) (header, Highlights, Stories; **§7.11–§7.13** are the final three-pinned-post answer (About / Services / Proof for now); **§8.10–§8.14** have seventy sourced, clearance-free Story ideas (low-effort re-cut in §8.12) plus twenty chill interactive prompts (§8.14)) 
 **Theory basis:** MKW1120 Lectures 1–10, especially L9 (IMC, communication process, AIDA / 5As, appeals), L7 (services, brand, positioning), L6 (STP), L5 (buyer decision process), L4 (MIS), L2 (relationship marketing)
-**Pitch list:** [`Destined-Digital-Instagram-Pitch-List.md`](Destined-Digital-Instagram-Pitch-List.md) — the client's own five content ideas, with concrete executions to pitch. **§2 of that document has twenty new Reel ideas checked against the 18-post corpus.**
+**Pitch list:** [`Destined-Digital-Instagram-Pitch-List.md`](Destined-Digital-Instagram-Pitch-List.md) — the client's own five content ideas, with concrete executions to pitch. **§2 has twenty new Reel ideas checked against the 18-post corpus; §5 has fifteen TikTok exemplars for the five selected Reels.**
 
 ---
 

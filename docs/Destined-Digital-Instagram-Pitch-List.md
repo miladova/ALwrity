@@ -5,6 +5,7 @@
 **Purpose:** a short list of **your ideas**, in **your words**, each with concrete executions you can pitch — plus **twenty new Reel ideas** built from them. This is not the audit checklist.
 **Revision 2:** redirected to the client's own five ideas. Revision 1's audit-wide 43-item checklist was off-target and has been removed from this document.
 **Revision 3 — 8 November 2026:** adds **§2 — twenty NEW Reel ideas** (four per idea), checked against the observed 18-post corpus so none repeats an existing post.
+**Revision 4 — 8 November 2026:** adds **§5 — three TikTok exemplars each** for the five Reels the client is making (**R4, R6, R9, R13, R19**).
 
 ---
 
@@ -164,3 +165,66 @@ This page is a **pitch aid**, not the analysis. Evidence, caveats and sources si
 All engagement figures are a **mirror sample**, not official analytics. No exhaustive post history, exact visuals, official palette, current pins or current cadence are claimed. No competitor benchmark was in scope. MKW1120 theory applies only where fitting.
 
 **Still open:** written client clearance, whether the "final product" in idea 2 is own or client work, "product poster" scope, live pin state/order, RM1,500 price verification, and whether this audit on public GitHub should be private.
+
+---
+
+## 5. TikTok exemplars for the five Reels you are making
+
+The client is making **R4, R6, R9, R13, R19** and asked for **three TikToks each as exemplars for inspo**. Here are 15 public examples — **format and tone references, not a competitor benchmark** and not Destined Digital content or endorsements.
+
+> **Verification caveat (important):** TikTok returns **HTTP 403 to this environment**, so these links were verified only through the **public search index** — creator handle, video ID, title and indexed caption. The videos could **not be played or pixel-checked** here. Open them in the app; links may be region-gated, login-walled or removed. Borrow the **structure**, never the footage, audio or someone else's brand assets; check licensed/trending sounds in-app for a business account.
+
+### R4 — "What we won't do" (three anti-promises)
+
+| Exemplar | Creator / indexed title | What to borrow |
+|---|---|---|
+| [TikTok 1](https://www.tiktok.com/@alex.b.sheridan/video/7423010126937722154) | @alex.b.sheridan — "Here's what no one tells you about working with marketing agencies" | The **dependency critique**: invert it into "we won't keep you dependent on us" |
+| [TikTok 2](https://www.tiktok.com/@madecreativeco/video/7503833841505815826) | @madecreativeco — "Be smart when picking an agency. Ask for case studies beyond ROAS" | **Red flags as content** — a list of industry habits rather than a self-intro |
+| [TikTok 3](https://www.tiktok.com/@itscarolyngray/video/7519159195954875661) | @itscarolyngray — "Creator Files: Agency Red Flags" | The **numbered, named series** format (5 flags → your 3 anti-promises) |
+
+*More:* [anti-agency discover hub](https://www.tiktok.com/discover/anti-agency). These are **critiques of agencies**; the useful move is to flip them into your own promises over a comfy desk shot.
+
+### R6 — "Moodboard → finished set"
+
+| Exemplar | Creator / indexed title | What to borrow |
+|---|---|---|
+| [TikTok 1](https://www.tiktok.com/@medleydesignstudio/video/7184678765589548294) | @medleydesignstudio — "Moodboard vs final branding #beforeandafter" | The **direct side-by-side reveal** — the whole idea in one cut |
+| [TikTok 2](https://www.tiktok.com/@jzcreativespace/video/7127309781580270894?lang=en) | @jzcreativespace — "The moodboard vs. the branding 🎾✨" | A **single transition** instead of a long explanation |
+| [TikTok 3](https://www.tiktok.com/@brandandbloom/video/7368932832854428970) | @brandandbloom — "The moodboard vs the brand 🍸🤍" | A **three-beat cut to music**: board → in-progress → final |
+
+*More:* [mood-board-to-design hub](https://www.tiktok.com/discover/mood-board-website-design) · [@thecollectiveco_agency](https://www.tiktok.com/@thecollectiveco_agency) runs a "The Moodboard vs The Outcome" agency series. ⚠️ These show **real client work**; for R6 use **own / spec / fictional-brand** material only (§3 guardrails).
+
+### R9 — "POV: the client says 'make it pop'"
+
+| Exemplar | Creator / indexed title | What to borrow |
+|---|---|---|
+| [TikTok 1](https://www.tiktok.com/@fiverr/video/7296217997557910826) | @fiverr — "POV: you're a freelance graphic designer waiting for someone to explain what 'make it pop' means" | The **deadpan POV + on-screen text** — almost no production |
+| [TikTok 2](https://www.tiktok.com/@boringfriendsdesign/video/6981459471310605574?lang=en) | @boringfriendsdesign — "Asking a graphic designer to 'make it pop'" | A **5-second reaction**, not a skit with setup |
+| [TikTok 3](https://www.tiktok.com/@foxrockettstudio/video/7247435957035715867) | @foxrockettstudio — "Make it pop!!!!!!!!! #designmeme" | A **studio's own version** of the joke — proof an agency can post it too |
+
+*More:* [make-it-pop-meme hub](https://www.tiktok.com/discover/make-it-pop-meme). Keep it **buyer-facing** — the joke should land for a small-business owner, not only for designers.
+
+### R13 — "What a shoot day sounds like" (ASMR)
+
+| Exemplar | Creator / indexed title | What to borrow |
+|---|---|---|
+| [TikTok 1](https://www.tiktok.com/@canonusa/video/7306259368352238890) | @canonusa — "✨Canon camera clicks✨ #asmr #camerasounds" | **Pure mechanical sound, no voiceover, no faces** |
+| [TikTok 2](https://www.tiktok.com/@viluong/video/7015308291798469894?lang=en) | @viluong — "camera click sounds at the end got me #photoshoot #asmr" | A **BTS clip that ends on the shutter sound** as the payoff |
+| [TikTok 3](https://www.tiktok.com/@kymagination/video/6903481766842010882) | @kymagination — "Photographers go crazy with this sound 📸" | One **recognisable sound used as the hook** |
+
+*More:* [photography-asmr hub](https://www.tiktok.com/discover/photography-asmr) · [camera-click-sound hub](https://www.tiktok.com/discover/camera-click-sound?lang=en). ⚠️ Much of `#photographyasmr` is **roleplay / sleep content** — borrow only the **sound design** (shutter, tape, coffee machine), not the whispering or roleplay. No client products or screens in your frame.
+
+### R19 — "Spec makeover: a fictional brand in 15 seconds"
+
+| Exemplar | Creator / indexed title | What to borrow |
+|---|---|---|
+| [TikTok 1](https://www.tiktok.com/@katiecarrolldesign/video/7468635482579029281) | @katiecarrolldesign — "Creating a Skincare Brand Identity: Logo Design Process" / "design a fake skincare brand with me" | The **"design a fake brand with me"** framing + final reveal |
+| [TikTok 2](https://www.tiktok.com/@mattrosenman/video/7320744346179882282) | @mattrosenman — "Simply Fanta … What do ya think? #rebranding" | The **"they didn't ask for this" concept** + one-line rationale |
+| [TikTok 3](https://www.tiktok.com/@abiconnick/video/7194892236901895430) | @abiconnick — "Let's design a skincare brand together ✨" | A **fast process-to-reveal** in one clip, no case-study claims |
+
+*More:* [rebrand / concept hub](https://www.tiktok.com/discover/rebrand-brands-video). ⚠️ Matt Rosenman speculatively rebrands **real** brands; Destined must use a **fictional brand** labelled "fictional brief" — otherwise it implies a client relationship and uses third-party marks. That is also what keeps R19 green-tier under §3.
+
+### How to use these in the pitch
+
+Show **one exemplar per Reel**, state the single thing you are borrowing (cut structure, deadpan tone, sound design, "fictional brief" framing), then show your own version. Do **not** present these as performance evidence, a competitor benchmark or a trend guarantee — they are public creative references only, and no view/like figures from them are used here.
+
