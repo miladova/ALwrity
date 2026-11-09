@@ -2,8 +2,9 @@
 
 **Subject:** `@destined.digital` — "Destined Digital | Full-Service Marketing Agency" (Malaysian agency)
 **Prepared:** 8 November 2026 (MYT)
-**Purpose:** a short list of **your ideas**, in **your words**, each with concrete executions you can pitch. This is not the audit checklist.
+**Purpose:** a short list of **your ideas**, in **your words**, each with concrete executions you can pitch — plus **twenty new Reel ideas** built from them. This is not the audit checklist.
 **Revision 2:** redirected to the client's own five ideas. Revision 1's audit-wide 43-item checklist was off-target and has been removed from this document.
+**Revision 3 — 8 November 2026:** adds **§2 — twenty NEW Reel ideas** (four per idea), checked against the observed 18-post corpus so none repeats an existing post.
 
 ---
 
@@ -109,7 +110,42 @@ The **human / BTS** series — the "most aesthetic and casual" part, in your wor
 
 ---
 
-## 2. Three guardrails (keep these short in the pitch)
+## 2. Twenty new Reel ideas
+
+The client asked for **"20 ideas for reels ... new ideas, not something they have yet"**. These are all **`CLIPS` / Reel type**; the topic/subject is a separate axis. Each one is mapped to one of your five ideas above, is **clearance-free (green tier)**, and is phone-only with no new asset, design pass or editing suite.
+
+**What "new" means here:** not present in the **observed 18-post mirror sample** (§14.2 / §15.2 of the posts teardown). The mirror is incomplete and stops at 29 Sep 2026, so **verify in-app** before claiming something has never been posted. Deliberately avoided: the team introduction, account-manager day-in-life, founder faith/values Reel, "Gen Z boss" carousel, crowded-market manifesto, Sunway lecture, the RM1,500 launch-package Reel, the price-rationale podcast clip, the word-search "upgrade your socials", the "last bits of June" photo dump, "smallest tweaks", product-shot BTS, the B2B messaging-clarity Reel, the client testimonial and "industries trust us".
+
+| # | Reel idea (hook → what happens) | Fits idea | Effort |
+|---|---|---|---|
+| **R1** | **"If you're new here: 3 things"** — founder to camera, three text cuts: who we help / what we do / where to start. 15 s | 1 · Pins | ≤5 min |
+| **R2** | **"Who we help"** — three buyer types as three quick text cards, a face on the last cut. No prices | 1 · Pins | ≤5 min |
+| **R3** | **"What we actually do, minus the jargon"** — one plain-English service per 2-second cut; the service range, not the single package | 1 · Pins | ≤5 min |
+| **R4** | **"What we won't do"** — three anti-promises (no fake urgency, no vanity-metric reports, no jargon decks) over a comfy desk shot | 1 · Pins | ≤5 min |
+| **R5** | **"One brief, three directions"** — flip three rough concept cards, land on the final. 12 s. Own or spec work only | 2 · Before/after | ≤10 min |
+| **R6** | **"Moodboard → finished set"** — three phone snaps stitched in-app: messy table → halfway → final | 2 · Before/after | ≤10 min |
+| **R7** | **"The idea we killed"** — show the discarded route, then one line on why it didn't ship | 2 · Before/after | ≤5 min |
+| **R8** | **"Same caption, three hooks"** — three text cards, identical body, different opening lines. No results claimed | 2 · Before/after | ≤5 min |
+| **R9** | **"POV: the client says 'make it pop'"** — 5-second deadpan acted reaction | 3 · Memes | ≤5 min |
+| **R10** | **"Marketing jargon → plain English"** — four quick cuts ("synergy" → "we talked") | 3 · Memes | ≤5 min |
+| **R11** | **"Expectation vs reality: one small revision"** — two-panel acted split | 3 · Memes | ≤5 min |
+| **R12** | **"Types of people on a shoot day"** — three characters played by your own team, no client staff | 3 · Memes | ≤10 min |
+| **R13** | **"What a shoot day sounds like"** — ASMR: camera click, tape, coffee machine; no faces, text only | 4 · Work life | ≤5 min |
+| **R14** | **"The comfy corner"** — 8-second slow pan of the studio corner, no voiceover, one line of text | 4 · Work life | ≤5 min |
+| **R15** | **"30 seconds before we press record"** — the countdown ritual: resetting, breathing, someone counting. Unposed | 4 · Work life | ≤5 min |
+| **R16** | **"Friday 5pm desk reset"** — tidying the desk, end-of-week ritual, 7 s, one trending sound | 4 · Work life | ≤5 min |
+| **R17** | **"We rewrote our own caption — before / after"** — two text cards, one line on what changed. Own account only | 5 · The receipts | ≤5 min |
+| **R18** | **"Three hooks we wrote for the same post"** — three text cards, no voting and no performance claim | 5 · The receipts | ≤5 min |
+| **R19** | **"Spec makeover: a fictional brand in 15 seconds"** — invented brand, three before/after cuts, labelled "fictional brief" | 5 · The receipts | ≤10 min |
+| **R20** | **"What we check before anything goes live"** — phone clip of the actual QC checklist being ticked, four ticks, no client work visible | 5 · The receipts | ≤5 min |
+
+**Format notes (secondary guidance, not Meta rules):** keep them **9–25 s**, matching the account's own observed cluster, with the **hook in the first 1–2 seconds**, captions on, one clear idea and an uploaded 1080×1920 cover ([Hootsuite — Reels for business 2026](https://blog.hootsuite.com/instagram-reels/), [RapidTool — hook earns the first two seconds](https://rapidtoolplus.com/blog/instagram-reels-upload-best-practices-2026/)). Recurring BTS series with a **name** build familiarity and reduce production pressure, and passive capture during a normal workday is the lowest-effort filming method ([Klap — 2026 Reel trends](https://klap.app/blog/instagram-reels-trends), [Postful — Reel trends for business](https://blog.postful.ai/instagram-reel-trends/)). November 2026 trend round-ups still put **raw, unpolished 7–15 s clips** ahead of produced ones ([New Engen](https://newengen.com/insights/instagram-trends/)) — so "aesthetic" stays a feel, not a grading pass. Niche-specific humour works when it exaggerates a truth the audience already lives with ([Gainsty](https://www.gainsty.com/blog/instagram-reel-trends)).
+
+**Guardrails:** green tier only — no client name, logo, handle, quote, dashboard, packaging or unreleased work; own team with consent captured once; own / spec / fictional-brand work in R5–R8 and R19; no unverified statistics (the "Meta 56–70%" claim stays out); one CTA at most; no new design system or editing suite. These are a **menu, not a calendar** — the cadence target lives in posts §14.5.
+
+---
+
+## 3. Three guardrails (keep these short in the pitch)
 
 1. **Confidentiality** — no client names, logos, handles, quotes, screenshots, dashboards, packaging or unreleased work without written permission. Ideas 2 and 4 are the ones most likely to touch client material; use own/spec work by default.
 2. **Low effort** — ideas 3 and 4 should stay phone-only, unpolished, native text and one sticker; a 15-minute Monday batch can cover the week. No new design system, no shoot setup, no editing pass.
@@ -117,7 +153,7 @@ The **human / BTS** series — the "most aesthetic and casual" part, in your wor
 
 ---
 
-## 3. Where the evidence lives
+## 4. Where the evidence lives
 
 This page is a **pitch aid**, not the analysis. Evidence, caveats and sources sit in the three appendices:
 
